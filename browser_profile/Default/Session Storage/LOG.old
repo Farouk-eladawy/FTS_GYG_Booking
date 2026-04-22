@@ -1,20 +1,23 @@
-2026/04/22-11:59:21.402 99b Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/04/22-12:03:07.118 99b Level-0 table #72021: started
-2026/04/22-12:03:07.124 99b Level-0 table #72021: 9439 bytes OK
-2026/04/22-12:03:07.127 99b Delete type=0 #72019
-2026/04/22-12:03:07.128 99b Compacting 4@0 + 3@1 files
-2026/04/22-12:03:07.170 99b Generated table #72022@0: 16149 keys, 2109408 bytes
-2026/04/22-12:03:07.208 99b Generated table #72023@0: 75425 keys, 2150522 bytes
-2026/04/22-12:03:07.241 99b Generated table #72024@0: 65039 keys, 1852440 bytes
-2026/04/22-12:03:07.241 99b Compacted 4@0 + 3@1 files => 6112370 bytes
-2026/04/22-12:03:07.241 99b compacted to: files[ 0 4 17 0 0 0 0 ]
-2026/04/22-12:03:07.242 99b Delete type=2 #72007
-2026/04/22-12:03:07.242 99b Delete type=2 #72017
-2026/04/22-12:03:07.242 99b Delete type=2 #72021
-2026/04/22-12:03:07.242 99b Delete type=2 #72008
-2026/04/22-12:03:07.242 99b Delete type=2 #72011
-2026/04/22-12:03:07.242 99b Delete type=2 #72015
-2026/04/22-12:03:07.242 99b Delete type=2 #72009
-2026/04/22-12:06:17.189 99b Level-0 table #72026: started
-2026/04/22-12:06:17.192 99b Level-0 table #72026: 10897 bytes OK
-2026/04/22-12:06:17.192 99b Delete type=0 #72020
+2026/04/22-13:10:31.862 9c2 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/04/22-13:53:16.254 9c2 Level-0 table #72030: started
+2026/04/22-13:53:16.262 9c2 Level-0 table #72030: 13398 bytes OK
+2026/04/22-13:53:16.263 9c2 Delete type=0 #72028
+2026/04/22-13:56:18.876 9c2 Level-0 table #72032: started
+2026/04/22-13:56:18.880 9c2 Level-0 table #72032: 10471 bytes OK
+2026/04/22-13:56:18.881 9c2 Delete type=0 #72029
+2026/04/22-14:00:44.629 9c2 Level-0 table #72034: started
+2026/04/22-14:00:44.634 9c2 Level-0 table #72034: 13771 bytes OK
+2026/04/22-14:00:44.634 9c2 Delete type=0 #72031
+2026/04/22-14:00:44.634 9c2 Compacting 4@0 + 3@1 files
+2026/04/22-14:00:44.659 9c2 Generated table #72035@0: 16107 keys, 2109747 bytes
+2026/04/22-14:00:44.691 9c2 Generated table #72036@0: 75488 keys, 2151271 bytes
+2026/04/22-14:00:44.716 9c2 Generated table #72037@0: 65225 keys, 1860469 bytes
+2026/04/22-14:00:44.716 9c2 Compacted 4@0 + 3@1 files => 6121487 bytes
+2026/04/22-14:00:44.716 9c2 compacted to: files[ 0 4 17 0 0 0 0 ]
+2026/04/22-14:00:44.717 9c2 Delete type=2 #72022
+2026/04/22-14:00:44.717 9c2 Delete type=2 #72023
+2026/04/22-14:00:44.717 9c2 Delete type=2 #72026
+2026/04/22-14:00:44.717 9c2 Delete type=2 #72032
+2026/04/22-14:00:44.717 9c2 Delete type=2 #72030
+2026/04/22-14:00:44.717 9c2 Delete type=2 #72024
+2026/04/22-14:00:44.717 9c2 Delete type=2 #72034
