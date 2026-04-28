@@ -1,1 +1,13 @@
-2026/04/28-05:40:11.630 93b Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/IndexedDB/https_supplier.getyourguide.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/28-08:09:57.644 9ab Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/IndexedDB/https_supplier.getyourguide.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/28-09:00:41.466 9ab Level-0 table #19999: started
+2026/04/28-09:00:41.470 9ab Level-0 table #19999: 421403 bytes OK
+2026/04/28-09:00:41.470 9ab Delete type=0 #19997
+2026/04/28-09:00:41.470 9ab Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/04/28-09:00:41.471 9ab Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x06\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 6266655 : 1
+2026/04/28-09:00:41.471 9ab Compacting 1@1 + 1@2 files
+2026/04/28-09:00:41.472 9ab Generated table #20000@1: 120 keys, 5267 bytes
+2026/04/28-09:00:41.472 9ab Compacted 1@1 + 1@2 files => 5267 bytes
+2026/04/28-09:00:41.472 9ab compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/28-09:00:41.472 9ab Delete type=2 #19999
+2026/04/28-09:00:41.473 9ab Delete type=2 #19995
+2026/04/28-09:00:41.473 9ab Manual compaction at level-1 from '\x00\x06\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 6266655 : 1 .. (end); will stop at (end)
