@@ -1,45 +1,4 @@
-2026/04/30-16:50:32.121 972 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/04/30-16:53:31.089 972 Level-0 table #73264: started
-2026/04/30-16:53:31.095 972 Level-0 table #73264: 12464 bytes OK
-2026/04/30-16:53:31.096 972 Delete type=0 #73262
-2026/04/30-16:56:13.998 972 Level-0 table #73266: started
-2026/04/30-16:56:14.005 972 Level-0 table #73266: 11848 bytes OK
-2026/04/30-16:56:14.006 972 Delete type=0 #73263
-2026/04/30-16:56:14.007 977 Compacting 4@0 + 3@1 files
-2026/04/30-16:56:14.043 977 Generated table #73267@0: 54979 keys, 2135804 bytes
-2026/04/30-16:56:14.070 977 Generated table #73268@0: 75414 keys, 2150892 bytes
-2026/04/30-16:56:14.084 977 Generated table #73269@0: 41255 keys, 1176900 bytes
-2026/04/30-16:56:14.084 977 Compacted 4@0 + 3@1 files => 5463596 bytes
-2026/04/30-16:56:14.085 977 compacted to: files[ 0 5 22 0 0 0 0 ]
-2026/04/30-16:56:14.085 977 Delete type=2 #73254
-2026/04/30-16:56:14.085 977 Delete type=2 #73258
-2026/04/30-16:56:14.085 977 Delete type=2 #73253
-2026/04/30-16:56:14.085 977 Delete type=2 #73260
-2026/04/30-16:56:14.085 977 Delete type=2 #73252
-2026/04/30-16:56:14.085 977 Delete type=2 #73264
-2026/04/30-16:56:14.085 977 Delete type=2 #73266
-2026/04/30-17:37:38.575 972 Level-0 table #73271: started
-2026/04/30-17:37:38.579 972 Level-0 table #73271: 14930 bytes OK
-2026/04/30-17:37:38.580 972 Delete type=0 #73265
-2026/04/30-17:44:31.239 972 Level-0 table #73273: started
-2026/04/30-17:44:31.253 972 Level-0 table #73273: 570353 bytes OK
-2026/04/30-17:44:31.254 972 Delete type=0 #73270
-2026/04/30-17:47:53.018 976 Level-0 table #73275: started
-2026/04/30-17:47:53.023 976 Level-0 table #73275: 13722 bytes OK
-2026/04/30-17:47:53.024 976 Delete type=0 #73272
-2026/04/30-17:51:30.162 972 Level-0 table #73277: started
-2026/04/30-17:51:30.163 972 Level-0 table #73277: 12527 bytes OK
-2026/04/30-17:51:30.164 972 Delete type=0 #73274
-2026/04/30-17:51:30.165 972 Compacting 4@0 + 3@1 files
-2026/04/30-17:51:30.213 972 Generated table #73278@0: 55001 keys, 2136135 bytes
-2026/04/30-17:51:30.263 972 Generated table #73279@0: 75482 keys, 2151249 bytes
-2026/04/30-17:51:30.292 972 Generated table #73280@0: 41343 keys, 1176828 bytes
-2026/04/30-17:51:30.292 972 Compacted 4@0 + 3@1 files => 5464212 bytes
-2026/04/30-17:51:30.293 972 compacted to: files[ 0 5 22 0 0 0 0 ]
-2026/04/30-17:51:30.293 972 Delete type=2 #73273
-2026/04/30-17:51:30.293 972 Delete type=2 #73275
-2026/04/30-17:51:30.294 972 Delete type=2 #73271
-2026/04/30-17:51:30.294 972 Delete type=2 #73269
-2026/04/30-17:51:30.294 972 Delete type=2 #73277
-2026/04/30-17:51:30.294 972 Delete type=2 #73268
-2026/04/30-17:51:30.294 972 Delete type=2 #73267
+2026/04/30-18:48:41.848 96d Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/04/30-19:08:46.143 96d Level-0 table #73284: started
+2026/04/30-19:08:46.149 96d Level-0 table #73284: 12560 bytes OK
+2026/04/30-19:08:46.151 96d Delete type=0 #73282
