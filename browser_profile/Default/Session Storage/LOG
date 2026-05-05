@@ -1,26 +1,7 @@
-2026/05/04-23:13:14.398 946 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/05/04-23:16:19.081 946 Level-0 table #73998: started
-2026/05/04-23:16:19.082 946 Level-0 table #73998: 10977 bytes OK
-2026/05/04-23:16:19.083 946 Delete type=0 #73996
-2026/05/04-23:19:05.497 946 Level-0 table #74000: started
-2026/05/04-23:19:05.498 946 Level-0 table #74000: 11387 bytes OK
-2026/05/04-23:19:05.499 946 Delete type=0 #73997
-2026/05/04-23:24:38.516 94a Level-0 table #74002: started
-2026/05/04-23:24:38.520 94a Level-0 table #74002: 15173 bytes OK
-2026/05/04-23:24:38.520 94a Delete type=0 #73999
-2026/05/04-23:29:25.628 94a Level-0 table #74004: started
-2026/05/04-23:29:25.630 94a Level-0 table #74004: 13681 bytes OK
-2026/05/04-23:29:25.631 94a Delete type=0 #74001
-2026/05/04-23:29:25.631 94a Compacting 4@0 + 3@1 files
-2026/05/04-23:29:25.675 94a Generated table #74005@0: 75359 keys, 2150426 bytes
-2026/05/04-23:29:25.707 94a Generated table #74006@0: 75421 keys, 2149804 bytes
-2026/05/04-23:29:25.724 94a Generated table #74007@0: 30665 keys, 875233 bytes
-2026/05/04-23:29:25.724 94a Compacted 4@0 + 3@1 files => 5175463 bytes
-2026/05/04-23:29:25.724 94a compacted to: files[ 0 5 26 0 0 0 0 ]
-2026/05/04-23:29:25.725 94a Delete type=2 #74002
-2026/05/04-23:29:25.725 94a Delete type=2 #73998
-2026/05/04-23:29:25.725 94a Delete type=2 #74000
-2026/05/04-23:29:25.725 94a Delete type=2 #74004
-2026/05/04-23:29:25.725 94a Delete type=2 #73993
-2026/05/04-23:29:25.725 94a Delete type=2 #73994
-2026/05/04-23:29:25.725 94a Delete type=2 #73992
+2026/05/04-23:54:36.866 997 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/05/04-23:58:22.163 99b Level-0 table #74011: started
+2026/05/04-23:58:22.169 99b Level-0 table #74011: 9723 bytes OK
+2026/05/04-23:58:22.170 99b Delete type=0 #74009
+2026/05/05-00:01:49.806 99b Level-0 table #74013: started
+2026/05/05-00:01:49.810 99b Level-0 table #74013: 9910 bytes OK
+2026/05/05-00:01:49.811 99b Delete type=0 #74010
