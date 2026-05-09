@@ -1,4 +1,30 @@
-2026/05/09-08:15:44.387 c06 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/05/09-08:20:24.195 c06 Level-0 table #74667: started
-2026/05/09-08:20:24.210 c06 Level-0 table #74667: 568375 bytes OK
-2026/05/09-08:20:24.212 c06 Delete type=0 #74665
+2026/05/09-09:19:49.440 9f1 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/05/09-09:23:05.997 9f5 Level-0 table #74671: started
+2026/05/09-09:23:05.999 9f5 Level-0 table #74671: 12415 bytes OK
+2026/05/09-09:23:06.000 9f5 Delete type=0 #74669
+2026/05/09-09:26:07.915 9f5 Level-0 table #74673: started
+2026/05/09-09:26:07.917 9f5 Level-0 table #74673: 11620 bytes OK
+2026/05/09-09:26:07.918 9f5 Delete type=0 #74670
+2026/05/09-09:26:07.918 9f5 Compacting 4@0 + 3@1 files
+2026/05/09-09:26:07.961 9f5 Generated table #74674@0: 35188 keys, 2121724 bytes
+2026/05/09-09:26:08.005 9f5 Generated table #74675@0: 75376 keys, 2150241 bytes
+2026/05/09-09:26:08.038 9f5 Generated table #74676@0: 75423 keys, 2150961 bytes
+2026/05/09-09:26:08.041 9f5 Generated table #74677@0: 4804 keys, 137015 bytes
+2026/05/09-09:26:08.041 9f5 Compacted 4@0 + 3@1 files => 6559941 bytes
+2026/05/09-09:26:08.042 9f5 compacted to: files[ 0 5 30 0 0 0 0 ]
+2026/05/09-09:26:08.042 9f5 Delete type=2 #74661
+2026/05/09-09:26:08.042 9f5 Delete type=2 #74663
+2026/05/09-09:26:08.042 9f5 Delete type=2 #74673
+2026/05/09-09:26:08.042 9f5 Delete type=2 #74671
+2026/05/09-09:26:08.042 9f5 Delete type=2 #74667
+2026/05/09-09:26:08.042 9f5 Delete type=2 #74659
+2026/05/09-09:26:08.042 9f5 Delete type=2 #74660
+2026/05/09-09:32:58.937 9f5 Level-0 table #74679: started
+2026/05/09-09:32:58.943 9f5 Level-0 table #74679: 13075 bytes OK
+2026/05/09-09:32:58.944 9f5 Delete type=0 #74672
+2026/05/09-09:37:10.688 9f1 Level-0 table #74681: started
+2026/05/09-09:37:10.689 9f1 Level-0 table #74681: 12296 bytes OK
+2026/05/09-09:37:10.691 9f1 Delete type=0 #74678
+2026/05/09-09:40:20.124 9f5 Level-0 table #74683: started
+2026/05/09-09:40:20.128 9f5 Level-0 table #74683: 12272 bytes OK
+2026/05/09-09:40:20.129 9f5 Delete type=0 #74680
