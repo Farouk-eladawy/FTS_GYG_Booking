@@ -1,7 +1,4 @@
-2026/05/10-20:52:40.000 98d Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/05/10-21:00:10.683 991 Level-0 table #6626: started
-2026/05/10-21:00:10.687 991 Level-0 table #6626: 17032 bytes OK
-2026/05/10-21:00:10.688 991 Delete type=0 #6624
-2026/05/10-21:06:40.609 991 Level-0 table #6628: started
-2026/05/10-21:06:40.610 991 Level-0 table #6628: 14845 bytes OK
-2026/05/10-21:06:40.610 991 Delete type=0 #6625
+2026/05/10-22:06:21.158 9a4 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/05/10-22:14:50.570 9a9 Level-0 table #6632: started
+2026/05/10-22:14:50.572 9a9 Level-0 table #6632: 16073 bytes OK
+2026/05/10-22:14:50.573 9a9 Delete type=0 #6630
