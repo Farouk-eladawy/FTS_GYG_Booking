@@ -1,24 +1,7 @@
-2026/05/11-06:44:04.547 9eb Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/05/11-06:47:56.070 9eb Level-0 table #75015: started
-2026/05/11-06:47:56.076 9eb Level-0 table #75015: 11645 bytes OK
-2026/05/11-06:47:56.079 9eb Delete type=0 #75013
-2026/05/11-06:48:46.770 9ef Level-0 table #75017: started
-2026/05/11-06:48:46.783 9ef Level-0 table #75017: 567588 bytes OK
-2026/05/11-06:48:46.785 9ef Delete type=0 #75014
-2026/05/11-06:48:46.785 9ef Compacting 4@0 + 3@1 files
-2026/05/11-06:48:46.821 9ef Generated table #75018@0: 34726 keys, 2122105 bytes
-2026/05/11-06:48:46.858 9ef Generated table #75019@0: 75350 keys, 2150051 bytes
-2026/05/11-06:48:46.892 9ef Generated table #75020@0: 75348 keys, 2151169 bytes
-2026/05/11-06:48:46.897 9ef Generated table #75021@0: 9046 keys, 258907 bytes
-2026/05/11-06:48:46.897 9ef Compacted 4@0 + 3@1 files => 6682232 bytes
-2026/05/11-06:48:46.897 9ef compacted to: files[ 0 5 32 0 0 0 0 ]
-2026/05/11-06:48:46.898 9ef Delete type=2 #75005
-2026/05/11-06:48:46.898 9ef Delete type=2 #75015
-2026/05/11-06:48:46.898 9ef Delete type=2 #75004
-2026/05/11-06:48:46.898 9ef Delete type=2 #75011
-2026/05/11-06:48:46.898 9ef Delete type=2 #75009
-2026/05/11-06:48:46.898 9ef Delete type=2 #75003
-2026/05/11-06:48:46.898 9ef Delete type=2 #75017
-2026/05/11-06:52:26.890 9eb Level-0 table #75023: started
-2026/05/11-06:52:26.895 9eb Level-0 table #75023: 14281 bytes OK
-2026/05/11-06:52:26.896 9eb Delete type=0 #75016
+2026/05/11-07:58:00.222 8a4 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/05/11-08:01:39.261 8a4 Level-0 table #75027: started
+2026/05/11-08:01:39.263 8a4 Level-0 table #75027: 11028 bytes OK
+2026/05/11-08:01:39.266 8a4 Delete type=0 #75025
+2026/05/11-08:02:30.602 8a8 Level-0 table #75029: started
+2026/05/11-08:02:30.622 8a8 Level-0 table #75029: 570582 bytes OK
+2026/05/11-08:02:30.624 8a8 Delete type=0 #75026
