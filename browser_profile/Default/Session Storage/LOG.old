@@ -1,21 +1,7 @@
-2026/05/12-23:21:41.141 95e Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/05/12-23:32:02.569 95e Level-0 table #75233: started
-2026/05/12-23:32:02.574 95e Level-0 table #75233: 13589 bytes OK
-2026/05/12-23:32:02.576 95e Delete type=0 #75231
-2026/05/12-23:32:28.900 95e Level-0 table #75235: started
-2026/05/12-23:32:28.910 95e Level-0 table #75235: 569619 bytes OK
-2026/05/12-23:32:28.912 95e Delete type=0 #75232
-2026/05/12-23:32:28.912 95e Compacting 4@0 + 3@1 files
-2026/05/12-23:32:28.939 95e Generated table #75236@0: 34518 keys, 2122686 bytes
-2026/05/12-23:32:28.966 95e Generated table #75237@0: 75363 keys, 2150675 bytes
-2026/05/12-23:32:28.994 95e Generated table #75238@0: 75351 keys, 2150366 bytes
-2026/05/12-23:32:28.999 95e Generated table #75239@0: 11647 keys, 332844 bytes
-2026/05/12-23:32:28.999 95e Compacted 4@0 + 3@1 files => 6756571 bytes
-2026/05/12-23:32:28.999 95e compacted to: files[ 0 5 33 0 0 0 0 ]
-2026/05/12-23:32:28.999 95e Delete type=2 #75224
-2026/05/12-23:32:28.999 95e Delete type=2 #75229
-2026/05/12-23:32:28.999 95e Delete type=2 #75223
-2026/05/12-23:32:28.999 95e Delete type=2 #75227
-2026/05/12-23:32:29.000 95e Delete type=2 #75225
-2026/05/12-23:32:29.000 95e Delete type=2 #75235
-2026/05/12-23:32:29.000 95e Delete type=2 #75233
+2026/05/13-00:35:30.287 937 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/05/13-00:38:56.142 93b Level-0 table #75243: started
+2026/05/13-00:38:56.147 93b Level-0 table #75243: 11986 bytes OK
+2026/05/13-00:38:56.149 93b Delete type=0 #75241
+2026/05/13-00:41:57.693 93b Level-0 table #75245: started
+2026/05/13-00:41:57.698 93b Level-0 table #75245: 11636 bytes OK
+2026/05/13-00:41:57.699 93b Delete type=0 #75242
