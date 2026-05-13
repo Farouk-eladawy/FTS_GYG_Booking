@@ -1,19 +1,4 @@
-2026/05/13-14:08:19.414 976 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/05/13-14:15:16.476 97b Level-0 table #6902: started
-2026/05/13-14:15:16.478 97b Level-0 table #6902: 16148 bytes OK
-2026/05/13-14:15:16.479 97b Delete type=0 #6900
-2026/05/13-14:21:19.865 97a Level-0 table #6904: started
-2026/05/13-14:21:19.867 97a Level-0 table #6904: 16660 bytes OK
-2026/05/13-14:21:19.868 97a Delete type=0 #6901
-2026/05/13-14:21:19.868 97a Compacting 4@0 + 1@1 files
-2026/05/13-14:21:19.870 97a Generated table #6905@0: 466 keys, 21898 bytes
-2026/05/13-14:21:19.870 97a Compacted 4@0 + 1@1 files => 21898 bytes
-2026/05/13-14:21:19.870 97a compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/05/13-14:21:19.870 97a Delete type=2 #6904
-2026/05/13-14:21:19.870 97a Delete type=2 #6898
-2026/05/13-14:21:19.870 97a Delete type=2 #6902
-2026/05/13-14:21:19.870 97a Delete type=2 #6894
-2026/05/13-14:21:19.870 97a Delete type=2 #6892
-2026/05/13-14:28:19.866 97a Level-0 table #6907: started
-2026/05/13-14:28:19.867 97a Level-0 table #6907: 14557 bytes OK
-2026/05/13-14:28:19.868 97a Delete type=0 #6903
+2026/05/13-15:22:22.038 94d Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/05/13-15:29:23.495 94d Level-0 table #6911: started
+2026/05/13-15:29:23.498 94d Level-0 table #6911: 15949 bytes OK
+2026/05/13-15:29:23.499 94d Delete type=0 #6909
