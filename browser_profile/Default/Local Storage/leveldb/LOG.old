@@ -1,22 +1,13 @@
-2026/05/16-10:50:07.050 977 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/05/16-10:57:08.064 97b Level-0 table #7258: started
-2026/05/16-10:57:08.066 97b Level-0 table #7258: 15973 bytes OK
-2026/05/16-10:57:08.066 97b Delete type=0 #7256
-2026/05/16-10:57:08.066 97b Compacting 4@0 + 1@1 files
-2026/05/16-10:57:08.068 97b Generated table #7259@0: 555 keys, 25832 bytes
-2026/05/16-10:57:08.068 97b Compacted 4@0 + 1@1 files => 25832 bytes
-2026/05/16-10:57:08.069 97b compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/05/16-10:57:08.069 97b Delete type=2 #7254
-2026/05/16-10:57:08.069 97b Delete type=2 #7258
-2026/05/16-10:57:08.069 97b Delete type=2 #7244
-2026/05/16-10:57:08.069 97b Delete type=2 #7246
-2026/05/16-10:57:08.069 97b Delete type=2 #7250
-2026/05/16-10:59:26.304 977 Level-0 table #7261: started
-2026/05/16-10:59:26.315 977 Level-0 table #7261: 16480 bytes OK
-2026/05/16-10:59:26.316 977 Delete type=0 #7257
-2026/05/16-11:03:18.127 977 Level-0 table #7263: started
-2026/05/16-11:03:18.133 977 Level-0 table #7263: 15787 bytes OK
-2026/05/16-11:03:18.133 977 Delete type=0 #7260
-2026/05/16-11:11:08.065 97b Level-0 table #7265: started
-2026/05/16-11:11:08.066 97b Level-0 table #7265: 15996 bytes OK
-2026/05/16-11:11:08.069 97b Delete type=0 #7262
+2026/05/16-12:04:02.350 96d Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/05/16-12:10:56.764 96d Level-0 table #7269: started
+2026/05/16-12:10:56.788 96d Level-0 table #7269: 16040 bytes OK
+2026/05/16-12:10:56.790 96d Delete type=0 #7267
+2026/05/16-12:10:56.791 96d Compacting 4@0 + 1@1 files
+2026/05/16-12:10:56.793 96d Generated table #7270@0: 557 keys, 25829 bytes
+2026/05/16-12:10:56.794 96d Compacted 4@0 + 1@1 files => 25829 bytes
+2026/05/16-12:10:56.794 96d compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/16-12:10:56.794 96d Delete type=2 #7261
+2026/05/16-12:10:56.795 96d Delete type=2 #7263
+2026/05/16-12:10:56.795 96d Delete type=2 #7269
+2026/05/16-12:10:56.795 96d Delete type=2 #7259
+2026/05/16-12:10:56.795 96d Delete type=2 #7265
