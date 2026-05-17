@@ -1,28 +1,4 @@
-2026/05/17-22:31:08.930 99c Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/05/17-22:37:56.591 9a0 Level-0 table #7463: started
-2026/05/17-22:37:56.598 9a0 Level-0 table #7463: 15989 bytes OK
-2026/05/17-22:37:56.598 9a0 Delete type=0 #7461
-2026/05/17-23:09:46.534 9a0 Level-0 table #7465: started
-2026/05/17-23:09:46.535 9a0 Level-0 table #7465: 16464 bytes OK
-2026/05/17-23:09:46.536 9a0 Delete type=0 #7462
-2026/05/17-23:14:16.016 9a0 Level-0 table #7467: started
-2026/05/17-23:14:16.022 9a0 Level-0 table #7467: 14121 bytes OK
-2026/05/17-23:14:16.023 9a0 Delete type=0 #7464
-2026/05/17-23:15:42.676 9a0 Level-0 table #7469: started
-2026/05/17-23:15:42.680 9a0 Level-0 table #7469: 16141 bytes OK
-2026/05/17-23:15:42.680 9a0 Delete type=0 #7466
-2026/05/17-23:15:42.680 9a0 Compacting 4@0 + 1@1 files
-2026/05/17-23:15:42.682 9a0 Generated table #7470@0: 605 keys, 24984 bytes
-2026/05/17-23:15:42.682 9a0 Compacted 4@0 + 1@1 files => 24984 bytes
-2026/05/17-23:15:42.682 9a0 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/05/17-23:15:42.682 9a0 Delete type=2 #7459
-2026/05/17-23:15:42.682 9a0 Delete type=2 #7467
-2026/05/17-23:15:42.682 9a0 Delete type=2 #7465
-2026/05/17-23:15:42.682 9a0 Delete type=2 #7463
-2026/05/17-23:15:42.682 9a0 Delete type=2 #7469
-2026/05/17-23:20:29.531 99c Level-0 table #7472: started
-2026/05/17-23:20:29.537 99c Level-0 table #7472: 15439 bytes OK
-2026/05/17-23:20:29.538 99c Delete type=0 #7468
-2026/05/17-23:27:09.617 9a0 Level-0 table #7474: started
-2026/05/17-23:27:09.619 9a0 Level-0 table #7474: 14740 bytes OK
-2026/05/17-23:27:09.619 9a0 Delete type=0 #7471
+2026/05/17-23:44:58.814 931 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/05/17-23:53:06.644 931 Level-0 table #7478: started
+2026/05/17-23:53:06.646 931 Level-0 table #7478: 16226 bytes OK
+2026/05/17-23:53:06.646 931 Delete type=0 #7476
