@@ -1,28 +1,4 @@
-2026/05/20-01:00:54.542 961 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/05/20-01:08:02.544 961 Level-0 table #7732: started
-2026/05/20-01:08:02.546 961 Level-0 table #7732: 16937 bytes OK
-2026/05/20-01:08:02.547 961 Delete type=0 #7730
-2026/05/20-01:42:16.849 965 Level-0 table #7734: started
-2026/05/20-01:42:16.851 965 Level-0 table #7734: 15429 bytes OK
-2026/05/20-01:42:16.852 965 Delete type=0 #7731
-2026/05/20-01:44:29.204 965 Level-0 table #7736: started
-2026/05/20-01:44:29.207 965 Level-0 table #7736: 16891 bytes OK
-2026/05/20-01:44:29.208 965 Delete type=0 #7733
-2026/05/20-01:45:56.144 965 Level-0 table #7738: started
-2026/05/20-01:45:56.148 965 Level-0 table #7738: 16876 bytes OK
-2026/05/20-01:45:56.148 965 Delete type=0 #7735
-2026/05/20-01:45:56.148 965 Compacting 4@0 + 1@1 files
-2026/05/20-01:45:56.150 965 Generated table #7739@0: 676 keys, 28340 bytes
-2026/05/20-01:45:56.151 965 Compacted 4@0 + 1@1 files => 28340 bytes
-2026/05/20-01:45:56.151 965 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/05/20-01:45:56.151 965 Delete type=2 #7736
-2026/05/20-01:45:56.151 965 Delete type=2 #7732
-2026/05/20-01:45:56.151 965 Delete type=2 #7734
-2026/05/20-01:45:56.151 965 Delete type=2 #7728
-2026/05/20-01:45:56.151 965 Delete type=2 #7738
-2026/05/20-01:50:20.598 965 Level-0 table #7741: started
-2026/05/20-01:50:20.603 965 Level-0 table #7741: 15968 bytes OK
-2026/05/20-01:50:20.604 965 Delete type=0 #7737
-2026/05/20-01:54:55.381 965 Level-0 table #7743: started
-2026/05/20-01:54:55.384 965 Level-0 table #7743: 15263 bytes OK
-2026/05/20-01:54:55.385 965 Delete type=0 #7740
+2026/05/20-02:14:46.142 96d Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/05/20-02:23:45.487 969 Level-0 table #7747: started
+2026/05/20-02:23:45.489 969 Level-0 table #7747: 16886 bytes OK
+2026/05/20-02:23:45.494 969 Delete type=0 #7745
