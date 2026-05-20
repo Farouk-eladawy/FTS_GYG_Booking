@@ -1,27 +1,4 @@
-2026/05/20-10:52:15.389 926 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/05/20-10:56:49.318 926 Level-0 table #76843: started
-2026/05/20-10:56:49.334 926 Level-0 table #76843: 569432 bytes OK
-2026/05/20-10:56:49.336 926 Delete type=0 #76841
-2026/05/20-11:04:16.819 92a Level-0 table #76845: started
-2026/05/20-11:04:16.832 92a Level-0 table #76845: 574963 bytes OK
-2026/05/20-11:04:16.834 92a Delete type=0 #76842
-2026/05/20-11:04:16.835 92a Compacting 4@0 + 3@1 files
-2026/05/20-11:04:16.899 92a Generated table #76846@0: 54764 keys, 2136386 bytes
-2026/05/20-11:04:16.978 92a Generated table #76847@0: 75303 keys, 2150194 bytes
-2026/05/20-11:04:17.046 92a Generated table #76848@0: 75345 keys, 2151374 bytes
-2026/05/20-11:04:17.054 92a Generated table #76849@0: 5978 keys, 171092 bytes
-2026/05/20-11:04:17.054 92a Compacted 4@0 + 3@1 files => 6609046 bytes
-2026/05/20-11:04:17.058 92a compacted to: files[ 0 5 38 0 0 0 0 ]
-2026/05/20-11:04:17.059 92a Delete type=2 #76833
-2026/05/20-11:04:17.059 92a Delete type=2 #76839
-2026/05/20-11:04:17.059 92a Delete type=2 #76845
-2026/05/20-11:04:17.059 92a Delete type=2 #76837
-2026/05/20-11:04:17.059 92a Delete type=2 #76832
-2026/05/20-11:04:17.059 92a Delete type=2 #76831
-2026/05/20-11:04:17.059 92a Delete type=2 #76843
-2026/05/20-11:07:56.999 92a Level-0 table #76851: started
-2026/05/20-11:07:57.005 92a Level-0 table #76851: 12227 bytes OK
-2026/05/20-11:07:57.006 92a Delete type=0 #76844
-2026/05/20-11:12:31.754 926 Level-0 table #76853: started
-2026/05/20-11:12:31.760 926 Level-0 table #76853: 12164 bytes OK
-2026/05/20-11:12:31.762 926 Delete type=0 #76850
+2026/05/20-12:06:16.524 993 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/05/20-12:16:03.434 997 Level-0 table #76857: started
+2026/05/20-12:16:03.447 997 Level-0 table #76857: 576012 bytes OK
+2026/05/20-12:16:03.449 997 Delete type=0 #76855
