@@ -1,31 +1,7 @@
-2026/05/21-07:49:40.097 983 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/05/21-07:53:04.920 983 Level-0 table #76971: started
-2026/05/21-07:53:04.923 983 Level-0 table #76971: 11219 bytes OK
-2026/05/21-07:53:04.925 983 Delete type=0 #76969
-2026/05/21-07:56:09.033 983 Level-0 table #76973: started
-2026/05/21-07:56:09.037 983 Level-0 table #76973: 10982 bytes OK
-2026/05/21-07:56:09.038 983 Delete type=0 #76970
-2026/05/21-08:02:48.852 987 Level-0 table #76975: started
-2026/05/21-08:02:48.858 987 Level-0 table #76975: 15825 bytes OK
-2026/05/21-08:02:48.859 987 Delete type=0 #76972
-2026/05/21-08:06:08.101 983 Level-0 table #76977: started
-2026/05/21-08:06:08.105 983 Level-0 table #76977: 13922 bytes OK
-2026/05/21-08:06:08.106 983 Delete type=0 #76974
-2026/05/21-08:06:08.106 987 Compacting 4@0 + 4@1 files
-2026/05/21-08:06:08.145 987 Generated table #76978@0: 34421 keys, 2122543 bytes
-2026/05/21-08:06:08.183 987 Generated table #76979@0: 75308 keys, 2149133 bytes
-2026/05/21-08:06:08.211 987 Generated table #76980@0: 75284 keys, 2150035 bytes
-2026/05/21-08:06:08.222 987 Generated table #76981@0: 28140 keys, 804033 bytes
-2026/05/21-08:06:08.222 987 Compacted 4@0 + 4@1 files => 7225744 bytes
-2026/05/21-08:06:08.223 987 compacted to: files[ 0 5 38 0 0 0 0 ]
-2026/05/21-08:06:08.223 987 Delete type=2 #76967
-2026/05/21-08:06:08.223 987 Delete type=2 #76966
-2026/05/21-08:06:08.223 987 Delete type=2 #76971
-2026/05/21-08:06:08.223 987 Delete type=2 #76964
-2026/05/21-08:06:08.223 987 Delete type=2 #76977
-2026/05/21-08:06:08.223 987 Delete type=2 #76965
-2026/05/21-08:06:08.223 987 Delete type=2 #76973
-2026/05/21-08:06:08.223 987 Delete type=2 #76975
-2026/05/21-08:09:20.492 983 Level-0 table #76983: started
-2026/05/21-08:09:20.496 983 Level-0 table #76983: 15538 bytes OK
-2026/05/21-08:09:20.497 983 Delete type=0 #76976
+2026/05/21-09:03:40.026 965 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/05/21-09:06:54.704 965 Level-0 table #76987: started
+2026/05/21-09:06:54.709 965 Level-0 table #76987: 11524 bytes OK
+2026/05/21-09:06:54.712 965 Delete type=0 #76985
+2026/05/21-09:10:04.261 965 Level-0 table #76989: started
+2026/05/21-09:10:04.263 965 Level-0 table #76989: 12897 bytes OK
+2026/05/21-09:10:04.264 965 Delete type=0 #76986
