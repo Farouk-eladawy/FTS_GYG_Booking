@@ -1,22 +1,10 @@
-2026/05/22-14:38:59.278 915 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/05/22-14:45:42.455 915 Level-0 table #8100: started
-2026/05/22-14:45:42.458 915 Level-0 table #8100: 17235 bytes OK
-2026/05/22-14:45:42.459 915 Delete type=0 #8098
-2026/05/22-14:49:31.376 919 Level-0 table #8102: started
-2026/05/22-14:49:31.382 919 Level-0 table #8102: 16637 bytes OK
-2026/05/22-14:49:31.385 919 Delete type=0 #8099
-2026/05/22-14:52:44.964 915 Level-0 table #8104: started
-2026/05/22-14:52:44.966 915 Level-0 table #8104: 15967 bytes OK
-2026/05/22-14:52:44.967 915 Delete type=0 #8101
-2026/05/22-14:59:59.828 919 Level-0 table #8106: started
-2026/05/22-14:59:59.833 919 Level-0 table #8106: 15048 bytes OK
-2026/05/22-14:59:59.834 919 Delete type=0 #8103
-2026/05/22-14:59:59.834 915 Compacting 4@0 + 1@1 files
-2026/05/22-14:59:59.836 915 Generated table #8107@0: 762 keys, 30410 bytes
-2026/05/22-14:59:59.836 915 Compacted 4@0 + 1@1 files => 30410 bytes
-2026/05/22-14:59:59.837 915 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/05/22-14:59:59.837 915 Delete type=2 #8106
-2026/05/22-14:59:59.837 915 Delete type=2 #8102
-2026/05/22-14:59:59.837 915 Delete type=2 #8100
-2026/05/22-14:59:59.837 915 Delete type=2 #8104
-2026/05/22-14:59:59.837 915 Delete type=2 #8096
+2026/05/22-15:52:40.178 944 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/05/22-15:59:40.786 944 Level-0 table #8111: started
+2026/05/22-15:59:40.789 944 Level-0 table #8111: 15010 bytes OK
+2026/05/22-15:59:40.790 944 Delete type=0 #8109
+2026/05/22-16:03:25.383 944 Level-0 table #8113: started
+2026/05/22-16:03:25.390 944 Level-0 table #8113: 17083 bytes OK
+2026/05/22-16:03:25.391 944 Delete type=0 #8110
+2026/05/22-16:10:40.787 944 Level-0 table #8115: started
+2026/05/22-16:10:40.791 944 Level-0 table #8115: 15370 bytes OK
+2026/05/22-16:10:40.792 944 Delete type=0 #8112
