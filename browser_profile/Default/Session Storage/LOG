@@ -1,4 +1,27 @@
-2026/05/24-12:13:17.210 974 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/05/24-12:17:46.468 974 Level-0 table #77887: started
-2026/05/24-12:17:46.486 974 Level-0 table #77887: 570403 bytes OK
-2026/05/24-12:17:46.488 974 Delete type=0 #77885
+2026/05/24-13:28:15.846 971 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/05/24-13:31:38.198 971 Level-0 table #77891: started
+2026/05/24-13:31:38.203 971 Level-0 table #77891: 12493 bytes OK
+2026/05/24-13:31:38.205 971 Delete type=0 #77889
+2026/05/24-13:33:03.256 975 Level-0 table #77893: started
+2026/05/24-13:33:03.266 975 Level-0 table #77893: 572996 bytes OK
+2026/05/24-13:33:03.268 975 Delete type=0 #77890
+2026/05/24-13:40:42.757 975 Level-0 table #77895: started
+2026/05/24-13:40:42.767 975 Level-0 table #77895: 580745 bytes OK
+2026/05/24-13:40:42.769 975 Delete type=0 #77892
+2026/05/24-13:40:42.769 975 Compacting 4@0 + 3@1 files
+2026/05/24-13:40:42.813 975 Generated table #77896@0: 34641 keys, 2123065 bytes
+2026/05/24-13:40:42.854 975 Generated table #77897@0: 75310 keys, 2151029 bytes
+2026/05/24-13:40:42.885 975 Generated table #77898@0: 75308 keys, 2150473 bytes
+2026/05/24-13:40:42.901 975 Generated table #77899@0: 35015 keys, 1001251 bytes
+2026/05/24-13:40:42.901 975 Compacted 4@0 + 3@1 files => 7425818 bytes
+2026/05/24-13:40:42.902 975 compacted to: files[ 0 5 43 0 0 0 0 ]
+2026/05/24-13:40:42.902 975 Delete type=2 #77881
+2026/05/24-13:40:42.902 975 Delete type=2 #77891
+2026/05/24-13:40:42.902 975 Delete type=2 #77882
+2026/05/24-13:40:42.902 975 Delete type=2 #77893
+2026/05/24-13:40:42.902 975 Delete type=2 #77895
+2026/05/24-13:40:42.902 975 Delete type=2 #77883
+2026/05/24-13:40:42.902 975 Delete type=2 #77887
+2026/05/24-13:48:50.345 971 Level-0 table #77901: started
+2026/05/24-13:48:50.346 971 Level-0 table #77901: 13195 bytes OK
+2026/05/24-13:48:50.348 971 Delete type=0 #77894
