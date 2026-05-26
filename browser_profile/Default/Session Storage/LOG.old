@@ -1,4 +1,32 @@
-2026/05/26-17:15:09.615 943 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/05/26-17:19:34.150 947 Level-0 table #78261: started
-2026/05/26-17:19:34.165 947 Level-0 table #78261: 573106 bytes OK
-2026/05/26-17:19:34.166 947 Delete type=0 #78259
+2026/05/26-18:29:01.340 978 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/05/26-18:32:36.855 97c Level-0 table #78265: started
+2026/05/26-18:32:36.860 97c Level-0 table #78265: 11529 bytes OK
+2026/05/26-18:32:36.862 97c Delete type=0 #78263
+2026/05/26-18:33:52.752 978 Level-0 table #78267: started
+2026/05/26-18:33:52.762 978 Level-0 table #78267: 572530 bytes OK
+2026/05/26-18:33:52.763 978 Delete type=0 #78264
+2026/05/26-18:37:42.774 97c Level-0 table #78269: started
+2026/05/26-18:37:42.779 97c Level-0 table #78269: 14468 bytes OK
+2026/05/26-18:37:42.780 97c Delete type=0 #78266
+2026/05/26-18:37:42.780 97c Compacting 4@0 + 4@1 files
+2026/05/26-18:37:42.806 97c Generated table #78270@0: 30 keys, 2276023 bytes
+2026/05/26-18:37:42.841 97c Generated table #78271@0: 75247 keys, 2150186 bytes
+2026/05/26-18:37:42.873 97c Generated table #78272@0: 75309 keys, 2149565 bytes
+2026/05/26-18:37:42.904 97c Generated table #78273@0: 74373 keys, 2125167 bytes
+2026/05/26-18:37:42.904 97c Compacted 4@0 + 4@1 files => 8700941 bytes
+2026/05/26-18:37:42.904 97c compacted to: files[ 0 5 45 0 0 0 0 ]
+2026/05/26-18:37:42.905 97c Delete type=2 #78261
+2026/05/26-18:37:42.905 97c Delete type=2 #78257
+2026/05/26-18:37:42.905 97c Delete type=2 #78267
+2026/05/26-18:37:42.905 97c Delete type=2 #78256
+2026/05/26-18:37:42.905 97c Delete type=2 #78254
+2026/05/26-18:37:42.905 97c Delete type=2 #78255
+2026/05/26-18:37:42.905 97c Delete type=2 #78265
+2026/05/26-18:37:42.905 97c Delete type=2 #78269
+2026/05/26-18:37:42.907 97c Moved #78108 to level-2 2272940 bytes OK: files[ 0 4 46 0 0 0 0 ]
+2026/05/26-18:46:00.189 97c Level-0 table #78275: started
+2026/05/26-18:46:00.193 97c Level-0 table #78275: 14394 bytes OK
+2026/05/26-18:46:00.194 97c Delete type=0 #78268
+2026/05/26-18:50:11.551 97c Level-0 table #78277: started
+2026/05/26-18:50:11.553 97c Level-0 table #78277: 13608 bytes OK
+2026/05/26-18:50:11.554 97c Delete type=0 #78274
