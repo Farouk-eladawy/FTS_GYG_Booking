@@ -1,22 +1,13 @@
-2026/05/27-08:01:32.754 96e Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/05/27-08:07:33.771 972 Level-0 table #8790: started
-2026/05/27-08:07:33.773 972 Level-0 table #8790: 15781 bytes OK
-2026/05/27-08:07:33.774 972 Delete type=0 #8788
-2026/05/27-08:07:33.774 972 Compacting 4@0 + 1@1 files
-2026/05/27-08:07:33.776 972 Generated table #8791@0: 928 keys, 35367 bytes
-2026/05/27-08:07:33.776 972 Compacted 4@0 + 1@1 files => 35367 bytes
-2026/05/27-08:07:33.776 972 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/05/27-08:07:33.776 972 Delete type=2 #8786
-2026/05/27-08:07:33.776 972 Delete type=2 #8784
-2026/05/27-08:07:33.776 972 Delete type=2 #8778
-2026/05/27-08:07:33.776 972 Delete type=2 #8782
-2026/05/27-08:07:33.776 972 Delete type=2 #8790
-2026/05/27-08:10:20.932 96e Level-0 table #8793: started
-2026/05/27-08:10:20.937 96e Level-0 table #8793: 15775 bytes OK
-2026/05/27-08:10:20.938 96e Delete type=0 #8789
-2026/05/27-08:15:33.771 972 Level-0 table #8795: started
-2026/05/27-08:15:33.777 972 Level-0 table #8795: 16316 bytes OK
-2026/05/27-08:15:33.777 972 Delete type=0 #8792
-2026/05/27-08:20:33.770 972 Level-0 table #8797: started
-2026/05/27-08:20:33.774 972 Level-0 table #8797: 16853 bytes OK
-2026/05/27-08:20:33.775 972 Delete type=0 #8794
+2026/05/27-09:15:32.672 983 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/05/27-09:23:33.152 97e Level-0 table #8801: started
+2026/05/27-09:23:33.156 97e Level-0 table #8801: 16144 bytes OK
+2026/05/27-09:23:33.156 97e Delete type=0 #8799
+2026/05/27-09:23:33.157 97e Compacting 4@0 + 1@1 files
+2026/05/27-09:23:33.159 97e Generated table #8802@0: 930 keys, 35422 bytes
+2026/05/27-09:23:33.159 97e Compacted 4@0 + 1@1 files => 35422 bytes
+2026/05/27-09:23:33.159 97e compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/27-09:23:33.160 97e Delete type=2 #8801
+2026/05/27-09:23:33.160 97e Delete type=2 #8797
+2026/05/27-09:23:33.160 97e Delete type=2 #8793
+2026/05/27-09:23:33.160 97e Delete type=2 #8791
+2026/05/27-09:23:33.160 97e Delete type=2 #8795
