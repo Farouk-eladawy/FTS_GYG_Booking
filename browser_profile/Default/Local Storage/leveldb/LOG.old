@@ -1,4 +1,28 @@
-2026/05/27-03:05:59.059 971 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/05/27-03:13:59.535 971 Level-0 table #8758: started
-2026/05/27-03:13:59.536 971 Level-0 table #8758: 16880 bytes OK
-2026/05/27-03:13:59.537 971 Delete type=0 #8756
+2026/05/27-04:19:54.849 92f Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/05/27-04:26:55.771 933 Level-0 table #8762: started
+2026/05/27-04:26:55.774 933 Level-0 table #8762: 15558 bytes OK
+2026/05/27-04:26:55.774 933 Delete type=0 #8760
+2026/05/27-04:28:55.770 933 Level-0 table #8764: started
+2026/05/27-04:28:55.771 933 Level-0 table #8764: 16670 bytes OK
+2026/05/27-04:28:55.772 933 Delete type=0 #8761
+2026/05/27-05:03:11.328 933 Level-0 table #8766: started
+2026/05/27-05:03:11.332 933 Level-0 table #8766: 15914 bytes OK
+2026/05/27-05:03:11.333 933 Delete type=0 #8763
+2026/05/27-05:03:11.333 933 Compacting 4@0 + 1@1 files
+2026/05/27-05:03:11.335 933 Generated table #8767@0: 923 keys, 35470 bytes
+2026/05/27-05:03:11.335 933 Compacted 4@0 + 1@1 files => 35470 bytes
+2026/05/27-05:03:11.335 933 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/27-05:03:11.336 933 Delete type=2 #8758
+2026/05/27-05:03:11.336 933 Delete type=2 #8762
+2026/05/27-05:03:11.336 933 Delete type=2 #8764
+2026/05/27-05:03:11.336 933 Delete type=2 #8754
+2026/05/27-05:03:11.336 933 Delete type=2 #8766
+2026/05/27-05:04:35.274 933 Level-0 table #8769: started
+2026/05/27-05:04:35.278 933 Level-0 table #8769: 16303 bytes OK
+2026/05/27-05:04:35.278 933 Delete type=0 #8765
+2026/05/27-05:08:39.279 92f Level-0 table #8771: started
+2026/05/27-05:08:39.282 92f Level-0 table #8771: 16163 bytes OK
+2026/05/27-05:08:39.283 92f Delete type=0 #8768
+2026/05/27-05:14:55.771 933 Level-0 table #8773: started
+2026/05/27-05:14:55.772 933 Level-0 table #8773: 17129 bytes OK
+2026/05/27-05:14:55.773 933 Delete type=0 #8770

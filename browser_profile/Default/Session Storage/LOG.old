@@ -1,6 +1,26 @@
-2026/05/27-03:05:59.543 96d Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/05/27-03:10:52.211 96d Level-0 table #78340: started
-2026/05/27-03:10:52.227 96d Level-0 table #78340: 575071 bytes OK
-2026/05/27-03:10:52.228 96d Delete type=0 #78338
-2026/05/27-03:16:37.139 972 Level-0 table #78342: started
-2026/05/27-03:16:37.140 972 Level-0 table #78342: 15307 bytes OK
+2026/05/27-04:19:55.782 92f Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/05/27-04:19:55.786 92f Delete type=2 #78342
+2026/05/27-05:03:42.828 92f Level-0 table #78344: started
+2026/05/27-05:03:42.833 92f Level-0 table #78344: 13753 bytes OK
+2026/05/27-05:03:42.835 92f Delete type=0 #78342
+2026/05/27-05:03:42.835 92f Compacting 4@0 + 4@1 files
+2026/05/27-05:03:42.875 92f Generated table #78345@0: 13939 keys, 2107968 bytes
+2026/05/27-05:03:42.913 92f Generated table #78346@0: 75302 keys, 2151176 bytes
+2026/05/27-05:03:42.955 92f Generated table #78347@0: 75341 keys, 2150974 bytes
+2026/05/27-05:03:42.992 92f Generated table #78348@0: 61230 keys, 1748168 bytes
+2026/05/27-05:03:42.992 92f Compacted 4@0 + 4@1 files => 8158286 bytes
+2026/05/27-05:03:42.993 92f compacted to: files[ 0 5 46 0 0 0 0 ]
+2026/05/27-05:03:42.993 92f Delete type=2 #78332
+2026/05/27-05:03:42.993 92f Delete type=2 #78334
+2026/05/27-05:03:42.993 92f Delete type=2 #78344
+2026/05/27-05:03:42.993 92f Delete type=2 #78340
+2026/05/27-05:03:42.993 92f Delete type=2 #78330
+2026/05/27-05:03:42.993 92f Delete type=2 #78336
+2026/05/27-05:03:42.993 92f Delete type=2 #78329
+2026/05/27-05:03:42.993 92f Delete type=2 #78331
+2026/05/27-05:06:51.820 933 Level-0 table #78350: started
+2026/05/27-05:06:51.826 933 Level-0 table #78350: 12289 bytes OK
+2026/05/27-05:06:51.828 933 Delete type=0 #78343
+2026/05/27-05:12:24.000 933 Level-0 table #78352: started
+2026/05/27-05:12:24.007 933 Level-0 table #78352: 11653 bytes OK
+2026/05/27-05:12:24.009 933 Delete type=0 #78349
