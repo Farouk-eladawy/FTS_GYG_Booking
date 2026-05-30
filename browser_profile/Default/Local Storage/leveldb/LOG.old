@@ -1,13 +1,22 @@
-2026/05/30-12:24:32.583 964 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/05/30-12:31:28.395 960 Level-0 table #9265: started
-2026/05/30-12:31:28.399 960 Level-0 table #9265: 23454 bytes OK
-2026/05/30-12:31:28.400 960 Delete type=0 #9263
-2026/05/30-12:31:28.401 960 Compacting 4@0 + 1@1 files
-2026/05/30-12:31:28.403 960 Generated table #9266@0: 1038 keys, 39136 bytes
-2026/05/30-12:31:28.403 960 Compacted 4@0 + 1@1 files => 39136 bytes
-2026/05/30-12:31:28.403 960 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/05/30-12:31:28.403 960 Delete type=2 #9259
-2026/05/30-12:31:28.403 960 Delete type=2 #9261
-2026/05/30-12:31:28.403 960 Delete type=2 #9255
-2026/05/30-12:31:28.404 960 Delete type=2 #9257
-2026/05/30-12:31:28.404 960 Delete type=2 #9265
+2026/05/30-13:38:18.737 974 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/05/30-13:45:09.814 978 Level-0 table #9270: started
+2026/05/30-13:45:09.816 978 Level-0 table #9270: 21969 bytes OK
+2026/05/30-13:45:09.819 978 Delete type=0 #9268
+2026/05/30-13:48:39.484 979 Level-0 table #9272: started
+2026/05/30-13:48:39.487 979 Level-0 table #9272: 23378 bytes OK
+2026/05/30-13:48:39.488 979 Delete type=0 #9269
+2026/05/30-13:51:28.415 974 Level-0 table #9274: started
+2026/05/30-13:51:28.418 974 Level-0 table #9274: 21329 bytes OK
+2026/05/30-13:51:28.419 974 Delete type=0 #9271
+2026/05/30-13:59:04.182 978 Level-0 table #9276: started
+2026/05/30-13:59:04.184 978 Level-0 table #9276: 21757 bytes OK
+2026/05/30-13:59:04.186 978 Delete type=0 #9273
+2026/05/30-13:59:04.186 978 Compacting 4@0 + 1@1 files
+2026/05/30-13:59:04.190 978 Generated table #9277@0: 1040 keys, 39227 bytes
+2026/05/30-13:59:04.191 978 Compacted 4@0 + 1@1 files => 39227 bytes
+2026/05/30-13:59:04.191 978 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/30-13:59:04.192 978 Delete type=2 #9272
+2026/05/30-13:59:04.192 978 Delete type=2 #9274
+2026/05/30-13:59:04.192 978 Delete type=2 #9270
+2026/05/30-13:59:04.192 978 Delete type=2 #9276
+2026/05/30-13:59:04.192 978 Delete type=2 #9266
