@@ -1,1 +1,30 @@
-2026/05/30-06:15:27.076 969 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/05/30-07:29:13.573 97a Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/05/30-07:32:33.742 97a Level-0 table #78946: started
+2026/05/30-07:32:33.746 97a Level-0 table #78946: 11817 bytes OK
+2026/05/30-07:32:33.748 97a Delete type=0 #78944
+2026/05/30-07:33:43.613 980 Level-0 table #78948: started
+2026/05/30-07:33:43.630 980 Level-0 table #78948: 575259 bytes OK
+2026/05/30-07:33:43.633 980 Delete type=0 #78945
+2026/05/30-07:33:43.633 980 Compacting 4@0 + 4@1 files
+2026/05/30-07:33:43.666 980 Generated table #78949@0: 13745 keys, 2108471 bytes
+2026/05/30-07:33:43.704 980 Generated table #78950@0: 75229 keys, 2149315 bytes
+2026/05/30-07:33:43.740 980 Generated table #78951@0: 75336 keys, 2150303 bytes
+2026/05/30-07:33:43.769 980 Generated table #78952@0: 68156 keys, 1947514 bytes
+2026/05/30-07:33:43.769 980 Compacted 4@0 + 4@1 files => 8355603 bytes
+2026/05/30-07:33:43.770 980 compacted to: files[ 0 5 47 1 0 0 0 ]
+2026/05/30-07:33:43.771 980 Delete type=2 #78946
+2026/05/30-07:33:43.771 980 Delete type=2 #78933
+2026/05/30-07:33:43.771 980 Delete type=2 #78940
+2026/05/30-07:33:43.771 980 Delete type=2 #78935
+2026/05/30-07:33:43.771 980 Delete type=2 #78942
+2026/05/30-07:33:43.771 980 Delete type=2 #78936
+2026/05/30-07:33:43.771 980 Delete type=2 #78948
+2026/05/30-07:33:43.771 980 Delete type=2 #78934
+2026/05/30-07:33:43.772 980 Moved #78800 to level-2 2294788 bytes OK: files[ 0 4 48 1 0 0 0 ]
+2026/05/30-07:33:43.772 980 Moved #28626 to level-3 2567972 bytes OK: files[ 0 4 47 2 0 0 0 ]
+2026/05/30-07:40:53.240 97a Level-0 table #78954: started
+2026/05/30-07:40:53.249 97a Level-0 table #78954: 14213 bytes OK
+2026/05/30-07:40:53.250 97a Delete type=0 #78947
+2026/05/30-07:50:55.629 97e Level-0 table #78956: started
+2026/05/30-07:50:55.633 97e Level-0 table #78956: 13622 bytes OK
+2026/05/30-07:50:55.635 97e Delete type=0 #78953
