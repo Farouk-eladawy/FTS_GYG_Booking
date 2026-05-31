@@ -1,22 +1,10 @@
-2026/05/30-23:28:48.748 96f Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/05/30-23:35:49.451 973 Level-0 table #9340: started
-2026/05/30-23:35:49.456 973 Level-0 table #9340: 23792 bytes OK
-2026/05/30-23:35:49.456 973 Delete type=0 #9338
-2026/05/30-23:39:18.219 96f Level-0 table #9342: started
-2026/05/30-23:39:18.225 96f Level-0 table #9342: 23065 bytes OK
-2026/05/30-23:39:18.226 96f Delete type=0 #9339
-2026/05/30-23:41:49.452 973 Level-0 table #9344: started
-2026/05/30-23:41:49.453 973 Level-0 table #9344: 23554 bytes OK
-2026/05/30-23:41:49.454 973 Delete type=0 #9341
-2026/05/30-23:48:34.597 96f Level-0 table #9346: started
-2026/05/30-23:48:34.599 96f Level-0 table #9346: 23277 bytes OK
-2026/05/30-23:48:34.600 96f Delete type=0 #9343
-2026/05/30-23:48:34.601 96f Compacting 4@0 + 1@1 files
-2026/05/30-23:48:34.603 96f Generated table #9347@0: 1055 keys, 39441 bytes
-2026/05/30-23:48:34.603 96f Compacted 4@0 + 1@1 files => 39441 bytes
-2026/05/30-23:48:34.604 96f compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/05/30-23:48:34.604 96f Delete type=2 #9336
-2026/05/30-23:48:34.604 96f Delete type=2 #9340
-2026/05/30-23:48:34.604 96f Delete type=2 #9342
-2026/05/30-23:48:34.604 96f Delete type=2 #9346
-2026/05/30-23:48:34.604 96f Delete type=2 #9344
+2026/05/31-00:42:38.000 9e4 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/05/31-00:49:38.453 9e0 Level-0 table #9351: started
+2026/05/31-00:49:38.459 9e0 Level-0 table #9351: 23725 bytes OK
+2026/05/31-00:49:38.460 9e0 Delete type=0 #9349
+2026/05/31-00:53:16.744 9e4 Level-0 table #9353: started
+2026/05/31-00:53:16.747 9e4 Level-0 table #9353: 23080 bytes OK
+2026/05/31-00:53:16.748 9e4 Delete type=0 #9350
+2026/05/31-00:58:38.453 9e4 Level-0 table #9355: started
+2026/05/31-00:58:38.455 9e4 Level-0 table #9355: 21240 bytes OK
+2026/05/31-00:58:38.455 9e4 Delete type=0 #9352
