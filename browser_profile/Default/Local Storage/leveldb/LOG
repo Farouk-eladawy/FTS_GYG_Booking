@@ -1,28 +1,4 @@
-2026/06/01-05:00:33.197 971 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/06/01-05:07:33.728 970 Level-0 table #9530: started
-2026/06/01-05:07:33.729 970 Level-0 table #9530: 23536 bytes OK
-2026/06/01-05:07:33.730 970 Delete type=0 #9528
-2026/06/01-05:09:07.697 970 Level-0 table #9532: started
-2026/06/01-05:09:07.703 970 Level-0 table #9532: 21982 bytes OK
-2026/06/01-05:09:07.704 970 Delete type=0 #9529
-2026/06/01-05:43:24.368 970 Level-0 table #9534: started
-2026/06/01-05:43:24.372 970 Level-0 table #9534: 22313 bytes OK
-2026/06/01-05:43:24.373 970 Delete type=0 #9531
-2026/06/01-05:44:23.983 970 Level-0 table #9536: started
-2026/06/01-05:44:23.987 970 Level-0 table #9536: 21725 bytes OK
-2026/06/01-05:44:23.988 970 Delete type=0 #9533
-2026/06/01-05:44:23.988 970 Compacting 4@0 + 1@1 files
-2026/06/01-05:44:23.991 970 Generated table #9537@0: 1101 keys, 39758 bytes
-2026/06/01-05:44:23.991 970 Compacted 4@0 + 1@1 files => 39758 bytes
-2026/06/01-05:44:23.991 970 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/06/01-05:44:23.991 970 Delete type=2 #9534
-2026/06/01-05:44:23.991 970 Delete type=2 #9532
-2026/06/01-05:44:23.991 970 Delete type=2 #9536
-2026/06/01-05:44:23.991 970 Delete type=2 #9526
-2026/06/01-05:44:23.991 970 Delete type=2 #9530
-2026/06/01-05:45:42.438 970 Level-0 table #9539: started
-2026/06/01-05:45:42.443 970 Level-0 table #9539: 21258 bytes OK
-2026/06/01-05:45:42.443 970 Delete type=0 #9535
-2026/06/01-05:50:33.728 970 Level-0 table #9541: started
-2026/06/01-05:50:33.733 970 Level-0 table #9541: 21433 bytes OK
-2026/06/01-05:50:33.734 970 Delete type=0 #9538
+2026/06/01-06:14:18.322 972 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/06/01-06:21:18.872 976 Level-0 table #9545: started
+2026/06/01-06:21:18.875 976 Level-0 table #9545: 23603 bytes OK
+2026/06/01-06:21:18.876 976 Delete type=0 #9543
