@@ -1,23 +1,10 @@
-2026/06/02-10:35:12.118 92f Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/02-10:39:01.253 933 Level-0 table #79710: started
-2026/06/02-10:39:01.255 933 Level-0 table #79710: 11093 bytes OK
-2026/06/02-10:39:01.256 933 Delete type=0 #79708
-2026/06/02-10:43:49.810 933 Level-0 table #79712: started
-2026/06/02-10:43:49.813 933 Level-0 table #79712: 11191 bytes OK
-2026/06/02-10:43:49.816 933 Delete type=0 #79709
-2026/06/02-10:43:49.816 933 Compacting 4@0 + 4@1 files
-2026/06/02-10:43:49.853 933 Generated table #79713@0: 13675 keys, 2107906 bytes
-2026/06/02-10:43:49.885 933 Generated table #79714@0: 75251 keys, 2149930 bytes
-2026/06/02-10:43:49.927 933 Generated table #79715@0: 75248 keys, 2150004 bytes
-2026/06/02-10:43:49.979 933 Generated table #79716@0: 75236 keys, 2150121 bytes
-2026/06/02-10:43:49.979 933 Generated table #79717@0: 29 keys, 943 bytes
-2026/06/02-10:43:49.979 933 Compacted 4@0 + 4@1 files => 8558904 bytes
-2026/06/02-10:43:49.984 933 compacted to: files[ 0 5 47 6 0 0 0 ]
-2026/06/02-10:43:49.984 933 Delete type=2 #79699
-2026/06/02-10:43:49.984 933 Delete type=2 #79712
-2026/06/02-10:43:49.985 933 Delete type=2 #79710
-2026/06/02-10:43:49.985 933 Delete type=2 #79702
-2026/06/02-10:43:49.985 933 Delete type=2 #79701
-2026/06/02-10:43:49.985 933 Delete type=2 #79706
-2026/06/02-10:43:49.985 933 Delete type=2 #79700
-2026/06/02-10:43:49.985 933 Delete type=2 #79704
+2026/06/02-11:49:06.673 96f Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/02-11:52:54.221 973 Level-0 table #79721: started
+2026/06/02-11:52:54.227 973 Level-0 table #79721: 11011 bytes OK
+2026/06/02-11:52:54.229 973 Delete type=0 #79719
+2026/06/02-11:56:20.049 96f Level-0 table #79723: started
+2026/06/02-11:56:20.053 96f Level-0 table #79723: 13083 bytes OK
+2026/06/02-11:56:20.054 96f Delete type=0 #79720
+2026/06/02-12:02:01.218 973 Level-0 table #79725: started
+2026/06/02-12:02:01.231 973 Level-0 table #79725: 577903 bytes OK
+2026/06/02-12:02:01.232 973 Delete type=0 #79722
