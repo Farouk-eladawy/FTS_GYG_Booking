@@ -1,1 +1,30 @@
-2026/06/02-14:17:09.825 991 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/02-15:31:23.555 977 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/02-15:34:54.061 977 Level-0 table #79729: started
+2026/06/02-15:34:54.066 977 Level-0 table #79729: 10991 bytes OK
+2026/06/02-15:34:54.068 977 Delete type=0 #79727
+2026/06/02-15:34:54.068 977 Compacting 4@0 + 5@1 files
+2026/06/02-15:34:54.106 977 Generated table #79730@0: 26 keys, 2287877 bytes
+2026/06/02-15:34:54.170 977 Generated table #79731@0: 75307 keys, 2150978 bytes
+2026/06/02-15:34:54.224 977 Generated table #79732@0: 75325 keys, 2150561 bytes
+2026/06/02-15:34:54.294 977 Generated table #79733@0: 75252 keys, 2150624 bytes
+2026/06/02-15:34:54.305 977 Generated table #79734@0: 13677 keys, 391478 bytes
+2026/06/02-15:34:54.305 977 Compacted 4@0 + 5@1 files => 9131518 bytes
+2026/06/02-15:34:54.306 977 compacted to: files[ 0 5 47 6 0 0 0 ]
+2026/06/02-15:34:54.307 977 Delete type=2 #79725
+2026/06/02-15:34:54.307 977 Delete type=2 #79717
+2026/06/02-15:34:54.307 977 Delete type=2 #79713
+2026/06/02-15:34:54.307 977 Delete type=2 #79721
+2026/06/02-15:34:54.307 977 Delete type=2 #79715
+2026/06/02-15:34:54.307 977 Delete type=2 #79716
+2026/06/02-15:34:54.307 977 Delete type=2 #79729
+2026/06/02-15:34:54.307 977 Delete type=2 #79723
+2026/06/02-15:34:54.307 977 Delete type=2 #79714
+2026/06/02-15:38:01.608 977 Level-0 table #79736: started
+2026/06/02-15:38:01.612 977 Level-0 table #79736: 13161 bytes OK
+2026/06/02-15:38:01.613 977 Delete type=0 #79728
+2026/06/02-15:46:13.947 97b Level-0 table #79738: started
+2026/06/02-15:46:13.954 97b Level-0 table #79738: 12659 bytes OK
+2026/06/02-15:46:13.956 97b Delete type=0 #79735
+2026/06/02-15:50:17.832 97b Level-0 table #79740: started
+2026/06/02-15:50:17.835 97b Level-0 table #79740: 11404 bytes OK
+2026/06/02-15:50:17.836 97b Delete type=0 #79737
