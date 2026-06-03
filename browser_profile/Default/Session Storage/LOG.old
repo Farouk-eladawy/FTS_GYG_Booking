@@ -1,10 +1,24 @@
-2026/06/02-21:41:06.659 963 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/02-21:44:45.338 963 Level-0 table #79847: started
-2026/06/02-21:44:45.342 963 Level-0 table #79847: 9513 bytes OK
-2026/06/02-21:44:45.345 963 Delete type=0 #79845
-2026/06/02-21:47:58.087 967 Level-0 table #79849: started
-2026/06/02-21:47:58.088 967 Level-0 table #79849: 11764 bytes OK
-2026/06/02-21:47:58.090 967 Delete type=0 #79846
-2026/06/02-22:00:18.943 963 Level-0 table #79851: started
-2026/06/02-22:00:18.949 963 Level-0 table #79851: 12852 bytes OK
-2026/06/02-22:00:18.950 963 Delete type=0 #79848
+2026/06/02-22:54:59.046 969 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/02-22:58:51.645 96e Level-0 table #79855: started
+2026/06/02-22:58:51.650 96e Level-0 table #79855: 9378 bytes OK
+2026/06/02-22:58:51.652 96e Delete type=0 #79853
+2026/06/02-22:58:51.653 96d Compacting 4@0 + 5@1 files
+2026/06/02-22:58:51.690 96d Generated table #79856@0: 13694 keys, 2107001 bytes
+2026/06/02-22:58:51.735 96d Generated table #79857@0: 75304 keys, 2149776 bytes
+2026/06/02-22:58:51.771 96d Generated table #79858@0: 75331 keys, 2149933 bytes
+2026/06/02-22:58:51.804 96d Generated table #79859@0: 75323 keys, 2149543 bytes
+2026/06/02-22:58:51.805 96d Generated table #79860@0: 592 keys, 16925 bytes
+2026/06/02-22:58:51.805 96d Compacted 4@0 + 5@1 files => 8573178 bytes
+2026/06/02-22:58:51.805 96d compacted to: files[ 0 5 47 7 0 0 0 ]
+2026/06/02-22:58:51.806 96d Delete type=2 #79843
+2026/06/02-22:58:51.806 96d Delete type=2 #79839
+2026/06/02-22:58:51.806 96d Delete type=2 #79851
+2026/06/02-22:58:51.806 96d Delete type=2 #79841
+2026/06/02-22:58:51.806 96d Delete type=2 #79855
+2026/06/02-22:58:51.806 96d Delete type=2 #79842
+2026/06/02-22:58:51.806 96d Delete type=2 #79847
+2026/06/02-22:58:51.806 96d Delete type=2 #79849
+2026/06/02-22:58:51.806 96d Delete type=2 #79840
+2026/06/02-23:02:12.040 96d Level-0 table #79862: started
+2026/06/02-23:02:12.044 96d Level-0 table #79862: 11813 bytes OK
+2026/06/02-23:02:12.045 96d Delete type=0 #79854
