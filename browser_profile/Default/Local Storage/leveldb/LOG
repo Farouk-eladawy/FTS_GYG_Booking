@@ -1,22 +1,10 @@
-2026/06/03-00:08:50.244 923 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/06/03-00:14:50.692 927 Level-0 table #9805: started
-2026/06/03-00:14:50.695 927 Level-0 table #9805: 21779 bytes OK
-2026/06/03-00:14:50.695 927 Delete type=0 #9803
-2026/06/03-00:17:50.692 927 Level-0 table #9807: started
-2026/06/03-00:17:50.694 927 Level-0 table #9807: 21277 bytes OK
-2026/06/03-00:17:50.694 927 Delete type=0 #9804
-2026/06/03-00:21:49.284 923 Level-0 table #9809: started
-2026/06/03-00:21:49.288 923 Level-0 table #9809: 21178 bytes OK
-2026/06/03-00:21:49.289 923 Delete type=0 #9806
-2026/06/03-00:28:50.692 923 Level-0 table #9811: started
-2026/06/03-00:28:50.696 923 Level-0 table #9811: 21404 bytes OK
-2026/06/03-00:28:50.696 923 Delete type=0 #9808
-2026/06/03-00:28:50.697 923 Compacting 4@0 + 1@1 files
-2026/06/03-00:28:50.699 923 Generated table #9812@0: 1169 keys, 41276 bytes
-2026/06/03-00:28:50.699 923 Compacted 4@0 + 1@1 files => 41276 bytes
-2026/06/03-00:28:50.699 923 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/06/03-00:28:50.699 923 Delete type=2 #9805
-2026/06/03-00:28:50.699 923 Delete type=2 #9801
-2026/06/03-00:28:50.699 923 Delete type=2 #9811
-2026/06/03-00:28:50.699 923 Delete type=2 #9807
-2026/06/03-00:28:50.699 923 Delete type=2 #9809
+2026/06/03-01:22:42.915 974 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/06/03-01:29:44.022 974 Level-0 table #9816: started
+2026/06/03-01:29:44.026 974 Level-0 table #9816: 24171 bytes OK
+2026/06/03-01:29:44.026 974 Delete type=0 #9814
+2026/06/03-01:33:13.241 974 Level-0 table #9818: started
+2026/06/03-01:33:13.243 974 Level-0 table #9818: 21374 bytes OK
+2026/06/03-01:33:13.244 974 Delete type=0 #9815
+2026/06/03-01:39:44.021 974 Level-0 table #9820: started
+2026/06/03-01:39:44.027 974 Level-0 table #9820: 21719 bytes OK
+2026/06/03-01:39:44.027 974 Delete type=0 #9817
