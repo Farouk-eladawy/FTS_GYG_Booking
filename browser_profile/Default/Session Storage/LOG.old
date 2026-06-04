@@ -1,7 +1,25 @@
-2026/06/03-23:33:34.977 964 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/03-23:37:26.205 968 Level-0 table #80021: started
-2026/06/03-23:37:26.211 968 Level-0 table #80021: 11480 bytes OK
-2026/06/03-23:37:26.212 968 Delete type=0 #80019
-2026/06/03-23:39:37.495 968 Level-0 table #80023: started
-2026/06/03-23:39:37.505 968 Level-0 table #80023: 578709 bytes OK
-2026/06/03-23:39:37.506 968 Delete type=0 #80020
+2026/06/04-00:47:28.217 973 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/04-00:53:07.598 973 Level-0 table #80027: started
+2026/06/04-00:53:07.613 973 Level-0 table #80027: 576723 bytes OK
+2026/06/04-00:53:07.614 973 Delete type=0 #80025
+2026/06/04-01:02:14.527 978 Level-0 table #80029: started
+2026/06/04-01:02:14.542 978 Level-0 table #80029: 580771 bytes OK
+2026/06/04-01:02:14.544 978 Delete type=0 #80026
+2026/06/04-01:02:14.544 978 Compacting 4@0 + 4@1 files
+2026/06/04-01:02:14.578 978 Generated table #80030@0: 34118 keys, 2122629 bytes
+2026/06/04-01:02:14.605 978 Generated table #80031@0: 75241 keys, 2150314 bytes
+2026/06/04-01:02:14.633 978 Generated table #80032@0: 75255 keys, 2149239 bytes
+2026/06/04-01:02:14.654 978 Generated table #80033@0: 58112 keys, 1659709 bytes
+2026/06/04-01:02:14.654 978 Compacted 4@0 + 4@1 files => 8081891 bytes
+2026/06/04-01:02:14.654 978 compacted to: files[ 0 5 47 7 0 0 0 ]
+2026/06/04-01:02:14.655 978 Delete type=2 #80014
+2026/06/04-01:02:14.655 978 Delete type=2 #80023
+2026/06/04-01:02:14.655 978 Delete type=2 #80015
+2026/06/04-01:02:14.655 978 Delete type=2 #80027
+2026/06/04-01:02:14.655 978 Delete type=2 #80017
+2026/06/04-01:02:14.655 978 Delete type=2 #80029
+2026/06/04-01:02:14.655 978 Delete type=2 #80021
+2026/06/04-01:02:14.655 978 Delete type=2 #80016
+2026/06/04-01:07:43.771 977 Level-0 table #80035: started
+2026/06/04-01:07:43.778 977 Level-0 table #80035: 13478 bytes OK
+2026/06/04-01:07:43.779 977 Delete type=0 #80028
