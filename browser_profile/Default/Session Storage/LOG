@@ -1,27 +1,7 @@
-2026/06/05-22:20:44.773 976 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/05-23:04:11.245 976 Level-0 table #80426: started
-2026/06/05-23:04:11.250 976 Level-0 table #80426: 15225 bytes OK
-2026/06/05-23:04:11.252 976 Delete type=0 #80424
-2026/06/05-23:07:41.757 97a Level-0 table #80428: started
-2026/06/05-23:07:41.762 97a Level-0 table #80428: 9927 bytes OK
-2026/06/05-23:07:41.763 97a Delete type=0 #80425
-2026/06/05-23:15:26.948 976 Level-0 table #80430: started
-2026/06/05-23:15:26.953 976 Level-0 table #80430: 14777 bytes OK
-2026/06/05-23:15:26.954 976 Delete type=0 #80427
-2026/06/05-23:15:26.954 976 Compacting 4@0 + 5@1 files
-2026/06/05-23:15:26.998 976 Generated table #80431@0: 13357 keys, 2107383 bytes
-2026/06/05-23:15:27.061 976 Generated table #80432@0: 75238 keys, 2149752 bytes
-2026/06/05-23:15:27.117 976 Generated table #80433@0: 75231 keys, 2150326 bytes
-2026/06/05-23:15:27.172 976 Generated table #80434@0: 75265 keys, 2150074 bytes
-2026/06/05-23:15:27.181 976 Generated table #80435@0: 7658 keys, 219204 bytes
-2026/06/05-23:15:27.181 976 Compacted 4@0 + 5@1 files => 8776739 bytes
-2026/06/05-23:15:27.182 976 compacted to: files[ 0 5 47 9 0 0 0 ]
-2026/06/05-23:15:27.183 976 Delete type=2 #80417
-2026/06/05-23:15:27.183 976 Delete type=2 #80418
-2026/06/05-23:15:27.183 976 Delete type=2 #80428
-2026/06/05-23:15:27.183 976 Delete type=2 #80426
-2026/06/05-23:15:27.183 976 Delete type=2 #80430
-2026/06/05-23:15:27.183 976 Delete type=2 #80420
-2026/06/05-23:15:27.183 976 Delete type=2 #80419
-2026/06/05-23:15:27.183 976 Delete type=2 #80422
-2026/06/05-23:15:27.183 976 Delete type=2 #80416
+2026/06/05-23:34:32.446 96b Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/05-23:38:14.764 970 Level-0 table #80439: started
+2026/06/05-23:38:14.770 970 Level-0 table #80439: 9424 bytes OK
+2026/06/05-23:38:14.772 970 Delete type=0 #80437
+2026/06/05-23:41:22.914 96f Level-0 table #80441: started
+2026/06/05-23:41:22.918 96f Level-0 table #80441: 13482 bytes OK
+2026/06/05-23:41:22.919 96f Delete type=0 #80438
