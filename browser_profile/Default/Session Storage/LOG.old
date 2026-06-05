@@ -1,7 +1,30 @@
-2026/06/05-17:25:23.402 88c Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/05-17:29:13.652 88c Level-0 table #80390: started
-2026/06/05-17:29:13.654 88c Level-0 table #80390: 10640 bytes OK
-2026/06/05-17:29:13.656 88c Delete type=0 #80388
-2026/06/05-17:32:25.332 890 Level-0 table #80392: started
-2026/06/05-17:32:25.333 890 Level-0 table #80392: 10137 bytes OK
-2026/06/05-17:32:25.334 890 Delete type=0 #80389
+2026/06/05-18:39:16.283 9a3 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/05-18:42:32.990 9a7 Level-0 table #80396: started
+2026/06/05-18:42:32.998 9a7 Level-0 table #80396: 11193 bytes OK
+2026/06/05-18:42:32.999 9a7 Delete type=0 #80394
+2026/06/05-18:45:38.187 9a7 Level-0 table #80398: started
+2026/06/05-18:45:38.191 9a7 Level-0 table #80398: 13561 bytes OK
+2026/06/05-18:45:38.192 9a7 Delete type=0 #80395
+2026/06/05-18:45:38.192 9a7 Compacting 4@0 + 5@1 files
+2026/06/05-18:45:38.220 9a7 Generated table #80399@0: 13383 keys, 2108071 bytes
+2026/06/05-18:45:38.253 9a7 Generated table #80400@0: 75323 keys, 2150449 bytes
+2026/06/05-18:45:38.285 9a7 Generated table #80401@0: 75260 keys, 2149241 bytes
+2026/06/05-18:45:38.317 9a7 Generated table #80402@0: 75255 keys, 2151050 bytes
+2026/06/05-18:45:38.321 9a7 Generated table #80403@0: 7058 keys, 202106 bytes
+2026/06/05-18:45:38.321 9a7 Compacted 4@0 + 5@1 files => 8760917 bytes
+2026/06/05-18:45:38.321 9a7 compacted to: files[ 0 5 47 9 0 0 0 ]
+2026/06/05-18:45:38.322 9a7 Delete type=2 #80385
+2026/06/05-18:45:38.322 9a7 Delete type=2 #80382
+2026/06/05-18:45:38.322 9a7 Delete type=2 #80386
+2026/06/05-18:45:38.322 9a7 Delete type=2 #80384
+2026/06/05-18:45:38.322 9a7 Delete type=2 #80390
+2026/06/05-18:45:38.322 9a7 Delete type=2 #80398
+2026/06/05-18:45:38.322 9a7 Delete type=2 #80383
+2026/06/05-18:45:38.322 9a7 Delete type=2 #80396
+2026/06/05-18:45:38.322 9a7 Delete type=2 #80392
+2026/06/05-18:54:06.603 9a7 Level-0 table #80405: started
+2026/06/05-18:54:06.604 9a7 Level-0 table #80405: 13679 bytes OK
+2026/06/05-18:54:06.605 9a7 Delete type=0 #80397
+2026/06/05-18:57:42.794 9a7 Level-0 table #80407: started
+2026/06/05-18:57:42.800 9a7 Level-0 table #80407: 12160 bytes OK
+2026/06/05-18:57:42.801 9a7 Delete type=0 #80404
