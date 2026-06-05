@@ -1,22 +1,13 @@
-2026/06/05-03:52:55.560 976 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/06/05-03:57:56.753 97a Level-0 table #10163: started
-2026/06/05-03:57:56.755 97a Level-0 table #10163: 19829 bytes OK
-2026/06/05-03:57:56.755 97a Delete type=0 #10161
-2026/06/05-03:57:56.755 97a Compacting 4@0 + 1@1 files
-2026/06/05-03:57:56.757 97a Generated table #10164@0: 1251 keys, 43522 bytes
-2026/06/05-03:57:56.757 97a Compacted 4@0 + 1@1 files => 43522 bytes
-2026/06/05-03:57:56.757 97a compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/06/05-03:57:56.758 97a Delete type=2 #10149
-2026/06/05-03:57:56.758 97a Delete type=2 #10157
-2026/06/05-03:57:56.758 97a Delete type=2 #10163
-2026/06/05-03:57:56.758 97a Delete type=2 #10159
-2026/06/05-03:57:56.758 97a Delete type=2 #10153
-2026/06/05-04:00:56.754 97a Level-0 table #10166: started
-2026/06/05-04:00:56.755 97a Level-0 table #10166: 22584 bytes OK
-2026/06/05-04:00:56.756 97a Delete type=0 #10162
-2026/06/05-04:05:56.753 97a Level-0 table #10168: started
-2026/06/05-04:05:56.758 97a Level-0 table #10168: 20395 bytes OK
-2026/06/05-04:05:56.758 97a Delete type=0 #10165
-2026/06/05-04:12:22.904 97a Level-0 table #10170: started
-2026/06/05-04:12:22.906 97a Level-0 table #10170: 20373 bytes OK
-2026/06/05-04:12:22.907 97a Delete type=0 #10167
+2026/06/05-05:06:43.077 997 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/06/05-05:12:44.267 99b Level-0 table #10174: started
+2026/06/05-05:12:44.272 99b Level-0 table #10174: 20502 bytes OK
+2026/06/05-05:12:44.272 99b Delete type=0 #10172
+2026/06/05-05:12:44.273 99b Compacting 4@0 + 1@1 files
+2026/06/05-05:12:44.275 99b Generated table #10175@0: 1253 keys, 43347 bytes
+2026/06/05-05:12:44.275 99b Compacted 4@0 + 1@1 files => 43347 bytes
+2026/06/05-05:12:44.275 99b compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/06/05-05:12:44.275 99b Delete type=2 #10170
+2026/06/05-05:12:44.275 99b Delete type=2 #10174
+2026/06/05-05:12:44.275 99b Delete type=2 #10168
+2026/06/05-05:12:44.275 99b Delete type=2 #10166
+2026/06/05-05:12:44.276 99b Delete type=2 #10164
