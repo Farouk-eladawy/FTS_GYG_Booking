@@ -1,4 +1,30 @@
-2026/06/06-19:15:23.150 980 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/06-19:19:29.180 984 Level-0 table #80560: started
-2026/06/06-19:19:29.185 984 Level-0 table #80560: 10008 bytes OK
-2026/06/06-19:19:29.187 984 Delete type=0 #80558
+2026/06/06-20:29:00.645 961 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/06-20:32:44.630 965 Level-0 table #80564: started
+2026/06/06-20:32:44.634 965 Level-0 table #80564: 10751 bytes OK
+2026/06/06-20:32:44.635 965 Delete type=0 #80562
+2026/06/06-20:35:49.688 965 Level-0 table #80566: started
+2026/06/06-20:35:49.689 965 Level-0 table #80566: 12493 bytes OK
+2026/06/06-20:35:49.690 965 Delete type=0 #80563
+2026/06/06-20:45:26.157 965 Level-0 table #80568: started
+2026/06/06-20:45:26.173 965 Level-0 table #80568: 585673 bytes OK
+2026/06/06-20:45:26.174 965 Delete type=0 #80565
+2026/06/06-20:45:26.175 965 Compacting 4@0 + 4@1 files
+2026/06/06-20:45:26.220 965 Generated table #80569@0: 34083 keys, 2122140 bytes
+2026/06/06-20:45:26.266 965 Generated table #80570@0: 75248 keys, 2149952 bytes
+2026/06/06-20:45:26.302 965 Generated table #80571@0: 75271 keys, 2149815 bytes
+2026/06/06-20:45:26.331 965 Generated table #80572@0: 63977 keys, 1829063 bytes
+2026/06/06-20:45:26.331 965 Compacted 4@0 + 4@1 files => 8250970 bytes
+2026/06/06-20:45:26.332 965 compacted to: files[ 0 5 47 9 0 0 0 ]
+2026/06/06-20:45:26.333 965 Delete type=2 #80556
+2026/06/06-20:45:26.333 965 Delete type=2 #80553
+2026/06/06-20:45:26.333 965 Delete type=2 #80554
+2026/06/06-20:45:26.333 965 Delete type=2 #80568
+2026/06/06-20:45:26.333 965 Delete type=2 #80564
+2026/06/06-20:45:26.333 965 Delete type=2 #80555
+2026/06/06-20:45:26.333 965 Delete type=2 #80560
+2026/06/06-20:45:26.333 965 Delete type=2 #80566
+2026/06/06-20:45:26.334 965 Moved #80448 to level-2 2299154 bytes OK: files[ 0 4 48 9 0 0 0 ]
+2026/06/06-20:45:26.334 965 Moved #67740 to level-3 2161970 bytes OK: files[ 0 4 47 10 0 0 0 ]
+2026/06/06-20:50:28.001 961 Level-0 table #80574: started
+2026/06/06-20:50:28.007 961 Level-0 table #80574: 12250 bytes OK
+2026/06/06-20:50:28.008 961 Delete type=0 #80567
