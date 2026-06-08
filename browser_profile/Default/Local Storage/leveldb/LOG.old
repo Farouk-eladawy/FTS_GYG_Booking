@@ -1,16 +1,28 @@
-2026/06/07-23:32:08.533 971 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/06/07-23:39:09.021 975 Level-0 table #10615: started
-2026/06/07-23:39:09.025 975 Level-0 table #10615: 24730 bytes OK
-2026/06/07-23:39:09.025 975 Delete type=0 #10613
-2026/06/07-23:39:09.026 975 Compacting 4@0 + 1@1 files
-2026/06/07-23:39:09.027 975 Generated table #10616@0: 1361 keys, 45660 bytes
-2026/06/07-23:39:09.027 975 Compacted 4@0 + 1@1 files => 45660 bytes
-2026/06/07-23:39:09.027 975 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/06/07-23:39:09.028 975 Delete type=2 #10607
-2026/06/07-23:39:09.028 975 Delete type=2 #10611
-2026/06/07-23:39:09.028 975 Delete type=2 #10615
-2026/06/07-23:39:09.028 975 Delete type=2 #10601
-2026/06/07-23:39:09.028 975 Delete type=2 #10605
-2026/06/07-23:41:09.022 975 Level-0 table #10618: started
-2026/06/07-23:41:09.025 975 Level-0 table #10618: 24629 bytes OK
-2026/06/07-23:41:09.026 975 Delete type=0 #10614
+2026/06/08-00:41:07.242 9f4 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/06/08-00:47:07.831 9f4 Level-0 table #10622: started
+2026/06/08-00:47:07.832 9f4 Level-0 table #10622: 20376 bytes OK
+2026/06/08-00:47:07.833 9f4 Delete type=0 #10620
+2026/06/08-00:49:41.255 9f4 Level-0 table #10624: started
+2026/06/08-00:49:41.259 9f4 Level-0 table #10624: 24419 bytes OK
+2026/06/08-00:49:41.260 9f4 Delete type=0 #10621
+2026/06/08-01:23:37.969 9f4 Level-0 table #10626: started
+2026/06/08-01:23:37.974 9f4 Level-0 table #10626: 22553 bytes OK
+2026/06/08-01:23:37.975 9f4 Delete type=0 #10623
+2026/06/08-01:23:37.975 9f4 Compacting 4@0 + 1@1 files
+2026/06/08-01:23:37.977 9f4 Generated table #10627@0: 1363 keys, 45666 bytes
+2026/06/08-01:23:37.977 9f4 Compacted 4@0 + 1@1 files => 45666 bytes
+2026/06/08-01:23:37.977 9f4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/06/08-01:23:37.977 9f4 Delete type=2 #10626
+2026/06/08-01:23:37.977 9f4 Delete type=2 #10618
+2026/06/08-01:23:37.977 9f4 Delete type=2 #10624
+2026/06/08-01:23:37.977 9f4 Delete type=2 #10616
+2026/06/08-01:23:37.977 9f4 Delete type=2 #10622
+2026/06/08-01:24:37.517 9f4 Level-0 table #10629: started
+2026/06/08-01:24:37.522 9f4 Level-0 table #10629: 20175 bytes OK
+2026/06/08-01:24:37.522 9f4 Delete type=0 #10625
+2026/06/08-01:25:49.889 9f4 Level-0 table #10631: started
+2026/06/08-01:25:49.894 9f4 Level-0 table #10631: 20112 bytes OK
+2026/06/08-01:25:49.895 9f4 Delete type=0 #10628
+2026/06/08-01:29:07.828 9f4 Level-0 table #10633: started
+2026/06/08-01:29:07.832 9f4 Level-0 table #10633: 22206 bytes OK
+2026/06/08-01:29:07.832 9f4 Delete type=0 #10630
