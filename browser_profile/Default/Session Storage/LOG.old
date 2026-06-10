@@ -1,4 +1,27 @@
-2026/06/10-10:35:53.140 9bf Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/10-10:42:01.862 9bf Level-0 table #81177: started
-2026/06/10-10:42:01.878 9bf Level-0 table #81177: 577481 bytes OK
-2026/06/10-10:42:01.880 9bf Delete type=0 #81175
+2026/06/10-11:49:48.431 932 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/10-11:53:33.868 936 Level-0 table #81181: started
+2026/06/10-11:53:33.873 936 Level-0 table #81181: 9654 bytes OK
+2026/06/10-11:53:33.875 936 Delete type=0 #81179
+2026/06/10-11:56:58.599 932 Level-0 table #81183: started
+2026/06/10-11:56:58.603 932 Level-0 table #81183: 11296 bytes OK
+2026/06/10-11:56:58.605 932 Delete type=0 #81180
+2026/06/10-12:07:15.365 932 Level-0 table #81185: started
+2026/06/10-12:07:15.370 932 Level-0 table #81185: 14063 bytes OK
+2026/06/10-12:07:15.372 932 Delete type=0 #81182
+2026/06/10-12:07:15.372 932 Compacting 4@0 + 5@1 files
+2026/06/10-12:07:15.412 932 Generated table #81186@0: 58 keys, 2299203 bytes
+2026/06/10-12:07:15.481 932 Generated table #81187@0: 75205 keys, 2149839 bytes
+2026/06/10-12:07:15.536 932 Generated table #81188@0: 75199 keys, 2149399 bytes
+2026/06/10-12:07:15.587 932 Generated table #81189@0: 75342 keys, 2150204 bytes
+2026/06/10-12:07:15.612 932 Generated table #81190@0: 31504 keys, 900601 bytes
+2026/06/10-12:07:15.612 932 Compacted 4@0 + 5@1 files => 9649246 bytes
+2026/06/10-12:07:15.614 932 compacted to: files[ 0 5 47 12 0 0 0 ]
+2026/06/10-12:07:15.615 932 Delete type=2 #81185
+2026/06/10-12:07:15.615 932 Delete type=2 #81183
+2026/06/10-12:07:15.615 932 Delete type=2 #81177
+2026/06/10-12:07:15.615 932 Delete type=2 #81181
+2026/06/10-12:07:15.615 932 Delete type=2 #81171
+2026/06/10-12:07:15.615 932 Delete type=2 #81170
+2026/06/10-12:07:15.615 932 Delete type=2 #81169
+2026/06/10-12:07:15.615 932 Delete type=2 #81173
+2026/06/10-12:07:15.615 932 Delete type=2 #81172
