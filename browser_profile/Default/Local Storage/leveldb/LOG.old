@@ -1,6 +1,26 @@
-2026/06/12-03:14:47.309 97d Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/06/12-03:20:47.801 978 Level-0 table #11365: started
-2026/06/12-03:20:47.806 978 Level-0 table #11365: 20882 bytes OK
-2026/06/12-03:20:47.807 978 Delete type=0 #11363
-2026/06/12-03:23:46.213 97d Level-0 table #11367: started
-2026/06/12-03:23:46.221 97d Level-0 table #11367: 21092 bytes OK
+2026/06/12-04:28:37.898 be6 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/06/12-04:28:37.905 be6 Delete type=2 #11367
+2026/06/12-04:33:39.009 bea Level-0 table #11369: started
+2026/06/12-04:33:39.010 bea Level-0 table #11369: 20605 bytes OK
+2026/06/12-04:33:39.010 bea Delete type=0 #11367
+2026/06/12-04:36:39.009 bea Level-0 table #11371: started
+2026/06/12-04:36:39.010 bea Level-0 table #11371: 21499 bytes OK
+2026/06/12-04:36:39.011 bea Delete type=0 #11368
+2026/06/12-04:36:39.011 bea Compacting 4@0 + 1@1 files
+2026/06/12-04:36:39.012 bea Generated table #11372@0: 1508 keys, 47945 bytes
+2026/06/12-04:36:39.012 bea Compacted 4@0 + 1@1 files => 47945 bytes
+2026/06/12-04:36:39.013 bea compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/06/12-04:36:39.013 bea Delete type=2 #11359
+2026/06/12-04:36:39.013 bea Delete type=2 #11361
+2026/06/12-04:36:39.013 bea Delete type=2 #11365
+2026/06/12-04:36:39.013 bea Delete type=2 #11371
+2026/06/12-04:36:39.013 bea Delete type=2 #11369
+2026/06/12-04:39:39.009 bea Level-0 table #11374: started
+2026/06/12-04:39:39.013 bea Level-0 table #11374: 20938 bytes OK
+2026/06/12-04:39:39.014 bea Delete type=0 #11370
+2026/06/12-04:42:39.009 bea Level-0 table #11376: started
+2026/06/12-04:42:39.014 bea Level-0 table #11376: 20893 bytes OK
+2026/06/12-04:42:39.014 bea Delete type=0 #11373
+2026/06/12-04:46:26.844 be6 Level-0 table #11378: started
+2026/06/12-04:46:26.847 be6 Level-0 table #11378: 22087 bytes OK
+2026/06/12-04:46:26.849 be6 Delete type=0 #11375
