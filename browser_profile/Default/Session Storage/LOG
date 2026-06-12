@@ -1,30 +1,22 @@
-2026/06/12-18:01:32.915 97a Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/12-18:05:10.232 97a Level-0 table #81539: started
-2026/06/12-18:05:10.235 97a Level-0 table #81539: 10152 bytes OK
-2026/06/12-18:05:10.237 97a Delete type=0 #81537
-2026/06/12-18:05:10.237 97a Compacting 4@0 + 5@1 files
-2026/06/12-18:05:10.270 97a Generated table #81540@0: 46 keys, 2295517 bytes
-2026/06/12-18:05:10.332 97a Generated table #81541@0: 75175 keys, 2149386 bytes
-2026/06/12-18:05:10.394 97a Generated table #81542@0: 75294 keys, 2150674 bytes
-2026/06/12-18:05:10.449 97a Generated table #81543@0: 75327 keys, 2150760 bytes
-2026/06/12-18:05:10.481 97a Generated table #81544@0: 35990 keys, 1028359 bytes
-2026/06/12-18:05:10.481 97a Compacted 4@0 + 5@1 files => 9774696 bytes
-2026/06/12-18:05:10.481 97a compacted to: files[ 0 5 47 14 0 0 0 ]
-2026/06/12-18:05:10.482 97a Delete type=2 #81529
-2026/06/12-18:05:10.482 97a Delete type=2 #81522
-2026/06/12-18:05:10.482 97a Delete type=2 #81521
-2026/06/12-18:05:10.482 97a Delete type=2 #81525
-2026/06/12-18:05:10.483 97a Delete type=2 #81523
-2026/06/12-18:05:10.483 97a Delete type=2 #81524
-2026/06/12-18:05:10.483 97a Delete type=2 #81539
-2026/06/12-18:05:10.483 97a Delete type=2 #81535
-2026/06/12-18:05:10.483 97a Delete type=2 #81533
-2026/06/12-18:08:23.699 97e Level-0 table #81546: started
-2026/06/12-18:08:23.701 97e Level-0 table #81546: 11517 bytes OK
-2026/06/12-18:08:23.703 97e Delete type=0 #81538
-2026/06/12-18:16:59.435 97e Level-0 table #81548: started
-2026/06/12-18:16:59.441 97e Level-0 table #81548: 12180 bytes OK
-2026/06/12-18:16:59.443 97e Delete type=0 #81545
-2026/06/12-18:22:05.215 97e Level-0 table #81550: started
-2026/06/12-18:22:05.217 97e Level-0 table #81550: 13210 bytes OK
-2026/06/12-18:22:05.218 97e Delete type=0 #81547
+2026/06/12-19:15:27.041 970 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/12-19:18:39.501 970 Level-0 table #81554: started
+2026/06/12-19:18:39.503 970 Level-0 table #81554: 11266 bytes OK
+2026/06/12-19:18:39.505 970 Delete type=0 #81552
+2026/06/12-19:18:39.505 974 Compacting 4@0 + 4@1 files
+2026/06/12-19:18:39.564 974 Generated table #81555@0: 75074 keys, 2149316 bytes
+2026/06/12-19:18:39.624 974 Generated table #81556@0: 75222 keys, 2149762 bytes
+2026/06/12-19:18:39.677 974 Generated table #81557@0: 75273 keys, 2149433 bytes
+2026/06/12-19:18:39.712 974 Generated table #81558@0: 36386 keys, 1040562 bytes
+2026/06/12-19:18:39.712 974 Compacted 4@0 + 4@1 files => 7489073 bytes
+2026/06/12-19:18:39.713 974 compacted to: files[ 0 5 47 14 0 0 0 ]
+2026/06/12-19:18:39.714 974 Delete type=2 #81548
+2026/06/12-19:18:39.714 974 Delete type=2 #81546
+2026/06/12-19:18:39.714 974 Delete type=2 #81541
+2026/06/12-19:18:39.714 974 Delete type=2 #81550
+2026/06/12-19:18:39.714 974 Delete type=2 #81544
+2026/06/12-19:18:39.714 974 Delete type=2 #81554
+2026/06/12-19:18:39.714 974 Delete type=2 #81543
+2026/06/12-19:18:39.714 974 Delete type=2 #81542
+2026/06/12-19:21:23.286 974 Level-0 table #81560: started
+2026/06/12-19:21:23.299 974 Level-0 table #81560: 582416 bytes OK
+2026/06/12-19:21:23.301 974 Delete type=0 #81553
