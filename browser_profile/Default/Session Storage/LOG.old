@@ -1,4 +1,30 @@
-2026/06/13-21:05:40.346 976 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/13-21:11:51.487 976 Level-0 table #81749: started
-2026/06/13-21:11:51.502 976 Level-0 table #81749: 577830 bytes OK
-2026/06/13-21:11:51.504 976 Delete type=0 #81747
+2026/06/13-22:19:32.849 bf1 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/13-22:23:12.927 bf1 Level-0 table #81753: started
+2026/06/13-22:23:12.929 bf1 Level-0 table #81753: 10673 bytes OK
+2026/06/13-22:23:12.930 bf1 Delete type=0 #81751
+2026/06/13-22:26:35.436 bf5 Level-0 table #81755: started
+2026/06/13-22:26:35.441 bf5 Level-0 table #81755: 12258 bytes OK
+2026/06/13-22:26:35.443 bf5 Delete type=0 #81752
+2026/06/13-22:36:06.963 bf5 Level-0 table #81757: started
+2026/06/13-22:36:06.967 bf5 Level-0 table #81757: 14852 bytes OK
+2026/06/13-22:36:06.969 bf5 Delete type=0 #81754
+2026/06/13-22:36:06.969 bf5 Compacting 4@0 + 5@1 files
+2026/06/13-22:36:07.002 bf5 Generated table #81758@0: 23 keys, 2290880 bytes
+2026/06/13-22:36:07.045 bf5 Generated table #81759@0: 75149 keys, 2149322 bytes
+2026/06/13-22:36:07.081 bf5 Generated table #81760@0: 75281 keys, 2150600 bytes
+2026/06/13-22:36:07.114 bf5 Generated table #81761@0: 75261 keys, 2149226 bytes
+2026/06/13-22:36:07.131 bf5 Generated table #81762@0: 39055 keys, 1116193 bytes
+2026/06/13-22:36:07.131 bf5 Compacted 4@0 + 5@1 files => 9856221 bytes
+2026/06/13-22:36:07.132 bf5 compacted to: files[ 0 5 47 16 0 0 0 ]
+2026/06/13-22:36:07.133 bf5 Delete type=2 #81745
+2026/06/13-22:36:07.133 bf5 Delete type=2 #81753
+2026/06/13-22:36:07.133 bf5 Delete type=2 #81741
+2026/06/13-22:36:07.133 bf5 Delete type=2 #81743
+2026/06/13-22:36:07.133 bf5 Delete type=2 #81749
+2026/06/13-22:36:07.133 bf5 Delete type=2 #81744
+2026/06/13-22:36:07.133 bf5 Delete type=2 #81755
+2026/06/13-22:36:07.133 bf5 Delete type=2 #81757
+2026/06/13-22:36:07.133 bf5 Delete type=2 #81742
+2026/06/13-22:43:25.251 bf1 Level-0 table #81764: started
+2026/06/13-22:43:25.253 bf1 Level-0 table #81764: 14657 bytes OK
+2026/06/13-22:43:25.255 bf1 Delete type=0 #81756
