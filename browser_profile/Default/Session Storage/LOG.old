@@ -1,9 +1,30 @@
-2026/06/14-22:56:28.658 97f Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/14-23:00:06.411 983 Level-0 table #81908: started
-2026/06/14-23:00:06.414 983 Level-0 table #81908: 10561 bytes OK
-2026/06/14-23:00:06.416 983 Delete type=0 #81906
-2026/06/14-23:02:25.155 983 Level-0 table #81910: started
-2026/06/14-23:02:25.167 983 Level-0 table #81910: 581165 bytes OK
-2026/06/14-23:02:25.169 983 Delete type=0 #81907
-2026/06/14-23:07:11.846 983 Level-0 table #81912: started
-2026/06/14-23:07:11.847 983 Level-0 table #81912: 12626 bytes OK
+2026/06/15-00:10:18.820 9b6 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/15-00:10:18.824 9b6 Delete type=2 #81912
+2026/06/15-00:13:54.175 9b6 Level-0 table #81914: started
+2026/06/15-00:13:54.180 9b6 Level-0 table #81914: 10516 bytes OK
+2026/06/15-00:13:54.182 9b6 Delete type=0 #81912
+2026/06/15-00:16:37.177 9ba Level-0 table #81916: started
+2026/06/15-00:16:37.189 9ba Level-0 table #81916: 582859 bytes OK
+2026/06/15-00:16:37.191 9ba Delete type=0 #81913
+2026/06/15-00:16:37.192 9ba Compacting 4@0 + 4@1 files
+2026/06/15-00:16:37.222 9ba Generated table #81917@0: 13526 keys, 2107612 bytes
+2026/06/15-00:16:37.258 9ba Generated table #81918@0: 75236 keys, 2149171 bytes
+2026/06/15-00:16:37.290 9ba Generated table #81919@0: 75304 keys, 2150458 bytes
+2026/06/15-00:16:37.323 9ba Generated table #81920@0: 75276 keys, 2149750 bytes
+2026/06/15-00:16:37.335 9ba Generated table #81921@0: 27506 keys, 786257 bytes
+2026/06/15-00:16:37.335 9ba Compacted 4@0 + 4@1 files => 9343248 bytes
+2026/06/15-00:16:37.336 9ba compacted to: files[ 0 5 47 18 0 0 0 ]
+2026/06/15-00:16:37.336 9ba Delete type=2 #81914
+2026/06/15-00:16:37.336 9ba Delete type=2 #81916
+2026/06/15-00:16:37.336 9ba Delete type=2 #81901
+2026/06/15-00:16:37.336 9ba Delete type=2 #81902
+2026/06/15-00:16:37.336 9ba Delete type=2 #81903
+2026/06/15-00:16:37.336 9ba Delete type=2 #81910
+2026/06/15-00:16:37.336 9ba Delete type=2 #81904
+2026/06/15-00:16:37.336 9ba Delete type=2 #81908
+2026/06/15-00:54:35.327 9ba Level-0 table #81923: started
+2026/06/15-00:54:35.334 9ba Level-0 table #81923: 13658 bytes OK
+2026/06/15-00:54:35.335 9ba Delete type=0 #81915
+2026/06/15-00:58:17.558 9ba Level-0 table #81925: started
+2026/06/15-00:58:17.559 9ba Level-0 table #81925: 11903 bytes OK
+2026/06/15-00:58:17.561 9ba Delete type=0 #81922
