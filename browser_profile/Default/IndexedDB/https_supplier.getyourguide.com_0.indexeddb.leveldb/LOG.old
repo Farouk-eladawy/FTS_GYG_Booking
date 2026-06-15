@@ -1,1 +1,13 @@
-2026/06/15-10:01:48.839 970 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/IndexedDB/https_supplier.getyourguide.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/06/15-12:29:40.457 96d Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/IndexedDB/https_supplier.getyourguide.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/06/15-12:50:32.530 96d Level-0 table #20019: started
+2026/06/15-12:50:32.533 96d Level-0 table #20019: 417094 bytes OK
+2026/06/15-12:50:32.534 96d Delete type=0 #20017
+2026/06/15-12:50:32.534 96d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/06/15-12:50:32.534 96d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x06\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 6277549 : 1
+2026/06/15-12:50:32.534 96d Compacting 1@1 + 1@2 files
+2026/06/15-12:50:32.536 96d Generated table #20020@1: 120 keys, 5268 bytes
+2026/06/15-12:50:32.536 96d Compacted 1@1 + 1@2 files => 5268 bytes
+2026/06/15-12:50:32.537 96d compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/06/15-12:50:32.537 96d Delete type=2 #20019
+2026/06/15-12:50:32.537 96d Delete type=2 #20015
+2026/06/15-12:50:32.537 96d Manual compaction at level-1 from '\x00\x06\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 6277549 : 1 .. (end); will stop at (end)
