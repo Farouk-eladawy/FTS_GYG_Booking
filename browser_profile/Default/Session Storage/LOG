@@ -1,4 +1,26 @@
-2026/06/17-17:28:59.048 922 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/17-17:35:03.685 922 Level-0 table #82314: started
-2026/06/17-17:35:03.696 922 Level-0 table #82314: 580358 bytes OK
-2026/06/17-17:35:03.698 922 Delete type=0 #82312
+2026/06/17-18:42:58.004 975 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/17-18:54:42.451 979 Level-0 table #82318: started
+2026/06/17-18:54:42.458 979 Level-0 table #82318: 13049 bytes OK
+2026/06/17-18:54:42.460 979 Delete type=0 #82316
+2026/06/17-18:54:42.460 975 Compacting 4@0 + 5@1 files
+2026/06/17-18:54:42.498 975 Generated table #82319@0: 34 keys, 2301314 bytes
+2026/06/17-18:54:42.534 975 Generated table #82320@0: 54583 keys, 2135185 bytes
+2026/06/17-18:54:42.573 975 Generated table #82321@0: 75286 keys, 2150234 bytes
+2026/06/17-18:54:42.606 975 Generated table #82322@0: 75252 keys, 2149569 bytes
+2026/06/17-18:54:42.635 975 Generated table #82323@0: 67253 keys, 1920787 bytes
+2026/06/17-18:54:42.635 975 Compacted 4@0 + 5@1 files => 10657089 bytes
+2026/06/17-18:54:42.635 975 compacted to: files[ 0 5 47 20 0 0 0 ]
+2026/06/17-18:54:42.636 975 Delete type=2 #82303
+2026/06/17-18:54:42.636 975 Delete type=2 #82301
+2026/06/17-18:54:42.636 975 Delete type=2 #82318
+2026/06/17-18:54:42.636 975 Delete type=2 #82304
+2026/06/17-18:54:42.636 975 Delete type=2 #82310
+2026/06/17-18:54:42.636 975 Delete type=2 #82314
+2026/06/17-18:54:42.636 975 Delete type=2 #82300
+2026/06/17-18:54:42.636 975 Delete type=2 #82306
+2026/06/17-18:54:42.636 975 Delete type=2 #82302
+2026/06/17-18:54:42.638 975 Moved #82319 to level-2 2301314 bytes OK: files[ 0 4 48 20 0 0 0 ]
+2026/06/17-18:54:42.638 975 Moved #73135 to level-3 2242666 bytes OK: files[ 0 4 47 21 0 0 0 ]
+2026/06/17-18:57:41.994 979 Level-0 table #82325: started
+2026/06/17-18:57:42.006 979 Level-0 table #82325: 582745 bytes OK
+2026/06/17-18:57:42.009 979 Delete type=0 #82317
