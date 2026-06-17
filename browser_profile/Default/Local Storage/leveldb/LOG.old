@@ -1,22 +1,13 @@
-2026/06/17-18:42:57.389 979 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/06/17-18:48:57.986 979 Level-0 table #12354: started
-2026/06/17-18:48:57.991 979 Level-0 table #12354: 21744 bytes OK
-2026/06/17-18:48:57.992 979 Delete type=0 #12352
-2026/06/17-18:48:57.992 979 Compacting 4@0 + 1@1 files
-2026/06/17-18:48:57.995 979 Generated table #12355@0: 1683 keys, 51335 bytes
-2026/06/17-18:48:57.995 979 Compacted 4@0 + 1@1 files => 51335 bytes
-2026/06/17-18:48:57.996 979 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/06/17-18:48:57.996 979 Delete type=2 #12350
-2026/06/17-18:48:57.996 979 Delete type=2 #12340
-2026/06/17-18:48:57.996 979 Delete type=2 #12346
-2026/06/17-18:48:57.996 979 Delete type=2 #12342
-2026/06/17-18:48:57.996 979 Delete type=2 #12354
-2026/06/17-18:50:20.974 975 Level-0 table #12357: started
-2026/06/17-18:50:20.989 975 Level-0 table #12357: 23883 bytes OK
-2026/06/17-18:50:20.990 975 Delete type=0 #12353
-2026/06/17-18:53:57.987 979 Level-0 table #12359: started
-2026/06/17-18:53:57.993 979 Level-0 table #12359: 20998 bytes OK
-2026/06/17-18:53:57.994 979 Delete type=0 #12356
-2026/06/17-18:58:15.592 97a Level-0 table #12361: started
-2026/06/17-18:58:15.597 97a Level-0 table #12361: 20657 bytes OK
-2026/06/17-18:58:15.598 97a Delete type=0 #12358
+2026/06/17-19:56:51.291 93a Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/06/17-20:02:52.211 93e Level-0 table #12365: started
+2026/06/17-20:02:52.215 93e Level-0 table #12365: 21497 bytes OK
+2026/06/17-20:02:52.215 93e Delete type=0 #12363
+2026/06/17-20:02:52.215 93e Compacting 4@0 + 1@1 files
+2026/06/17-20:02:52.217 93e Generated table #12366@0: 1685 keys, 51471 bytes
+2026/06/17-20:02:52.217 93e Compacted 4@0 + 1@1 files => 51471 bytes
+2026/06/17-20:02:52.217 93e compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/06/17-20:02:52.218 93e Delete type=2 #12359
+2026/06/17-20:02:52.218 93e Delete type=2 #12357
+2026/06/17-20:02:52.218 93e Delete type=2 #12361
+2026/06/17-20:02:52.218 93e Delete type=2 #12355
+2026/06/17-20:02:52.218 93e Delete type=2 #12365
