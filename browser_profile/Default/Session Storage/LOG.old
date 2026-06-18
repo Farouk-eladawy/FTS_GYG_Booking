@@ -1,4 +1,27 @@
-2026/06/18-04:34:04.784 977 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/18-04:41:41.160 97b Level-0 table #82367: started
-2026/06/18-04:41:41.193 97b Level-0 table #82367: 579709 bytes OK
-2026/06/18-04:41:41.195 97b Delete type=0 #82365
+2026/06/18-05:47:53.018 979 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/18-05:51:37.502 97d Level-0 table #82371: started
+2026/06/18-05:51:37.508 97d Level-0 table #82371: 10587 bytes OK
+2026/06/18-05:51:37.510 97d Delete type=0 #82369
+2026/06/18-05:51:37.511 97d Compacting 4@0 + 4@1 files
+2026/06/18-05:51:37.547 97d Generated table #82372@0: 13375 keys, 2107401 bytes
+2026/06/18-05:51:37.587 97d Generated table #82373@0: 75308 keys, 2150967 bytes
+2026/06/18-05:51:37.624 97d Generated table #82374@0: 75298 keys, 2149515 bytes
+2026/06/18-05:51:37.657 97d Generated table #82375@0: 75275 keys, 2149893 bytes
+2026/06/18-05:51:37.672 97d Generated table #82376@0: 33739 keys, 964076 bytes
+2026/06/18-05:51:37.672 97d Compacted 4@0 + 4@1 files => 9521852 bytes
+2026/06/18-05:51:37.673 97d compacted to: files[ 0 6 47 21 0 0 0 ]
+2026/06/18-05:51:37.673 97d Delete type=2 #82359
+2026/06/18-05:51:37.673 97d Delete type=2 #82357
+2026/06/18-05:51:37.673 97d Delete type=2 #82356
+2026/06/18-05:51:37.673 97d Delete type=2 #82354
+2026/06/18-05:51:37.673 97d Delete type=2 #82363
+2026/06/18-05:51:37.673 97d Delete type=2 #82355
+2026/06/18-05:51:37.673 97d Delete type=2 #82371
+2026/06/18-05:51:37.673 97d Delete type=2 #82367
+2026/06/18-05:51:37.675 97d Moved #82353 to level-2 2297673 bytes OK: files[ 0 5 48 21 0 0 0 ]
+2026/06/18-05:51:37.676 97d Moved #73575 to level-3 2267748 bytes OK: files[ 0 5 47 22 0 0 0 ]
+2026/06/18-05:55:38.491 979 Level-0 table #82378: started
+2026/06/18-05:55:38.492 979 Level-0 table #82378: 9900 bytes OK
+2026/06/18-05:55:38.493 979 Delete type=0 #82370
+2026/06/18-05:58:57.097 97f Level-0 table #82380: started
+2026/06/18-05:58:57.098 97f Level-0 table #82380: 9737 bytes OK
