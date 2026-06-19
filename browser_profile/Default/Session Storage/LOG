@@ -1,7 +1,24 @@
-2026/06/19-21:12:58.431 969 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/19-21:17:00.472 96d Level-0 table #82586: started
-2026/06/19-21:17:00.479 96d Level-0 table #82586: 10397 bytes OK
-2026/06/19-21:17:00.482 96d Delete type=0 #82584
-2026/06/19-21:21:18.624 96d Level-0 table #82588: started
-2026/06/19-21:21:18.628 96d Level-0 table #82588: 10778 bytes OK
-2026/06/19-21:21:18.630 96d Delete type=0 #82585
+2026/06/19-22:26:38.494 96e Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/19-22:29:57.457 96e Level-0 table #82592: started
+2026/06/19-22:29:57.458 96e Level-0 table #82592: 11711 bytes OK
+2026/06/19-22:29:57.459 96e Delete type=0 #82590
+2026/06/19-22:33:15.568 972 Level-0 table #82594: started
+2026/06/19-22:33:15.573 972 Level-0 table #82594: 11002 bytes OK
+2026/06/19-22:33:15.574 972 Delete type=0 #82591
+2026/06/19-22:33:15.574 972 Compacting 4@0 + 5@1 files
+2026/06/19-22:33:15.615 972 Generated table #82595@0: 13112 keys, 2107808 bytes
+2026/06/19-22:33:15.672 972 Generated table #82596@0: 75270 keys, 2148965 bytes
+2026/06/19-22:33:15.727 972 Generated table #82597@0: 75279 keys, 2150194 bytes
+2026/06/19-22:33:15.784 972 Generated table #82598@0: 75298 keys, 2149932 bytes
+2026/06/19-22:33:15.812 972 Generated table #82599@0: 36881 keys, 1051976 bytes
+2026/06/19-22:33:15.812 972 Compacted 4@0 + 5@1 files => 9608875 bytes
+2026/06/19-22:33:15.814 972 compacted to: files[ 0 5 47 26 0 0 0 ]
+2026/06/19-22:33:15.816 972 Delete type=2 #82588
+2026/06/19-22:33:15.816 972 Delete type=2 #82594
+2026/06/19-22:33:15.817 972 Delete type=2 #82582
+2026/06/19-22:33:15.817 972 Delete type=2 #82581
+2026/06/19-22:33:15.817 972 Delete type=2 #82586
+2026/06/19-22:33:15.817 972 Delete type=2 #82579
+2026/06/19-22:33:15.819 972 Delete type=2 #82580
+2026/06/19-22:33:15.819 972 Delete type=2 #82578
+2026/06/19-22:33:15.819 972 Delete type=2 #82592
