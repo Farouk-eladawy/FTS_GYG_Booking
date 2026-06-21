@@ -1,8 +1,25 @@
-2026/06/21-03:57:33.688 974 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/21-03:57:33.693 974 Delete type=2 #82750
-2026/06/21-04:01:04.698 974 Level-0 table #82752: started
-2026/06/21-04:01:04.706 974 Level-0 table #82752: 10920 bytes OK
-2026/06/21-04:01:04.708 974 Delete type=0 #82750
-2026/06/21-04:04:34.562 978 Level-0 table #82754: started
-2026/06/21-04:04:34.568 978 Level-0 table #82754: 10552 bytes OK
-2026/06/21-04:04:34.569 978 Delete type=0 #82751
+2026/06/21-05:11:23.434 989 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/21-05:14:38.285 989 Level-0 table #82758: started
+2026/06/21-05:14:38.287 989 Level-0 table #82758: 11237 bytes OK
+2026/06/21-05:14:38.288 989 Delete type=0 #82756
+2026/06/21-05:14:38.288 989 Compacting 4@0 + 4@1 files
+2026/06/21-05:14:38.328 989 Generated table #82759@0: 54321 keys, 2135830 bytes
+2026/06/21-05:14:38.367 989 Generated table #82760@0: 75206 keys, 2149857 bytes
+2026/06/21-05:14:38.403 989 Generated table #82761@0: 75206 keys, 2149014 bytes
+2026/06/21-05:14:38.442 989 Generated table #82762@0: 73146 keys, 2089548 bytes
+2026/06/21-05:14:38.442 989 Compacted 4@0 + 4@1 files => 8524249 bytes
+2026/06/21-05:14:38.442 989 compacted to: files[ 0 4 47 27 0 0 0 ]
+2026/06/21-05:14:38.443 989 Delete type=2 #82748
+2026/06/21-05:14:38.443 989 Delete type=2 #82744
+2026/06/21-05:14:38.443 989 Delete type=2 #82754
+2026/06/21-05:14:38.443 989 Delete type=2 #82752
+2026/06/21-05:14:38.443 989 Delete type=2 #82743
+2026/06/21-05:14:38.443 989 Delete type=2 #82741
+2026/06/21-05:14:38.443 989 Delete type=2 #82742
+2026/06/21-05:14:38.443 989 Delete type=2 #82758
+2026/06/21-05:17:41.324 98d Level-0 table #82764: started
+2026/06/21-05:17:41.325 98d Level-0 table #82764: 9990 bytes OK
+2026/06/21-05:17:41.326 98d Delete type=0 #82757
+2026/06/21-06:00:49.976 98d Level-0 table #82766: started
+2026/06/21-06:00:49.984 98d Level-0 table #82766: 13176 bytes OK
+2026/06/21-06:00:49.986 98d Delete type=0 #82763
