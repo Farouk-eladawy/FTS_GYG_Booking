@@ -1,24 +1,7 @@
-2026/06/23-03:58:19.371 935 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/23-04:01:52.708 939 Level-0 table #83028: started
-2026/06/23-04:01:52.712 939 Level-0 table #83028: 11068 bytes OK
-2026/06/23-04:01:52.714 939 Delete type=0 #83026
-2026/06/23-04:05:57.373 939 Level-0 table #83030: started
-2026/06/23-04:05:57.374 939 Level-0 table #83030: 10504 bytes OK
-2026/06/23-04:05:57.375 939 Delete type=0 #83027
-2026/06/23-04:05:57.375 939 Compacting 4@0 + 5@1 files
-2026/06/23-04:05:57.407 939 Generated table #83031@0: 12774 keys, 2107312 bytes
-2026/06/23-04:05:57.438 939 Generated table #83032@0: 75237 keys, 2149853 bytes
-2026/06/23-04:05:57.509 939 Generated table #83033@0: 75213 keys, 2149090 bytes
-2026/06/23-04:05:57.570 939 Generated table #83034@0: 75247 keys, 2149919 bytes
-2026/06/23-04:05:57.612 939 Generated table #83035@0: 42682 keys, 1219729 bytes
-2026/06/23-04:05:57.612 939 Compacted 4@0 + 5@1 files => 9775903 bytes
-2026/06/23-04:05:57.613 939 compacted to: files[ 0 5 46 29 0 0 0 ]
-2026/06/23-04:05:57.615 939 Delete type=2 #83017
-2026/06/23-04:05:57.615 939 Delete type=2 #83022
-2026/06/23-04:05:57.615 939 Delete type=2 #83016
-2026/06/23-04:05:57.615 939 Delete type=2 #83028
-2026/06/23-04:05:57.615 939 Delete type=2 #83018
-2026/06/23-04:05:57.615 939 Delete type=2 #83030
-2026/06/23-04:05:57.615 939 Delete type=2 #83014
-2026/06/23-04:05:57.615 939 Delete type=2 #83024
-2026/06/23-04:05:57.615 939 Delete type=2 #83015
+2026/06/23-05:12:11.371 978 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/23-05:16:02.695 97c Level-0 table #83039: started
+2026/06/23-05:16:02.698 97c Level-0 table #83039: 10824 bytes OK
+2026/06/23-05:16:02.700 97c Delete type=0 #83037
+2026/06/23-05:20:34.288 97c Level-0 table #83041: started
+2026/06/23-05:20:34.291 97c Level-0 table #83041: 11107 bytes OK
+2026/06/23-05:20:34.293 97c Delete type=0 #83038
