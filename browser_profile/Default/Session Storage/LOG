@@ -1,24 +1,7 @@
-2026/06/23-08:53:52.189 975 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/23-08:57:25.716 979 Level-0 table #83063: started
-2026/06/23-08:57:25.721 979 Level-0 table #83063: 9707 bytes OK
-2026/06/23-08:57:25.723 979 Delete type=0 #83061
-2026/06/23-09:01:45.279 97a Level-0 table #83065: started
-2026/06/23-09:01:45.281 97a Level-0 table #83065: 9829 bytes OK
-2026/06/23-09:01:45.283 97a Delete type=0 #83062
-2026/06/23-09:01:45.283 97a Compacting 4@0 + 5@1 files
-2026/06/23-09:01:45.363 97a Generated table #83066@0: 54395 keys, 2135532 bytes
-2026/06/23-09:01:45.413 97a Generated table #83067@0: 75338 keys, 2150222 bytes
-2026/06/23-09:01:45.462 97a Generated table #83068@0: 75213 keys, 2148789 bytes
-2026/06/23-09:01:45.508 97a Generated table #83069@0: 75263 keys, 2150327 bytes
-2026/06/23-09:01:45.510 97a Generated table #83070@0: 1323 keys, 37795 bytes
-2026/06/23-09:01:45.510 97a Compacted 4@0 + 5@1 files => 8622665 bytes
-2026/06/23-09:01:45.510 97a compacted to: files[ 0 5 46 30 0 0 0 ]
-2026/06/23-09:01:45.511 97a Delete type=2 #83065
-2026/06/23-09:01:45.511 97a Delete type=2 #83057
-2026/06/23-09:01:45.511 97a Delete type=2 #83055
-2026/06/23-09:01:45.511 97a Delete type=2 #83053
-2026/06/23-09:01:45.511 97a Delete type=2 #83054
-2026/06/23-09:01:45.511 97a Delete type=2 #83052
-2026/06/23-09:01:45.511 97a Delete type=2 #83051
-2026/06/23-09:01:45.511 97a Delete type=2 #83059
-2026/06/23-09:01:45.511 97a Delete type=2 #83063
+2026/06/23-10:07:52.682 976 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/23-10:11:49.781 97b Level-0 table #83074: started
+2026/06/23-10:11:49.787 97b Level-0 table #83074: 9759 bytes OK
+2026/06/23-10:11:49.791 97b Delete type=0 #83072
+2026/06/23-10:16:13.217 97a Level-0 table #83076: started
+2026/06/23-10:16:13.224 97a Level-0 table #83076: 9831 bytes OK
+2026/06/23-10:16:13.226 97a Delete type=0 #83073
