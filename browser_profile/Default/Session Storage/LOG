@@ -1,24 +1,7 @@
-2026/06/23-11:21:41.303 980 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/23-11:25:52.567 984 Level-0 table #83080: started
-2026/06/23-11:25:52.575 984 Level-0 table #83080: 9915 bytes OK
-2026/06/23-11:25:52.579 984 Delete type=0 #83078
-2026/06/23-11:30:58.043 980 Level-0 table #83082: started
-2026/06/23-11:30:58.044 980 Level-0 table #83082: 10691 bytes OK
-2026/06/23-11:30:58.045 980 Delete type=0 #83079
-2026/06/23-11:30:58.045 980 Compacting 4@0 + 5@1 files
-2026/06/23-11:30:58.089 980 Generated table #83083@0: 54413 keys, 2135656 bytes
-2026/06/23-11:30:58.152 980 Generated table #83084@0: 75219 keys, 2148943 bytes
-2026/06/23-11:30:58.227 980 Generated table #83085@0: 75220 keys, 2149142 bytes
-2026/06/23-11:30:58.291 980 Generated table #83086@0: 75273 keys, 2150039 bytes
-2026/06/23-11:30:58.294 980 Generated table #83087@0: 1587 keys, 45746 bytes
-2026/06/23-11:30:58.294 980 Compacted 4@0 + 5@1 files => 8629526 bytes
-2026/06/23-11:30:58.295 980 compacted to: files[ 0 5 46 30 0 0 0 ]
-2026/06/23-11:30:58.297 980 Delete type=2 #83082
-2026/06/23-11:30:58.297 980 Delete type=2 #83069
-2026/06/23-11:30:58.297 980 Delete type=2 #83066
-2026/06/23-11:30:58.297 980 Delete type=2 #83080
-2026/06/23-11:30:58.297 980 Delete type=2 #83074
-2026/06/23-11:30:58.297 980 Delete type=2 #83070
-2026/06/23-11:30:58.297 980 Delete type=2 #83067
-2026/06/23-11:30:58.297 980 Delete type=2 #83068
-2026/06/23-11:30:58.297 980 Delete type=2 #83076
+2026/06/23-12:35:38.452 96f Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/23-12:39:10.561 973 Level-0 table #83091: started
+2026/06/23-12:39:10.567 973 Level-0 table #83091: 10084 bytes OK
+2026/06/23-12:39:10.568 973 Delete type=0 #83089
+2026/06/23-12:42:46.569 973 Level-0 table #83093: started
+2026/06/23-12:42:46.576 973 Level-0 table #83093: 9867 bytes OK
+2026/06/23-12:42:46.579 973 Delete type=0 #83090
