@@ -1,24 +1,7 @@
-2026/06/24-23:03:46.364 964 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/24-23:07:36.354 968 Level-0 table #83259: started
-2026/06/24-23:07:36.355 968 Level-0 table #83259: 9860 bytes OK
-2026/06/24-23:07:36.357 968 Delete type=0 #83257
-2026/06/24-23:07:36.357 968 Compacting 4@0 + 5@1 files
-2026/06/24-23:07:36.404 968 Generated table #83260@0: 54769 keys, 2135143 bytes
-2026/06/24-23:07:36.449 968 Generated table #83261@0: 75210 keys, 2149684 bytes
-2026/06/24-23:07:36.484 968 Generated table #83262@0: 75204 keys, 2149327 bytes
-2026/06/24-23:07:36.517 968 Generated table #83263@0: 75184 keys, 2149658 bytes
-2026/06/24-23:07:36.519 968 Generated table #83264@0: 3653 keys, 104785 bytes
-2026/06/24-23:07:36.519 968 Compacted 4@0 + 5@1 files => 8688597 bytes
-2026/06/24-23:07:36.519 968 compacted to: files[ 0 5 46 31 0 0 0 ]
-2026/06/24-23:07:36.520 968 Delete type=2 #83246
-2026/06/24-23:07:36.520 968 Delete type=2 #83251
-2026/06/24-23:07:36.520 968 Delete type=2 #83244
-2026/06/24-23:07:36.520 968 Delete type=2 #83253
-2026/06/24-23:07:36.520 968 Delete type=2 #83247
-2026/06/24-23:07:36.520 968 Delete type=2 #83243
-2026/06/24-23:07:36.520 968 Delete type=2 #83259
-2026/06/24-23:07:36.520 968 Delete type=2 #83245
-2026/06/24-23:07:36.520 968 Delete type=2 #83255
-2026/06/24-23:10:31.932 968 Level-0 table #83266: started
-2026/06/24-23:10:31.953 968 Level-0 table #83266: 577636 bytes OK
-2026/06/24-23:10:31.956 968 Delete type=0 #83258
+2026/06/25-00:17:36.682 979 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/25-00:21:53.665 979 Level-0 table #83270: started
+2026/06/25-00:21:53.668 979 Level-0 table #83270: 9460 bytes OK
+2026/06/25-00:21:53.672 979 Delete type=0 #83268
+2026/06/25-00:25:08.466 97d Level-0 table #83272: started
+2026/06/25-00:25:08.477 97d Level-0 table #83272: 576895 bytes OK
+2026/06/25-00:25:08.478 97d Delete type=0 #83269
