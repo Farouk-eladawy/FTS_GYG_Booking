@@ -1,7 +1,24 @@
-2026/06/27-11:22:42.483 967 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/27-11:27:36.215 96b Level-0 table #83547: started
-2026/06/27-11:27:36.219 96b Level-0 table #83547: 12130 bytes OK
-2026/06/27-11:27:36.220 96b Delete type=0 #83545
-2026/06/27-11:32:16.312 96b Level-0 table #83549: started
-2026/06/27-11:32:16.323 96b Level-0 table #83549: 578650 bytes OK
-2026/06/27-11:32:16.324 96b Delete type=0 #83546
+2026/06/27-12:36:32.777 975 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/27-12:46:52.944 979 Level-0 table #83553: started
+2026/06/27-12:46:52.961 979 Level-0 table #83553: 573660 bytes OK
+2026/06/27-12:46:52.963 979 Delete type=0 #83551
+2026/06/27-12:46:52.964 975 Compacting 4@0 + 5@1 files
+2026/06/27-12:46:52.997 975 Generated table #83554@0: 17 keys, 2278274 bytes
+2026/06/27-12:46:53.029 975 Generated table #83555@0: 54885 keys, 2136786 bytes
+2026/06/27-12:46:53.065 975 Generated table #83556@0: 75293 keys, 2150442 bytes
+2026/06/27-12:46:53.098 975 Generated table #83557@0: 75306 keys, 2150565 bytes
+2026/06/27-12:46:53.130 975 Generated table #83558@0: 75260 keys, 2148864 bytes
+2026/06/27-12:46:53.133 975 Generated table #83559@0: 6386 keys, 182778 bytes
+2026/06/27-12:46:53.133 975 Compacted 4@0 + 5@1 files => 11047709 bytes
+2026/06/27-12:46:53.134 975 compacted to: files[ 0 6 46 36 0 0 0 ]
+2026/06/27-12:46:53.135 975 Delete type=2 #83538
+2026/06/27-12:46:53.135 975 Delete type=2 #83553
+2026/06/27-12:46:53.135 975 Delete type=2 #83537
+2026/06/27-12:46:53.135 975 Delete type=2 #83540
+2026/06/27-12:46:53.135 975 Delete type=2 #83541
+2026/06/27-12:46:53.135 975 Delete type=2 #83547
+2026/06/27-12:46:53.135 975 Delete type=2 #83539
+2026/06/27-12:46:53.135 975 Delete type=2 #83543
+2026/06/27-12:46:53.135 975 Delete type=2 #83549
+2026/06/27-12:46:53.136 975 Moved #83554 to level-2 2278274 bytes OK: files[ 0 5 47 36 0 0 0 ]
+2026/06/27-12:46:53.137 975 Moved #77040 to level-3 2276254 bytes OK: files[ 0 5 46 37 0 0 0 ]
