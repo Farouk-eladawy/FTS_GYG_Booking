@@ -1,7 +1,27 @@
-2026/06/29-19:58:00.689 921 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/29-20:03:42.817 925 Level-0 table #83815: started
-2026/06/29-20:03:42.822 925 Level-0 table #83815: 12115 bytes OK
-2026/06/29-20:03:42.824 925 Delete type=0 #83813
-2026/06/29-20:07:50.054 925 Level-0 table #83817: started
-2026/06/29-20:07:50.062 925 Level-0 table #83817: 577589 bytes OK
-2026/06/29-20:07:50.064 925 Delete type=0 #83814
+2026/06/29-21:11:51.209 91e Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/29-21:17:00.766 91e Level-0 table #83821: started
+2026/06/29-21:17:00.774 91e Level-0 table #83821: 9942 bytes OK
+2026/06/29-21:17:00.776 91e Delete type=0 #83819
+2026/06/29-21:21:39.784 922 Level-0 table #83823: started
+2026/06/29-21:21:39.795 922 Level-0 table #83823: 577173 bytes OK
+2026/06/29-21:21:39.797 922 Delete type=0 #83820
+2026/06/29-21:21:39.797 922 Compacting 4@0 + 5@1 files
+2026/06/29-21:21:39.823 922 Generated table #83824@0: 23 keys, 2277374 bytes
+2026/06/29-21:21:39.856 922 Generated table #83825@0: 54796 keys, 2135718 bytes
+2026/06/29-21:21:39.898 922 Generated table #83826@0: 75267 keys, 2149630 bytes
+2026/06/29-21:21:39.931 922 Generated table #83827@0: 75207 keys, 2149157 bytes
+2026/06/29-21:21:39.966 922 Generated table #83828@0: 75203 keys, 2149102 bytes
+2026/06/29-21:21:39.971 922 Generated table #83829@0: 9411 keys, 269275 bytes
+2026/06/29-21:21:39.971 922 Compacted 4@0 + 5@1 files => 11130256 bytes
+2026/06/29-21:21:39.975 922 compacted to: files[ 0 6 46 42 0 0 0 ]
+2026/06/29-21:21:39.976 922 Delete type=2 #83815
+2026/06/29-21:21:39.976 922 Delete type=2 #83810
+2026/06/29-21:21:39.976 922 Delete type=2 #83811
+2026/06/29-21:21:39.976 922 Delete type=2 #83821
+2026/06/29-21:21:39.976 922 Delete type=2 #83823
+2026/06/29-21:21:39.976 922 Delete type=2 #83809
+2026/06/29-21:21:39.976 922 Delete type=2 #83817
+2026/06/29-21:21:39.976 922 Delete type=2 #83808
+2026/06/29-21:21:39.976 922 Delete type=2 #83807
+2026/06/29-21:21:39.979 922 Moved #83824 to level-2 2277374 bytes OK: files[ 0 5 47 42 0 0 0 ]
+2026/06/29-21:21:39.980 922 Moved #78108 to level-3 2272940 bytes OK: files[ 0 5 46 43 0 0 0 ]
