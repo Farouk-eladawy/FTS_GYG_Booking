@@ -1,24 +1,7 @@
-2026/06/29-18:44:06.925 96d Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/29-18:49:09.721 971 Level-0 table #83804: started
-2026/06/29-18:49:09.723 971 Level-0 table #83804: 12172 bytes OK
-2026/06/29-18:49:09.725 971 Delete type=0 #83802
-2026/06/29-18:54:25.105 971 Level-0 table #83806: started
-2026/06/29-18:54:25.111 971 Level-0 table #83806: 11914 bytes OK
-2026/06/29-18:54:25.113 971 Delete type=0 #83803
-2026/06/29-18:54:25.115 971 Compacting 4@0 + 5@1 files
-2026/06/29-18:54:25.149 971 Generated table #83807@0: 13978 keys, 2107692 bytes
-2026/06/29-18:54:25.183 971 Generated table #83808@0: 75240 keys, 2150275 bytes
-2026/06/29-18:54:25.214 971 Generated table #83809@0: 75218 keys, 2149675 bytes
-2026/06/29-18:54:25.247 971 Generated table #83810@0: 75230 keys, 2148844 bytes
-2026/06/29-18:54:25.270 971 Generated table #83811@0: 50079 keys, 1431181 bytes
-2026/06/29-18:54:25.270 971 Compacted 4@0 + 5@1 files => 9987667 bytes
-2026/06/29-18:54:25.271 971 compacted to: files[ 0 5 46 42 0 0 0 ]
-2026/06/29-18:54:25.272 971 Delete type=2 #83791
-2026/06/29-18:54:25.272 971 Delete type=2 #83804
-2026/06/29-18:54:25.272 971 Delete type=2 #83790
-2026/06/29-18:54:25.272 971 Delete type=2 #83792
-2026/06/29-18:54:25.272 971 Delete type=2 #83794
-2026/06/29-18:54:25.272 971 Delete type=2 #83800
-2026/06/29-18:54:25.272 971 Delete type=2 #83798
-2026/06/29-18:54:25.272 971 Delete type=2 #83806
-2026/06/29-18:54:25.272 971 Delete type=2 #83793
+2026/06/29-19:58:00.689 921 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/29-20:03:42.817 925 Level-0 table #83815: started
+2026/06/29-20:03:42.822 925 Level-0 table #83815: 12115 bytes OK
+2026/06/29-20:03:42.824 925 Delete type=0 #83813
+2026/06/29-20:07:50.054 925 Level-0 table #83817: started
+2026/06/29-20:07:50.062 925 Level-0 table #83817: 577589 bytes OK
+2026/06/29-20:07:50.064 925 Delete type=0 #83814
