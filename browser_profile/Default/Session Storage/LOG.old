@@ -1,24 +1,7 @@
-2026/06/29-10:07:27.765 9a0 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/29-10:12:06.880 9a0 Level-0 table #83754: started
-2026/06/29-10:12:06.885 9a0 Level-0 table #83754: 12483 bytes OK
-2026/06/29-10:12:06.887 9a0 Delete type=0 #83752
-2026/06/29-10:12:06.887 9a0 Compacting 4@0 + 5@1 files
-2026/06/29-10:12:06.923 9a0 Generated table #83755@0: 13986 keys, 2108313 bytes
-2026/06/29-10:12:06.963 9a0 Generated table #83756@0: 75269 keys, 2150482 bytes
-2026/06/29-10:12:07.000 9a0 Generated table #83757@0: 75252 keys, 2149612 bytes
-2026/06/29-10:12:07.055 9a0 Generated table #83758@0: 75279 keys, 2149729 bytes
-2026/06/29-10:12:07.116 9a0 Generated table #83759@0: 49441 keys, 1413236 bytes
-2026/06/29-10:12:07.116 9a0 Compacted 4@0 + 5@1 files => 9971372 bytes
-2026/06/29-10:12:07.117 9a0 compacted to: files[ 0 5 46 41 0 0 0 ]
-2026/06/29-10:12:07.118 9a0 Delete type=2 #83739
-2026/06/29-10:12:07.118 9a0 Delete type=2 #83736
-2026/06/29-10:12:07.118 9a0 Delete type=2 #83748
-2026/06/29-10:12:07.118 9a0 Delete type=2 #83737
-2026/06/29-10:12:07.118 9a0 Delete type=2 #83738
-2026/06/29-10:12:07.118 9a0 Delete type=2 #83754
-2026/06/29-10:12:07.118 9a0 Delete type=2 #83744
-2026/06/29-10:12:07.118 9a0 Delete type=2 #83740
-2026/06/29-10:12:07.118 9a0 Delete type=2 #83750
-2026/06/29-10:16:56.418 9a4 Level-0 table #83761: started
-2026/06/29-10:16:56.420 9a4 Level-0 table #83761: 11470 bytes OK
-2026/06/29-10:16:56.421 9a4 Delete type=0 #83753
+2026/06/29-11:21:18.336 9bb Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/29-11:26:37.368 9bb Level-0 table #83765: started
+2026/06/29-11:26:37.371 9bb Level-0 table #83765: 9717 bytes OK
+2026/06/29-11:26:37.372 9bb Delete type=0 #83763
+2026/06/29-11:30:09.647 9bf Level-0 table #83767: started
+2026/06/29-11:30:09.668 9bf Level-0 table #83767: 574915 bytes OK
+2026/06/29-11:30:09.670 9bf Delete type=0 #83764
