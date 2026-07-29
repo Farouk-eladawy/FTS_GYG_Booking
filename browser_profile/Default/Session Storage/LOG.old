@@ -1,36 +1,30 @@
-2026/07/29-12:36:49.736 98f Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/07/29-12:41:36.609 98f Level-0 table #84005: started
-2026/07/29-12:41:36.627 98f Level-0 table #84005: 586004 bytes OK
-2026/07/29-12:41:36.629 98f Delete type=0 #84003
-2026/07/29-12:46:50.965 993 Level-0 table #84007: started
-2026/07/29-12:46:50.969 993 Level-0 table #84007: 13697 bytes OK
-2026/07/29-12:46:50.970 993 Delete type=0 #84004
-2026/07/29-12:50:25.741 993 Level-0 table #84009: started
-2026/07/29-12:50:25.744 993 Level-0 table #84009: 13454 bytes OK
-2026/07/29-12:50:25.745 993 Delete type=0 #84006
-2026/07/29-12:50:25.746 993 Compacting 4@0 + 5@1 files
-2026/07/29-12:50:25.807 993 Generated table #84010@0: 13975 keys, 2107374 bytes
-2026/07/29-12:50:25.850 993 Generated table #84011@0: 75281 keys, 2150280 bytes
-2026/07/29-12:50:25.897 993 Generated table #84012@0: 75245 keys, 2149794 bytes
-2026/07/29-12:50:25.956 993 Generated table #84013@0: 75261 keys, 2149972 bytes
-2026/07/29-12:50:26.007 993 Generated table #84014@0: 52229 keys, 1492264 bytes
-2026/07/29-12:50:26.007 993 Compacted 4@0 + 5@1 files => 10049684 bytes
-2026/07/29-12:50:26.008 993 compacted to: files[ 0 5 46 45 0 0 0 ]
-2026/07/29-12:50:26.009 993 Delete type=2 #83996
-2026/07/29-12:50:26.009 993 Delete type=2 #84007
-2026/07/29-12:50:26.009 993 Delete type=2 #83999
-2026/07/29-12:50:26.009 993 Delete type=2 #84005
-2026/07/29-12:50:26.009 993 Delete type=2 #83995
-2026/07/29-12:50:26.009 993 Delete type=2 #84009
-2026/07/29-12:50:26.009 993 Delete type=2 #84001
-2026/07/29-12:50:26.010 993 Delete type=2 #83997
-2026/07/29-12:50:26.010 993 Delete type=2 #83998
-2026/07/29-12:55:27.090 993 Level-0 table #84016: started
-2026/07/29-12:55:27.093 993 Level-0 table #84016: 12658 bytes OK
-2026/07/29-12:55:27.095 993 Delete type=0 #84008
-2026/07/29-12:58:43.498 994 Level-0 table #84018: started
-2026/07/29-12:58:43.500 994 Level-0 table #84018: 12111 bytes OK
-2026/07/29-12:58:43.504 994 Delete type=0 #84015
-2026/07/29-13:02:04.621 98f Level-0 table #84020: started
-2026/07/29-13:02:04.625 98f Level-0 table #84020: 12632 bytes OK
-2026/07/29-13:02:04.626 98f Delete type=0 #84017
+2026/07/29-13:14:41.668 859 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/07/29-13:25:03.338 85d Level-0 table #84024: started
+2026/07/29-13:25:03.340 85d Level-0 table #84024: 13710 bytes OK
+2026/07/29-13:25:03.341 85d Delete type=0 #84022
+2026/07/29-13:25:03.341 85d Compacting 4@0 + 5@1 files
+2026/07/29-13:25:03.367 85d Generated table #84025@0: 13959 keys, 2107187 bytes
+2026/07/29-13:25:03.387 85d Generated table #84026@0: 75274 keys, 2148937 bytes
+2026/07/29-13:25:03.406 85d Generated table #84027@0: 75251 keys, 2149702 bytes
+2026/07/29-13:25:03.435 85d Generated table #84028@0: 75320 keys, 2149264 bytes
+2026/07/29-13:25:03.448 85d Generated table #84029@0: 52443 keys, 1498030 bytes
+2026/07/29-13:25:03.448 85d Compacted 4@0 + 5@1 files => 10053120 bytes
+2026/07/29-13:25:03.449 85d compacted to: files[ 0 5 46 45 0 0 0 ]
+2026/07/29-13:25:03.450 85d Delete type=2 #84014
+2026/07/29-13:25:03.450 85d Delete type=2 #84018
+2026/07/29-13:25:03.450 85d Delete type=2 #84011
+2026/07/29-13:25:03.450 85d Delete type=2 #84013
+2026/07/29-13:25:03.450 85d Delete type=2 #84024
+2026/07/29-13:25:03.450 85d Delete type=2 #84016
+2026/07/29-13:25:03.450 85d Delete type=2 #84012
+2026/07/29-13:25:03.450 85d Delete type=2 #84020
+2026/07/29-13:25:03.450 85d Delete type=2 #84010
+2026/07/29-13:28:46.013 85d Level-0 table #84031: started
+2026/07/29-13:28:46.014 85d Level-0 table #84031: 13182 bytes OK
+2026/07/29-13:28:46.015 85d Delete type=0 #84023
+2026/07/29-13:32:31.304 859 Level-0 table #84033: started
+2026/07/29-13:32:31.309 859 Level-0 table #84033: 11750 bytes OK
+2026/07/29-13:32:31.311 859 Delete type=0 #84030
+2026/07/29-13:38:46.187 85d Level-0 table #84035: started
+2026/07/29-13:38:46.188 85d Level-0 table #84035: 10202 bytes OK
+2026/07/29-13:38:46.189 85d Delete type=0 #84032
