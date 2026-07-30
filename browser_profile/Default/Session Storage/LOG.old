@@ -1,7 +1,27 @@
-2026/07/30-11:44:48.223 94d Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/07/30-11:58:12.485 951 Level-0 table #85535: started
-2026/07/30-11:58:12.487 951 Level-0 table #85535: 10361 bytes OK
-2026/07/30-11:58:12.490 951 Delete type=0 #85533
-2026/07/30-12:08:31.614 951 Level-0 table #85537: started
-2026/07/30-12:08:31.623 951 Level-0 table #85537: 11131 bytes OK
-2026/07/30-12:08:31.625 951 Delete type=0 #85534
+2026/07/30-12:30:59.778 835 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/07/30-12:45:49.482 839 Level-0 table #85541: started
+2026/07/30-12:45:49.485 839 Level-0 table #85541: 12334 bytes OK
+2026/07/30-12:45:49.636 839 Delete type=0 #85539
+2026/07/30-12:58:58.252 839 Level-0 table #85543: started
+2026/07/30-12:58:58.253 839 Level-0 table #85543: 10374 bytes OK
+2026/07/30-12:58:58.255 839 Delete type=0 #85540
+2026/07/30-12:58:58.255 839 Compacting 4@0 + 5@1 files
+2026/07/30-12:58:58.299 839 Generated table #85544@0: 75201 keys, 2149303 bytes
+2026/07/30-12:58:58.337 839 Generated table #85545@0: 75212 keys, 2150080 bytes
+2026/07/30-12:58:58.497 839 Generated table #85546@0: 75247 keys, 2150639 bytes
+2026/07/30-12:58:58.535 839 Generated table #85547@0: 75208 keys, 2149856 bytes
+2026/07/30-12:58:58.576 839 Generated table #85548@0: 932 keys, 26760 bytes
+2026/07/30-12:58:58.576 839 Compacted 4@0 + 5@1 files => 8626638 bytes
+2026/07/30-12:58:58.577 839 compacted to: files[ 0 5 47 50 0 0 0 ]
+2026/07/30-12:58:58.578 839 Delete type=2 #85527
+2026/07/30-12:58:58.578 839 Delete type=2 #85528
+2026/07/30-12:58:58.578 839 Delete type=2 #85531
+2026/07/30-12:58:58.578 839 Delete type=2 #85537
+2026/07/30-12:58:58.578 839 Delete type=2 #85543
+2026/07/30-12:58:58.578 839 Delete type=2 #85529
+2026/07/30-12:58:58.578 839 Delete type=2 #85541
+2026/07/30-12:58:58.578 839 Delete type=2 #85535
+2026/07/30-12:58:58.578 839 Delete type=2 #85530
+2026/07/30-13:06:42.952 839 Level-0 table #85550: started
+2026/07/30-13:06:42.966 839 Level-0 table #85550: 10762 bytes OK
+2026/07/30-13:06:42.968 839 Delete type=0 #85542
