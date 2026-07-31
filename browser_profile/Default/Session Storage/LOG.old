@@ -1,58 +1,10 @@
-2026/07/31-20:08:48.505 880 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/07/31-20:12:23.834 880 Level-0 table #86875: started
-2026/07/31-20:12:23.842 880 Level-0 table #86875: 9935 bytes OK
-2026/07/31-20:12:23.845 880 Delete type=0 #86873
-2026/07/31-20:15:47.613 880 Level-0 table #86877: started
-2026/07/31-20:15:47.622 880 Level-0 table #86877: 9463 bytes OK
-2026/07/31-20:15:47.625 880 Delete type=0 #86874
-2026/07/31-20:15:47.625 880 Compacting 4@0 + 1@1 files
-2026/07/31-20:15:47.680 880 Generated table #86878@0: 11379 keys, 1412521 bytes
-2026/07/31-20:15:47.680 880 Compacted 4@0 + 1@1 files => 1412521 bytes
-2026/07/31-20:15:47.680 880 compacted to: files[ 0 4 46 52 0 0 0 ]
-2026/07/31-20:15:47.681 880 Delete type=2 #86869
-2026/07/31-20:15:47.681 880 Delete type=2 #86875
-2026/07/31-20:15:47.681 880 Delete type=2 #86867
-2026/07/31-20:15:47.681 880 Delete type=2 #86877
-2026/07/31-20:15:47.681 880 Delete type=2 #86871
-2026/07/31-20:22:49.562 884 Level-0 table #86880: started
-2026/07/31-20:22:49.563 884 Level-0 table #86880: 11776 bytes OK
-2026/07/31-20:22:49.564 884 Delete type=0 #86876
-2026/07/31-20:26:48.100 884 Level-0 table #86882: started
-2026/07/31-20:26:48.111 884 Level-0 table #86882: 11796 bytes OK
-2026/07/31-20:26:48.113 884 Delete type=0 #86879
-2026/07/31-20:38:19.000 884 Level-0 table #86884: started
-2026/07/31-20:38:19.010 884 Level-0 table #86884: 13063 bytes OK
-2026/07/31-20:38:19.013 884 Delete type=0 #86881
-2026/07/31-20:41:56.260 884 Level-0 table #86886: started
-2026/07/31-20:41:56.264 884 Level-0 table #86886: 12804 bytes OK
-2026/07/31-20:41:56.266 884 Delete type=0 #86883
-2026/07/31-20:41:56.267 884 Compacting 4@0 + 1@1 files
-2026/07/31-20:41:56.290 884 Generated table #86887@0: 11985 keys, 1422994 bytes
-2026/07/31-20:41:56.290 884 Compacted 4@0 + 1@1 files => 1422994 bytes
-2026/07/31-20:41:56.290 884 compacted to: files[ 0 4 46 52 0 0 0 ]
-2026/07/31-20:41:56.291 884 Delete type=2 #86884
-2026/07/31-20:41:56.291 884 Delete type=2 #86878
-2026/07/31-20:41:56.291 884 Delete type=2 #86886
-2026/07/31-20:41:56.291 884 Delete type=2 #86880
-2026/07/31-20:41:56.291 884 Delete type=2 #86882
-2026/07/31-20:43:54.150 884 Level-0 table #86889: started
-2026/07/31-20:43:54.173 884 Level-0 table #86889: 590493 bytes OK
-2026/07/31-20:43:54.175 884 Delete type=0 #86885
-2026/07/31-20:47:18.003 880 Level-0 table #86891: started
-2026/07/31-20:47:18.012 880 Level-0 table #86891: 13590 bytes OK
-2026/07/31-20:47:18.014 880 Delete type=0 #86888
-2026/07/31-20:50:09.984 880 Level-0 table #86893: started
-2026/07/31-20:50:09.993 880 Level-0 table #86893: 14022 bytes OK
-2026/07/31-20:50:09.995 880 Delete type=0 #86890
-2026/07/31-20:52:54.628 884 Level-0 table #86895: started
-2026/07/31-20:52:54.635 884 Level-0 table #86895: 13327 bytes OK
-2026/07/31-20:52:54.636 884 Delete type=0 #86892
-2026/07/31-20:52:54.636 884 Compacting 4@0 + 1@1 files
-2026/07/31-20:52:54.663 884 Generated table #86896@0: 12396 keys, 1428374 bytes
-2026/07/31-20:52:54.663 884 Compacted 4@0 + 1@1 files => 1428374 bytes
-2026/07/31-20:52:54.663 884 compacted to: files[ 0 4 46 52 0 0 0 ]
-2026/07/31-20:52:54.664 884 Delete type=2 #86895
-2026/07/31-20:52:54.664 884 Delete type=2 #86893
-2026/07/31-20:52:54.664 884 Delete type=2 #86891
-2026/07/31-20:52:54.664 884 Delete type=2 #86889
-2026/07/31-20:52:54.664 884 Delete type=2 #86887
+2026/07/31-20:54:59.000 8f7 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/07/31-21:08:02.372 8f7 Level-0 table #86900: started
+2026/07/31-21:08:02.377 8f7 Level-0 table #86900: 12973 bytes OK
+2026/07/31-21:08:02.379 8f7 Delete type=0 #86898
+2026/07/31-21:11:17.829 8fb Level-0 table #86902: started
+2026/07/31-21:11:17.834 8fb Level-0 table #86902: 14070 bytes OK
+2026/07/31-21:11:17.837 8fb Delete type=0 #86899
+2026/07/31-21:16:20.695 8fb Level-0 table #86904: started
+2026/07/31-21:16:20.708 8fb Level-0 table #86904: 593686 bytes OK
+2026/07/31-21:16:20.709 8fb Delete type=0 #86901
