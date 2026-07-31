@@ -1,16 +1,25 @@
-2026/07/31-18:36:35.580 884 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/07/31-18:57:34.726 888 Level-0 table #86855: started
-2026/07/31-18:57:34.734 888 Level-0 table #86855: 15720 bytes OK
-2026/07/31-18:57:34.736 888 Delete type=0 #86853
-2026/07/31-18:57:34.736 888 Compacting 4@0 + 1@1 files
-2026/07/31-18:57:34.766 888 Generated table #86856@0: 10161 keys, 1390779 bytes
-2026/07/31-18:57:34.766 888 Compacted 4@0 + 1@1 files => 1390779 bytes
-2026/07/31-18:57:34.767 888 compacted to: files[ 0 4 46 52 0 0 0 ]
-2026/07/31-18:57:34.768 888 Delete type=2 #86855
-2026/07/31-18:57:34.768 888 Delete type=2 #86851
-2026/07/31-18:57:34.769 888 Delete type=2 #86849
-2026/07/31-18:57:34.769 888 Delete type=2 #86847
-2026/07/31-18:57:34.769 888 Delete type=2 #86845
-2026/07/31-19:02:40.573 888 Level-0 table #86858: started
-2026/07/31-19:02:40.580 888 Level-0 table #86858: 14042 bytes OK
-2026/07/31-19:02:40.582 888 Delete type=0 #86854
+2026/07/31-19:22:33.693 870 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/07/31-19:32:34.538 870 Level-0 table #86862: started
+2026/07/31-19:32:34.550 870 Level-0 table #86862: 11183 bytes OK
+2026/07/31-19:32:34.552 870 Delete type=0 #86860
+2026/07/31-19:36:06.443 874 Level-0 table #86864: started
+2026/07/31-19:36:06.457 874 Level-0 table #86864: 12069 bytes OK
+2026/07/31-19:36:06.459 874 Delete type=0 #86861
+2026/07/31-19:39:05.405 870 Level-0 table #86866: started
+2026/07/31-19:39:05.425 870 Level-0 table #86866: 11904 bytes OK
+2026/07/31-19:39:05.451 870 Delete type=0 #86863
+2026/07/31-19:39:05.451 870 Compacting 4@0 + 1@1 files
+2026/07/31-19:39:05.483 870 Generated table #86867@0: 10751 keys, 1401831 bytes
+2026/07/31-19:39:05.483 870 Compacted 4@0 + 1@1 files => 1401831 bytes
+2026/07/31-19:39:05.483 870 compacted to: files[ 0 4 46 52 0 0 0 ]
+2026/07/31-19:39:05.484 870 Delete type=2 #86866
+2026/07/31-19:39:05.484 870 Delete type=2 #86858
+2026/07/31-19:39:05.484 870 Delete type=2 #86862
+2026/07/31-19:39:05.484 870 Delete type=2 #86856
+2026/07/31-19:39:05.484 870 Delete type=2 #86864
+2026/07/31-19:42:03.743 870 Level-0 table #86869: started
+2026/07/31-19:42:03.745 870 Level-0 table #86869: 11918 bytes OK
+2026/07/31-19:42:03.748 870 Delete type=0 #86865
+2026/07/31-19:51:55.207 874 Level-0 table #86871: started
+2026/07/31-19:51:55.218 874 Level-0 table #86871: 11982 bytes OK
+2026/07/31-19:51:55.220 874 Delete type=0 #86868
