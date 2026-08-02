@@ -1,52 +1,15 @@
-2026/08/02-13:20:38.487 953 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/08/02-13:23:40.117 957 Level-0 table #16247: started
-2026/08/02-13:23:40.122 957 Level-0 table #16247: 20798 bytes OK
-2026/08/02-13:23:40.124 957 Delete type=0 #16245
-2026/08/02-13:27:21.246 957 Level-0 table #16249: started
-2026/08/02-13:27:21.247 957 Level-0 table #16249: 19951 bytes OK
-2026/08/02-13:27:21.248 957 Delete type=0 #16246
-2026/08/02-13:28:04.161 953 Level-0 table #16251: started
-2026/08/02-13:28:04.167 953 Level-0 table #16251: 21422 bytes OK
-2026/08/02-13:28:04.167 953 Delete type=0 #16248
-2026/08/02-13:28:04.168 953 Compacting 4@0 + 1@1 files
-2026/08/02-13:28:04.170 953 Generated table #16252@0: 2202 keys, 69401 bytes
-2026/08/02-13:28:04.170 953 Compacted 4@0 + 1@1 files => 69401 bytes
-2026/08/02-13:28:04.170 953 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/08/02-13:28:04.171 953 Delete type=2 #16247
-2026/08/02-13:28:04.171 953 Delete type=2 #16249
-2026/08/02-13:28:04.171 953 Delete type=2 #16251
-2026/08/02-13:28:04.171 953 Delete type=2 #16241
-2026/08/02-13:28:04.171 953 Delete type=2 #16243
-2026/08/02-13:29:31.004 953 Level-0 table #16254: started
-2026/08/02-13:29:31.006 953 Level-0 table #16254: 24982 bytes OK
-2026/08/02-13:29:31.007 953 Delete type=0 #16250
-2026/08/02-14:01:45.461 957 Level-0 table #16256: started
-2026/08/02-14:01:45.463 957 Level-0 table #16256: 21879 bytes OK
-2026/08/02-14:01:45.463 957 Delete type=0 #16253
-2026/08/02-14:03:15.397 957 Level-0 table #16258: started
-2026/08/02-14:03:15.402 957 Level-0 table #16258: 19885 bytes OK
-2026/08/02-14:03:15.403 957 Delete type=0 #16255
-2026/08/02-14:03:53.762 957 Level-0 table #16260: started
-2026/08/02-14:03:53.767 957 Level-0 table #16260: 20141 bytes OK
-2026/08/02-14:03:53.768 957 Delete type=0 #16257
-2026/08/02-14:03:53.768 957 Compacting 4@0 + 1@1 files
-2026/08/02-14:03:53.772 957 Generated table #16261@0: 2202 keys, 69389 bytes
-2026/08/02-14:03:53.772 957 Compacted 4@0 + 1@1 files => 69389 bytes
-2026/08/02-14:03:53.773 957 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/08/02-14:03:53.773 957 Delete type=2 #16260
-2026/08/02-14:03:53.773 957 Delete type=2 #16258
-2026/08/02-14:03:53.773 957 Delete type=2 #16256
-2026/08/02-14:03:53.773 957 Delete type=2 #16254
-2026/08/02-14:03:53.773 957 Delete type=2 #16252
-2026/08/02-14:05:39.261 957 Level-0 table #16263: started
-2026/08/02-14:05:39.266 957 Level-0 table #16263: 20274 bytes OK
-2026/08/02-14:05:39.267 957 Delete type=0 #16259
-2026/08/02-14:09:07.047 953 Level-0 table #16265: started
-2026/08/02-14:09:07.052 953 Level-0 table #16265: 23273 bytes OK
-2026/08/02-14:09:07.053 953 Delete type=0 #16262
-2026/08/02-14:09:39.261 957 Level-0 table #16267: started
-2026/08/02-14:09:39.265 957 Level-0 table #16267: 21448 bytes OK
-2026/08/02-14:09:39.266 957 Delete type=0 #16264
-2026/08/02-14:12:08.933 957 Level-0 table #16269: started
-2026/08/02-14:12:08.940 957 Level-0 table #16269: 19671 bytes OK
-2026/08/02-14:12:08.945 957 Delete type=0 #16266
+2026/08/02-14:59:10.323 908 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/08/02-14:59:10.332 906 Compacting 4@0 + 1@1 files
+2026/08/02-14:59:10.338 906 Generated table #16272@0: 2202 keys, 69398 bytes
+2026/08/02-14:59:10.338 906 Compacted 4@0 + 1@1 files => 69398 bytes
+2026/08/02-14:59:10.340 906 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/02-14:59:10.341 906 Delete type=2 #16269
+2026/08/02-14:59:10.341 906 Delete type=2 #16267
+2026/08/02-14:59:10.341 906 Delete type=2 #16261
+2026/08/02-14:59:10.341 906 Delete type=2 #16263
+2026/08/02-14:59:10.341 906 Delete type=2 #16265
+2026/08/02-15:03:10.937 906 Level-0 table #16274: started
+2026/08/02-15:03:10.938 906 Level-0 table #16274: 20685 bytes OK
+2026/08/02-15:03:10.939 906 Delete type=0 #16271
+2026/08/02-15:07:39.175 907 Level-0 table #16276: started
+2026/08/02-15:07:39.176 907 Level-0 table #16276: 23519 bytes OK
