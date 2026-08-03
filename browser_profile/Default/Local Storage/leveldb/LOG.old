@@ -1,17 +1,16 @@
-2026/08/03-19:44:09.202 94b Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/08/03-19:44:09.223 94b Delete type=2 #16570
-2026/08/03-19:44:09.224 94b Compacting 4@0 + 1@1 files
-2026/08/03-19:44:09.226 94b Generated table #16572@0: 2250 keys, 70060 bytes
-2026/08/03-19:44:09.226 94b Compacted 4@0 + 1@1 files => 70060 bytes
-2026/08/03-19:44:09.227 94b compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/08/03-19:44:09.227 94b Delete type=2 #16567
-2026/08/03-19:44:09.227 94b Delete type=2 #16557
-2026/08/03-19:44:09.227 94b Delete type=2 #16563
-2026/08/03-19:44:09.227 94b Delete type=2 #16569
-2026/08/03-19:44:09.227 94b Delete type=2 #16559
-2026/08/03-19:48:10.388 94f Level-0 table #16574: started
-2026/08/03-19:48:10.392 94f Level-0 table #16574: 20880 bytes OK
-2026/08/03-19:48:10.393 94f Delete type=0 #16571
-2026/08/03-19:53:06.766 94f Level-0 table #16576: started
-2026/08/03-19:53:06.768 94f Level-0 table #16576: 20429 bytes OK
-2026/08/03-19:53:06.768 94f Delete type=0 #16573
+2026/08/03-20:33:34.512 958 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/08/03-20:37:35.856 95c Level-0 table #16580: started
+2026/08/03-20:37:35.859 95c Level-0 table #16580: 20737 bytes OK
+2026/08/03-20:37:35.859 95c Delete type=0 #16578
+2026/08/03-20:42:35.855 95c Level-0 table #16582: started
+2026/08/03-20:42:35.863 95c Level-0 table #16582: 20738 bytes OK
+2026/08/03-20:42:35.865 95c Delete type=0 #16579
+2026/08/03-20:42:35.865 95c Compacting 4@0 + 1@1 files
+2026/08/03-20:42:35.868 95c Generated table #16583@0: 2252 keys, 70317 bytes
+2026/08/03-20:42:35.868 95c Compacted 4@0 + 1@1 files => 70317 bytes
+2026/08/03-20:42:35.869 95c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/03-20:42:35.869 95c Delete type=2 #16572
+2026/08/03-20:42:35.869 95c Delete type=2 #16582
+2026/08/03-20:42:35.869 95c Delete type=2 #16576
+2026/08/03-20:42:35.869 95c Delete type=2 #16580
+2026/08/03-20:42:35.869 95c Delete type=2 #16574
