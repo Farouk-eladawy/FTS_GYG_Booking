@@ -1,4 +1,27 @@
-2026/08/03-07:24:49.962 94d Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/08/03-07:29:45.116 951 Level-0 table #87787: started
-2026/08/03-07:29:45.130 951 Level-0 table #87787: 585378 bytes OK
-2026/08/03-07:29:45.132 951 Delete type=0 #87785
+2026/08/03-08:13:57.122 95f Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/08/03-08:17:39.000 95f Level-0 table #87791: started
+2026/08/03-08:17:39.001 95f Level-0 table #87791: 10316 bytes OK
+2026/08/03-08:17:39.004 95f Delete type=0 #87789
+2026/08/03-08:17:39.005 963 Compacting 4@0 + 1@1 files
+2026/08/03-08:17:39.047 963 Generated table #87792@0: 14829 keys, 1609088 bytes
+2026/08/03-08:17:39.047 963 Compacted 4@0 + 1@1 files => 1609088 bytes
+2026/08/03-08:17:39.047 963 compacted to: files[ 0 5 46 56 0 0 0 ]
+2026/08/03-08:17:39.050 963 Delete type=2 #87787
+2026/08/03-08:17:39.050 963 Delete type=2 #87791
+2026/08/03-08:17:39.050 963 Delete type=2 #87781
+2026/08/03-08:17:39.050 963 Delete type=2 #87783
+2026/08/03-08:17:39.050 963 Delete type=2 #87779
+2026/08/03-08:17:39.051 95f Compacting 1@1 + 1@2 files
+2026/08/03-08:17:39.111 95f Generated table #87793@1: 40 keys, 2339393 bytes
+2026/08/03-08:17:39.135 95f Generated table #87794@1: 12 keys, 1684839 bytes
+2026/08/03-08:17:39.136 95f Compacted 1@1 + 1@2 files => 4024232 bytes
+2026/08/03-08:17:39.136 95f compacted to: files[ 0 4 47 56 0 0 0 ]
+2026/08/03-08:17:39.137 95f Delete type=2 #87670
+2026/08/03-08:17:39.137 95f Delete type=2 #87405
+2026/08/03-08:17:39.138 95f Moved #81186 to level-3 2299203 bytes OK: files[ 0 4 46 57 0 0 0 ]
+2026/08/03-08:18:55.529 95f Level-0 table #87796: started
+2026/08/03-08:18:55.551 95f Level-0 table #87796: 586823 bytes OK
+2026/08/03-08:18:55.554 95f Delete type=0 #87790
+2026/08/03-08:22:20.988 95f Level-0 table #87798: started
+2026/08/03-08:22:20.989 95f Level-0 table #87798: 10680 bytes OK
+2026/08/03-08:22:20.993 95f Delete type=0 #87795
