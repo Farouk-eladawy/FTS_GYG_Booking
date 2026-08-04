@@ -1,7 +1,23 @@
-2026/08/04-05:35:19.327 87d Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/08/04-05:39:03.320 881 Level-0 table #87940: started
-2026/08/04-05:39:03.477 881 Level-0 table #87940: 9563 bytes OK
-2026/08/04-05:39:03.479 881 Delete type=0 #87938
-2026/08/04-05:42:44.328 87d Level-0 table #87942: started
-2026/08/04-05:42:44.332 87d Level-0 table #87942: 9462 bytes OK
-2026/08/04-05:42:44.335 87d Delete type=0 #87939
+2026/08/04-06:24:28.911 926 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/08/04-06:29:26.598 92a Level-0 table #87946: started
+2026/08/04-06:29:26.614 92a Level-0 table #87946: 588835 bytes OK
+2026/08/04-06:29:26.620 92a Delete type=0 #87944
+2026/08/04-06:29:26.621 926 Compacting 4@0 + 2@1 files
+2026/08/04-06:29:26.656 926 Generated table #87947@0: 1642 keys, 2350491 bytes
+2026/08/04-06:29:26.677 926 Generated table #87948@0: 16397 keys, 1087225 bytes
+2026/08/04-06:29:26.678 926 Compacted 4@0 + 2@1 files => 3437716 bytes
+2026/08/04-06:29:26.681 926 compacted to: files[ 0 5 46 58 0 0 0 ]
+2026/08/04-06:29:26.682 926 Delete type=2 #87932
+2026/08/04-06:29:26.682 926 Delete type=2 #87931
+2026/08/04-06:29:26.682 926 Delete type=2 #87940
+2026/08/04-06:29:26.682 926 Delete type=2 #87942
+2026/08/04-06:29:26.682 926 Delete type=2 #87936
+2026/08/04-06:29:26.682 926 Delete type=2 #87946
+2026/08/04-06:29:26.683 926 Compacting 1@1 + 1@2 files
+2026/08/04-06:29:26.716 926 Generated table #87949@1: 35 keys, 2334956 bytes
+2026/08/04-06:29:26.733 926 Generated table #87950@1: 23 keys, 1686266 bytes
+2026/08/04-06:29:26.733 926 Compacted 1@1 + 1@2 files => 4021222 bytes
+2026/08/04-06:29:26.734 926 compacted to: files[ 0 4 47 58 0 0 0 ]
+2026/08/04-06:29:26.735 926 Delete type=2 #87652
+2026/08/04-06:29:26.735 926 Delete type=2 #87883
+2026/08/04-06:29:26.736 926 Moved #81540 to level-3 2295517 bytes OK: files[ 0 4 46 59 0 0 0 ]
