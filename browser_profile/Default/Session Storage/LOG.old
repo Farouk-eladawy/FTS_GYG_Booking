@@ -1,9 +1,23 @@
-2026/08/05-19:23:48.131 9d4 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/08/05-19:27:23.067 9d8 Level-0 table #88230: started
-2026/08/05-19:27:23.071 9d8 Level-0 table #88230: 11257 bytes OK
-2026/08/05-19:27:23.073 9d8 Delete type=0 #88228
-2026/08/05-19:28:58.253 9d8 Level-0 table #88232: started
-2026/08/05-19:28:58.269 9d8 Level-0 table #88232: 586907 bytes OK
-2026/08/05-19:28:58.271 9d8 Delete type=0 #88229
-2026/08/05-19:32:56.619 9d9 Level-0 table #88234: started
-2026/08/05-19:32:56.620 9d9 Level-0 table #88234: 11840 bytes OK
+2026/08/05-20:13:05.467 9d5 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/08/05-20:13:05.487 9d5 Delete type=2 #88234
+2026/08/05-20:16:40.403 9d9 Level-0 table #88236: started
+2026/08/05-20:16:40.409 9d9 Level-0 table #88236: 10345 bytes OK
+2026/08/05-20:16:40.412 9d9 Delete type=0 #88234
+2026/08/05-20:23:34.222 9d5 Level-0 table #88238: started
+2026/08/05-20:23:34.228 9d5 Level-0 table #88238: 11598 bytes OK
+2026/08/05-20:23:34.231 9d5 Delete type=0 #88235
+2026/08/05-20:23:34.231 9d5 Compacting 4@0 + 1@1 files
+2026/08/05-20:23:34.267 9d5 Generated table #88239@0: 20397 keys, 1785114 bytes
+2026/08/05-20:23:34.267 9d5 Compacted 4@0 + 1@1 files => 1785114 bytes
+2026/08/05-20:23:34.268 9d5 compacted to: files[ 0 4 46 62 0 0 0 ]
+2026/08/05-20:23:34.269 9d5 Delete type=2 #88238
+2026/08/05-20:23:34.269 9d5 Delete type=2 #88232
+2026/08/05-20:23:34.269 9d5 Delete type=2 #88230
+2026/08/05-20:23:34.269 9d5 Delete type=2 #88236
+2026/08/05-20:23:34.269 9d5 Delete type=2 #88226
+2026/08/05-20:27:43.381 9d9 Level-0 table #88241: started
+2026/08/05-20:27:43.389 9d9 Level-0 table #88241: 9599 bytes OK
+2026/08/05-20:27:43.391 9d9 Delete type=0 #88237
+2026/08/05-20:31:18.338 9d9 Level-0 table #88243: started
+2026/08/05-20:31:18.351 9d9 Level-0 table #88243: 588303 bytes OK
+2026/08/05-20:31:18.353 9d9 Delete type=0 #88240
