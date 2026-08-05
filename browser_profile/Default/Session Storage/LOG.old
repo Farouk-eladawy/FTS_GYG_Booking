@@ -1,24 +1,7 @@
-2026/08/05-04:35:38.485 87f Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/08/05-04:39:08.921 883 Level-0 table #88118: started
-2026/08/05-04:39:08.926 883 Level-0 table #88118: 11638 bytes OK
-2026/08/05-04:39:08.927 883 Delete type=0 #88116
-2026/08/05-04:40:30.633 884 Level-0 table #88120: started
-2026/08/05-04:40:30.651 884 Level-0 table #88120: 587545 bytes OK
-2026/08/05-04:40:30.652 884 Delete type=0 #88117
-2026/08/05-04:40:30.653 884 Compacting 4@0 + 1@1 files
-2026/08/05-04:40:30.671 884 Generated table #88121@0: 18474 keys, 1153858 bytes
-2026/08/05-04:40:30.671 884 Compacted 4@0 + 1@1 files => 1153858 bytes
-2026/08/05-04:40:30.672 884 compacted to: files[ 0 5 46 60 0 0 0 ]
-2026/08/05-04:40:30.673 884 Delete type=2 #88112
-2026/08/05-04:40:30.673 884 Delete type=2 #88108
-2026/08/05-04:40:30.673 884 Delete type=2 #88118
-2026/08/05-04:40:30.673 884 Delete type=2 #88120
-2026/08/05-04:40:30.673 884 Delete type=2 #88114
-2026/08/05-04:40:30.673 884 Compacting 1@1 + 1@2 files
-2026/08/05-04:40:30.720 884 Generated table #88122@1: 42 keys, 2336806 bytes
-2026/08/05-04:40:30.738 884 Generated table #88123@1: 38 keys, 1689607 bytes
-2026/08/05-04:40:30.738 884 Compacted 1@1 + 1@2 files => 4026413 bytes
-2026/08/05-04:40:30.738 884 compacted to: files[ 0 4 47 60 0 0 0 ]
-2026/08/05-04:40:30.739 884 Delete type=2 #88054
-2026/08/05-04:40:30.739 884 Delete type=2 #87880
-2026/08/05-04:40:30.740 884 Moved #81758 to level-3 2290880 bytes OK: files[ 0 4 46 61 0 0 0 ]
+2026/08/05-05:24:52.952 952 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/08/05-05:28:18.544 956 Level-0 table #88127: started
+2026/08/05-05:28:18.551 956 Level-0 table #88127: 9967 bytes OK
+2026/08/05-05:28:18.553 956 Delete type=0 #88125
+2026/08/05-05:31:35.472 956 Level-0 table #88129: started
+2026/08/05-05:31:35.473 956 Level-0 table #88129: 9442 bytes OK
+2026/08/05-05:31:35.476 956 Delete type=0 #88126
