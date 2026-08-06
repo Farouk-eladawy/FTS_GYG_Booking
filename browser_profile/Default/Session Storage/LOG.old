@@ -1,30 +1,19 @@
-2026/08/05-22:40:53.841 9a6 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/08/05-22:46:11.219 9ab Level-0 table #88259: started
-2026/08/05-22:46:11.237 9ab Level-0 table #88259: 585361 bytes OK
-2026/08/05-22:46:11.240 9ab Delete type=0 #88257
-2026/08/05-23:34:00.841 9a6 Level-0 table #88261: started
-2026/08/05-23:34:00.848 9a6 Level-0 table #88261: 15509 bytes OK
-2026/08/05-23:34:00.851 9a6 Delete type=0 #88258
-2026/08/05-23:35:00.907 9a6 Level-0 table #88263: started
-2026/08/05-23:35:00.934 9a6 Level-0 table #88263: 585757 bytes OK
-2026/08/05-23:35:00.937 9a6 Delete type=0 #88260
-2026/08/05-23:35:00.941 9a6 Compacting 4@0 + 1@1 files
-2026/08/05-23:35:00.993 9a6 Generated table #88264@0: 20246 keys, 1791628 bytes
-2026/08/05-23:35:00.993 9a6 Compacted 4@0 + 1@1 files => 1791628 bytes
-2026/08/05-23:35:00.994 9a6 compacted to: files[ 0 5 46 62 0 0 0 ]
-2026/08/05-23:35:00.996 9a6 Delete type=2 #88259
-2026/08/05-23:35:00.996 9a6 Delete type=2 #88255
-2026/08/05-23:35:00.996 9a6 Delete type=2 #88251
-2026/08/05-23:35:00.996 9a6 Delete type=2 #88261
-2026/08/05-23:35:00.996 9a6 Delete type=2 #88263
-2026/08/05-23:35:00.996 9a6 Compacting 1@1 + 1@2 files
-2026/08/05-23:35:01.036 9a6 Generated table #88265@1: 42 keys, 2337472 bytes
-2026/08/05-23:35:01.062 9a6 Generated table #88266@1: 11 keys, 1685700 bytes
-2026/08/05-23:35:01.062 9a6 Compacted 1@1 + 1@2 files => 4023172 bytes
-2026/08/05-23:35:01.063 9a6 compacted to: files[ 0 4 47 62 0 0 0 ]
-2026/08/05-23:35:01.065 9a6 Delete type=2 #88036
-2026/08/05-23:35:01.065 9a6 Delete type=2 #88213
-2026/08/05-23:35:01.069 9a6 Moved #81996 to level-3 2294922 bytes OK: files[ 0 4 46 63 0 0 0 ]
-2026/08/05-23:38:59.205 9aa Level-0 table #88268: started
-2026/08/05-23:38:59.208 9aa Level-0 table #88268: 10313 bytes OK
-2026/08/05-23:38:59.211 9aa Delete type=0 #88262
+2026/08/06-00:19:22.627 94d Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/08/06-00:23:00.287 951 Level-0 table #88272: started
+2026/08/06-00:23:00.288 951 Level-0 table #88272: 11444 bytes OK
+2026/08/06-00:23:00.290 951 Delete type=0 #88270
+2026/08/06-00:24:19.036 94d Level-0 table #88274: started
+2026/08/06-00:24:19.052 94d Level-0 table #88274: 587205 bytes OK
+2026/08/06-00:24:19.056 94d Delete type=0 #88271
+2026/08/06-00:27:24.064 952 Level-0 table #88276: started
+2026/08/06-00:27:24.069 952 Level-0 table #88276: 13229 bytes OK
+2026/08/06-00:27:24.071 952 Delete type=0 #88273
+2026/08/06-00:27:24.072 952 Compacting 4@0 + 1@1 files
+2026/08/06-00:27:24.113 952 Generated table #88277@0: 20673 keys, 1214843 bytes
+2026/08/06-00:27:24.113 952 Compacted 4@0 + 1@1 files => 1214843 bytes
+2026/08/06-00:27:24.113 952 compacted to: files[ 0 4 46 63 0 0 0 ]
+2026/08/06-00:27:24.115 952 Delete type=2 #88276
+2026/08/06-00:27:24.115 952 Delete type=2 #88272
+2026/08/06-00:27:24.115 952 Delete type=2 #88274
+2026/08/06-00:27:24.115 952 Delete type=2 #88268
+2026/08/06-00:27:24.115 952 Delete type=2 #88264
