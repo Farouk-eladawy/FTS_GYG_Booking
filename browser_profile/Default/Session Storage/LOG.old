@@ -1,24 +1,7 @@
-2026/08/08-13:56:15.127 950 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/08/08-13:59:45.968 950 Level-0 table #88653: started
-2026/08/08-13:59:45.975 950 Level-0 table #88653: 10355 bytes OK
-2026/08/08-13:59:45.977 950 Delete type=0 #88651
-2026/08/08-13:59:45.978 950 Compacting 4@0 + 1@1 files
-2026/08/08-13:59:46.015 950 Generated table #88654@0: 24941 keys, 1929097 bytes
-2026/08/08-13:59:46.015 950 Compacted 4@0 + 1@1 files => 1929097 bytes
-2026/08/08-13:59:46.016 950 compacted to: files[ 0 5 46 67 0 0 0 ]
-2026/08/08-13:59:46.017 950 Delete type=2 #88647
-2026/08/08-13:59:46.017 950 Delete type=2 #88649
-2026/08/08-13:59:46.017 950 Delete type=2 #88643
-2026/08/08-13:59:46.017 950 Delete type=2 #88653
-2026/08/08-13:59:46.017 950 Delete type=2 #88641
-2026/08/08-13:59:46.017 950 Compacting 1@1 + 1@2 files
-2026/08/08-13:59:46.055 950 Generated table #88655@1: 22 keys, 2333287 bytes
-2026/08/08-13:59:46.079 950 Generated table #88656@1: 25 keys, 1687574 bytes
-2026/08/08-13:59:46.079 950 Compacted 1@1 + 1@2 files => 4020861 bytes
-2026/08/08-13:59:46.079 950 compacted to: files[ 0 4 47 67 0 0 0 ]
-2026/08/08-13:59:46.080 950 Delete type=2 #88402
-2026/08/08-13:59:46.080 950 Delete type=2 #88561
-2026/08/08-13:59:46.081 950 Moved #82455 to level-3 2292938 bytes OK: files[ 0 4 46 68 0 0 0 ]
-2026/08/08-14:01:03.880 956 Level-0 table #88658: started
-2026/08/08-14:01:03.907 956 Level-0 table #88658: 586915 bytes OK
-2026/08/08-14:01:03.909 956 Delete type=0 #88652
+2026/08/08-14:45:28.595 95f Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/08/08-14:48:58.018 963 Level-0 table #88662: started
+2026/08/08-14:48:58.027 963 Level-0 table #88662: 9935 bytes OK
+2026/08/08-14:48:58.029 963 Delete type=0 #88660
+2026/08/08-14:52:13.856 963 Level-0 table #88664: started
+2026/08/08-14:52:13.859 963 Level-0 table #88664: 9454 bytes OK
+2026/08/08-14:52:13.861 963 Delete type=0 #88661
