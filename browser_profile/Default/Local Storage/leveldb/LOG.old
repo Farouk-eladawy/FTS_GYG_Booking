@@ -1,37 +1,31 @@
-2026/08/09-07:10:37.211 8c0 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/08/09-07:14:38.203 8c5 Level-0 table #17846: started
-2026/08/09-07:14:38.209 8c5 Level-0 table #17846: 21295 bytes OK
-2026/08/09-07:14:38.209 8c5 Delete type=0 #17844
-2026/08/09-07:17:38.203 8c5 Level-0 table #17848: started
-2026/08/09-07:17:38.207 8c5 Level-0 table #17848: 20626 bytes OK
-2026/08/09-07:17:38.208 8c5 Delete type=0 #17845
-2026/08/09-07:17:38.208 8c5 Compacting 4@0 + 1@1 files
-2026/08/09-07:17:38.210 8c5 Generated table #17849@0: 2455 keys, 73927 bytes
-2026/08/09-07:17:38.210 8c5 Compacted 4@0 + 1@1 files => 73927 bytes
-2026/08/09-07:17:38.210 8c5 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/08/09-07:17:38.210 8c5 Delete type=2 #17846
-2026/08/09-07:17:38.210 8c5 Delete type=2 #17838
-2026/08/09-07:17:38.210 8c5 Delete type=2 #17840
-2026/08/09-07:17:38.210 8c5 Delete type=2 #17842
-2026/08/09-07:17:38.210 8c5 Delete type=2 #17848
-2026/08/09-07:20:15.243 8c5 Level-0 table #17851: started
-2026/08/09-07:20:15.248 8c5 Level-0 table #17851: 23202 bytes OK
-2026/08/09-07:20:15.338 8c5 Delete type=0 #17847
-2026/08/09-07:22:38.203 8c5 Level-0 table #17853: started
-2026/08/09-07:22:38.208 8c5 Level-0 table #17853: 19876 bytes OK
-2026/08/09-07:22:38.209 8c5 Delete type=0 #17850
-2026/08/09-07:26:38.203 8c5 Level-0 table #17855: started
-2026/08/09-07:26:38.211 8c5 Level-0 table #17855: 20766 bytes OK
-2026/08/09-07:26:38.212 8c5 Delete type=0 #17852
-2026/08/09-07:30:38.203 8c5 Level-0 table #17857: started
-2026/08/09-07:30:38.210 8c5 Level-0 table #17857: 20886 bytes OK
-2026/08/09-07:30:38.211 8c5 Delete type=0 #17854
-2026/08/09-07:30:38.211 8c5 Compacting 4@0 + 1@1 files
-2026/08/09-07:30:38.213 8c5 Generated table #17858@0: 2456 keys, 73990 bytes
-2026/08/09-07:30:38.213 8c5 Compacted 4@0 + 1@1 files => 73990 bytes
-2026/08/09-07:30:38.213 8c5 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/08/09-07:30:38.213 8c5 Delete type=2 #17855
-2026/08/09-07:30:38.213 8c5 Delete type=2 #17853
-2026/08/09-07:30:38.213 8c5 Delete type=2 #17851
-2026/08/09-07:30:38.213 8c5 Delete type=2 #17857
-2026/08/09-07:30:38.213 8c5 Delete type=2 #17849
+2026/08/09-07:59:58.740 9cc Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/08/09-08:03:59.745 9d0 Level-0 table #17862: started
+2026/08/09-08:03:59.750 9d0 Level-0 table #17862: 20770 bytes OK
+2026/08/09-08:03:59.750 9d0 Delete type=0 #17860
+2026/08/09-08:06:59.746 9d0 Level-0 table #17864: started
+2026/08/09-08:06:59.750 9d0 Level-0 table #17864: 20583 bytes OK
+2026/08/09-08:06:59.750 9d0 Delete type=0 #17861
+2026/08/09-08:09:52.603 9d1 Level-0 table #17866: started
+2026/08/09-08:09:52.607 9d1 Level-0 table #17866: 22273 bytes OK
+2026/08/09-08:09:52.609 9d1 Delete type=0 #17863
+2026/08/09-08:11:17.562 9d0 Level-0 table #17868: started
+2026/08/09-08:11:17.565 9d0 Level-0 table #17868: 23255 bytes OK
+2026/08/09-08:11:17.566 9d0 Delete type=0 #17865
+2026/08/09-08:11:17.566 9d0 Compacting 4@0 + 1@1 files
+2026/08/09-08:11:17.568 9d0 Generated table #17869@0: 2458 keys, 73813 bytes
+2026/08/09-08:11:17.568 9d0 Compacted 4@0 + 1@1 files => 73813 bytes
+2026/08/09-08:11:17.569 9d0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/09-08:11:17.569 9d0 Delete type=2 #17862
+2026/08/09-08:11:17.569 9d0 Delete type=2 #17864
+2026/08/09-08:11:17.569 9d0 Delete type=2 #17858
+2026/08/09-08:11:17.569 9d0 Delete type=2 #17866
+2026/08/09-08:11:17.569 9d0 Delete type=2 #17868
+2026/08/09-08:13:59.745 9cc Level-0 table #17871: started
+2026/08/09-08:13:59.756 9cc Level-0 table #17871: 23488 bytes OK
+2026/08/09-08:13:59.757 9cc Delete type=0 #17867
+2026/08/09-08:18:00.675 9d0 Level-0 table #17873: started
+2026/08/09-08:18:00.681 9d0 Level-0 table #17873: 20959 bytes OK
+2026/08/09-08:18:00.681 9d0 Delete type=0 #17870
+2026/08/09-08:21:59.746 9d0 Level-0 table #17875: started
+2026/08/09-08:21:59.747 9d0 Level-0 table #17875: 20207 bytes OK
+2026/08/09-08:21:59.747 9d0 Delete type=0 #17872
