@@ -1,7 +1,34 @@
-2026/08/10-14:23:19.177 9cd Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/08/10-14:27:19.968 9d1 Level-0 table #18157: started
-2026/08/10-14:27:19.977 9d1 Level-0 table #18157: 21330 bytes OK
-2026/08/10-14:27:19.979 9d1 Delete type=0 #18155
-2026/08/10-14:31:19.969 9d1 Level-0 table #18159: started
-2026/08/10-14:31:19.973 9d1 Level-0 table #18159: 20912 bytes OK
-2026/08/10-14:31:19.973 9d1 Delete type=0 #18156
+2026/08/10-15:12:48.496 9ed Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/08/10-15:16:49.219 9ed Level-0 table #18163: started
+2026/08/10-15:16:49.225 9ed Level-0 table #18163: 21405 bytes OK
+2026/08/10-15:16:49.227 9ed Delete type=0 #18161
+2026/08/10-15:16:49.227 9ed Compacting 4@0 + 1@1 files
+2026/08/10-15:16:49.232 9ed Generated table #18164@0: 2509 keys, 74888 bytes
+2026/08/10-15:16:49.232 9ed Compacted 4@0 + 1@1 files => 74888 bytes
+2026/08/10-15:16:49.232 9ed compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/10-15:16:49.233 9ed Delete type=2 #18157
+2026/08/10-15:16:49.233 9ed Delete type=2 #18153
+2026/08/10-15:16:49.233 9ed Delete type=2 #18163
+2026/08/10-15:16:49.233 9ed Delete type=2 #18151
+2026/08/10-15:16:49.233 9ed Delete type=2 #18159
+2026/08/10-15:20:49.220 9ed Level-0 table #18166: started
+2026/08/10-15:20:49.223 9ed Level-0 table #18166: 20839 bytes OK
+2026/08/10-15:20:49.224 9ed Delete type=0 #18162
+2026/08/10-15:23:49.219 9ed Level-0 table #18168: started
+2026/08/10-15:23:49.222 9ed Level-0 table #18168: 20229 bytes OK
+2026/08/10-15:23:49.223 9ed Delete type=0 #18165
+2026/08/10-15:27:49.219 9ed Level-0 table #18170: started
+2026/08/10-15:27:49.220 9ed Level-0 table #18170: 21089 bytes OK
+2026/08/10-15:27:49.221 9ed Delete type=0 #18167
+2026/08/10-15:32:17.825 9ed Level-0 table #18172: started
+2026/08/10-15:32:17.827 9ed Level-0 table #18172: 21062 bytes OK
+2026/08/10-15:32:17.827 9ed Delete type=0 #18169
+2026/08/10-15:32:17.827 9e9 Compacting 4@0 + 1@1 files
+2026/08/10-15:32:17.834 9e9 Generated table #18173@0: 2510 keys, 74768 bytes
+2026/08/10-15:32:17.834 9e9 Compacted 4@0 + 1@1 files => 74768 bytes
+2026/08/10-15:32:17.835 9e9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/10-15:32:17.835 9e9 Delete type=2 #18164
+2026/08/10-15:32:17.835 9e9 Delete type=2 #18170
+2026/08/10-15:32:17.835 9e9 Delete type=2 #18168
+2026/08/10-15:32:17.835 9e9 Delete type=2 #18166
+2026/08/10-15:32:17.835 9e9 Delete type=2 #18172
