@@ -1,1 +1,10 @@
-2026/08/10-11:05:49.551 925 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/08/10-11:55:14.785 9d7 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/08/10-11:57:59.207 9db Level-0 table #88942: started
+2026/08/10-11:57:59.223 9db Level-0 table #88942: 11669 bytes OK
+2026/08/10-11:57:59.226 9db Delete type=0 #88940
+2026/08/10-12:00:31.288 9db Level-0 table #88944: started
+2026/08/10-12:00:31.292 9db Level-0 table #88944: 12563 bytes OK
+2026/08/10-12:00:31.294 9db Delete type=0 #88941
+2026/08/10-12:02:29.013 9db Level-0 table #88946: started
+2026/08/10-12:02:29.031 9db Level-0 table #88946: 591580 bytes OK
+2026/08/10-12:02:29.033 9db Delete type=0 #88943
