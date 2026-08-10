@@ -1,17 +1,25 @@
-2026/08/10-01:14:42.492 965 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/08/10-01:14:42.499 965 Delete type=2 #18014
-2026/08/10-01:18:43.011 965 Level-0 table #18016: started
-2026/08/10-01:18:43.016 965 Level-0 table #18016: 21361 bytes OK
-2026/08/10-01:18:43.017 965 Delete type=0 #18014
-2026/08/10-01:18:43.018 965 Compacting 4@0 + 1@1 files
-2026/08/10-01:18:43.021 965 Generated table #18017@0: 2488 keys, 74414 bytes
-2026/08/10-01:18:43.021 965 Compacted 4@0 + 1@1 files => 74414 bytes
-2026/08/10-01:18:43.022 965 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/08/10-01:18:43.022 965 Delete type=2 #18004
-2026/08/10-01:18:43.022 965 Delete type=2 #18002
-2026/08/10-01:18:43.022 965 Delete type=2 #18012
-2026/08/10-01:18:43.022 965 Delete type=2 #18008
-2026/08/10-01:18:43.022 965 Delete type=2 #18016
-2026/08/10-01:23:09.532 965 Level-0 table #18019: started
-2026/08/10-01:23:09.535 965 Level-0 table #18019: 21222 bytes OK
-2026/08/10-01:23:09.535 965 Delete type=0 #18015
+2026/08/10-02:03:41.189 871 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/08/10-02:07:42.195 871 Level-0 table #18023: started
+2026/08/10-02:07:42.198 871 Level-0 table #18023: 21335 bytes OK
+2026/08/10-02:07:42.199 871 Delete type=0 #18021
+2026/08/10-02:10:09.662 871 Level-0 table #18025: started
+2026/08/10-02:10:09.739 871 Level-0 table #18025: 20420 bytes OK
+2026/08/10-02:10:09.740 871 Delete type=0 #18022
+2026/08/10-02:12:42.195 871 Level-0 table #18027: started
+2026/08/10-02:12:42.197 871 Level-0 table #18027: 23203 bytes OK
+2026/08/10-02:12:42.199 871 Delete type=0 #18024
+2026/08/10-02:12:42.199 871 Compacting 4@0 + 1@1 files
+2026/08/10-02:12:42.202 871 Generated table #18028@0: 2490 keys, 74328 bytes
+2026/08/10-02:12:42.202 871 Compacted 4@0 + 1@1 files => 74328 bytes
+2026/08/10-02:12:42.203 871 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/10-02:12:42.203 871 Delete type=2 #18023
+2026/08/10-02:12:42.203 871 Delete type=2 #18027
+2026/08/10-02:12:42.203 871 Delete type=2 #18025
+2026/08/10-02:12:42.203 871 Delete type=2 #18019
+2026/08/10-02:12:42.203 871 Delete type=2 #18017
+2026/08/10-02:14:42.195 871 Level-0 table #18030: started
+2026/08/10-02:14:42.198 871 Level-0 table #18030: 20104 bytes OK
+2026/08/10-02:14:42.199 871 Delete type=0 #18026
+2026/08/10-02:19:42.195 871 Level-0 table #18032: started
+2026/08/10-02:19:42.197 871 Level-0 table #18032: 21209 bytes OK
+2026/08/10-02:19:42.199 871 Delete type=0 #18029
