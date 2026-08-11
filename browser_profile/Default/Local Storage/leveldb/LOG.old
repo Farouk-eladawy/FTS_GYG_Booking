@@ -1,7 +1,25 @@
-2026/08/11-01:53:14.481 995 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/08/11-01:57:15.396 999 Level-0 table #18278: started
-2026/08/11-01:57:15.401 999 Level-0 table #18278: 21296 bytes OK
-2026/08/11-01:57:15.402 999 Delete type=0 #18276
-2026/08/11-02:01:15.396 999 Level-0 table #18280: started
-2026/08/11-02:01:15.398 999 Level-0 table #18280: 20510 bytes OK
-2026/08/11-02:01:15.399 999 Delete type=0 #18277
+2026/08/11-02:42:25.612 965 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/08/11-02:46:26.136 965 Level-0 table #18284: started
+2026/08/11-02:46:26.142 965 Level-0 table #18284: 21426 bytes OK
+2026/08/11-02:46:26.143 965 Delete type=0 #18282
+2026/08/11-02:48:54.690 961 Level-0 table #18286: started
+2026/08/11-02:48:54.696 961 Level-0 table #18286: 20502 bytes OK
+2026/08/11-02:48:54.697 961 Delete type=0 #18283
+2026/08/11-02:48:54.697 961 Compacting 4@0 + 1@1 files
+2026/08/11-02:48:54.701 961 Generated table #18287@0: 2527 keys, 74777 bytes
+2026/08/11-02:48:54.701 961 Compacted 4@0 + 1@1 files => 74777 bytes
+2026/08/11-02:48:54.701 961 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/11-02:48:54.702 961 Delete type=2 #18280
+2026/08/11-02:48:54.702 961 Delete type=2 #18284
+2026/08/11-02:48:54.702 961 Delete type=2 #18278
+2026/08/11-02:48:54.702 961 Delete type=2 #18286
+2026/08/11-02:48:54.702 961 Delete type=2 #18274
+2026/08/11-02:51:05.057 966 Level-0 table #18289: started
+2026/08/11-02:51:05.062 966 Level-0 table #18289: 23262 bytes OK
+2026/08/11-02:51:05.063 966 Delete type=0 #18285
+2026/08/11-02:53:26.137 965 Level-0 table #18291: started
+2026/08/11-02:53:26.138 965 Level-0 table #18291: 23474 bytes OK
+2026/08/11-02:53:26.139 965 Delete type=0 #18288
+2026/08/11-02:58:26.137 965 Level-0 table #18293: started
+2026/08/11-02:58:26.138 965 Level-0 table #18293: 21065 bytes OK
+2026/08/11-02:58:26.139 965 Delete type=0 #18290
