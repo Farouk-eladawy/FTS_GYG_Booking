@@ -1,16 +1,16 @@
-2026/08/13-10:38:15.208 90c Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/08/13-10:38:15.214 912 Compacting 4@0 + 1@1 files
-2026/08/13-10:38:15.224 912 Generated table #18880@0: 2635 keys, 80909 bytes
-2026/08/13-10:38:15.225 912 Compacted 4@0 + 1@1 files => 80909 bytes
-2026/08/13-10:38:15.225 912 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/08/13-10:38:15.225 912 Delete type=2 #18873
-2026/08/13-10:38:15.225 912 Delete type=2 #18871
-2026/08/13-10:38:15.225 912 Delete type=2 #18875
-2026/08/13-10:38:15.225 912 Delete type=2 #18869
-2026/08/13-10:38:15.226 912 Delete type=2 #18877
-2026/08/13-10:41:21.168 910 Level-0 table #18882: started
-2026/08/13-10:41:21.169 910 Level-0 table #18882: 21458 bytes OK
-2026/08/13-10:41:21.170 910 Delete type=0 #18879
-2026/08/13-10:44:21.168 910 Level-0 table #18884: started
-2026/08/13-10:44:21.173 910 Level-0 table #18884: 21114 bytes OK
-2026/08/13-10:44:21.173 910 Delete type=0 #18881
+2026/08/13-11:27:45.164 883 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/08/13-11:31:45.850 887 Level-0 table #18888: started
+2026/08/13-11:31:45.856 887 Level-0 table #18888: 21750 bytes OK
+2026/08/13-11:31:45.857 887 Delete type=0 #18886
+2026/08/13-11:34:49.935 887 Level-0 table #18890: started
+2026/08/13-11:34:50.010 887 Level-0 table #18890: 21402 bytes OK
+2026/08/13-11:34:50.085 887 Delete type=0 #18887
+2026/08/13-11:34:50.085 887 Compacting 4@0 + 1@1 files
+2026/08/13-11:34:50.092 887 Generated table #18891@0: 2638 keys, 81054 bytes
+2026/08/13-11:34:50.092 887 Compacted 4@0 + 1@1 files => 81054 bytes
+2026/08/13-11:34:50.093 887 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/13-11:34:50.093 887 Delete type=2 #18884
+2026/08/13-11:34:50.093 887 Delete type=2 #18882
+2026/08/13-11:34:50.093 887 Delete type=2 #18880
+2026/08/13-11:34:50.093 887 Delete type=2 #18888
+2026/08/13-11:34:50.093 887 Delete type=2 #18890
