@@ -1,30 +1,4 @@
-2026/08/13-07:20:51.028 9dd Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/08/13-08:07:26.891 9e1 Level-0 table #89365: started
-2026/08/13-08:07:26.893 9e1 Level-0 table #89365: 13779 bytes OK
-2026/08/13-08:07:26.895 9e1 Delete type=0 #89363
-2026/08/13-08:09:38.815 9e1 Level-0 table #89367: started
-2026/08/13-08:09:38.829 9e1 Level-0 table #89367: 593185 bytes OK
-2026/08/13-08:09:38.831 9e1 Delete type=0 #89364
-2026/08/13-08:12:34.682 9e1 Level-0 table #89369: started
-2026/08/13-08:12:34.690 9e1 Level-0 table #89369: 11340 bytes OK
-2026/08/13-08:12:34.692 9e1 Delete type=0 #89366
-2026/08/13-08:13:55.735 9e1 Level-0 table #89371: started
-2026/08/13-08:13:55.747 9e1 Level-0 table #89371: 589981 bytes OK
-2026/08/13-08:13:55.749 9e1 Delete type=0 #89368
-2026/08/13-08:13:55.750 9e1 Compacting 4@0 + 1@1 files
-2026/08/13-08:13:55.778 9e1 Generated table #89372@0: 33411 keys, 1617922 bytes
-2026/08/13-08:13:55.778 9e1 Compacted 4@0 + 1@1 files => 1617922 bytes
-2026/08/13-08:13:55.778 9e1 compacted to: files[ 0 5 46 77 0 0 0 ]
-2026/08/13-08:13:55.780 9e1 Delete type=2 #89367
-2026/08/13-08:13:55.780 9e1 Delete type=2 #89369
-2026/08/13-08:13:55.780 9e1 Delete type=2 #89361
-2026/08/13-08:13:55.780 9e1 Delete type=2 #89365
-2026/08/13-08:13:55.780 9e1 Delete type=2 #89371
-2026/08/13-08:13:55.780 9e1 Compacting 1@1 + 1@2 files
-2026/08/13-08:13:55.813 9e1 Generated table #89373@1: 42 keys, 2341576 bytes
-2026/08/13-08:13:55.833 9e1 Generated table #89374@1: 19 keys, 1688120 bytes
-2026/08/13-08:13:55.833 9e1 Compacted 1@1 + 1@2 files => 4029696 bytes
-2026/08/13-08:13:55.834 9e1 compacted to: files[ 0 4 47 77 0 0 0 ]
-2026/08/13-08:13:55.835 9e1 Delete type=2 #89231
-2026/08/13-08:13:55.835 9e1 Delete type=2 #89077
-2026/08/13-08:13:55.836 9e1 Moved #83465 to level-3 2280069 bytes OK: files[ 0 4 46 78 0 0 0 ]
+2026/08/13-09:49:07.330 879 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/08/13-10:06:36.335 879 Level-0 table #89378: started
+2026/08/13-10:06:36.454 879 Level-0 table #89378: 595562 bytes OK
+2026/08/13-10:06:36.457 879 Delete type=0 #89376
