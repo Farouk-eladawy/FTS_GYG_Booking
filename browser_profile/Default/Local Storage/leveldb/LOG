@@ -1,16 +1,19 @@
-2026/08/14-17:54:30.288 8b9 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/08/14-17:58:30.877 8b9 Level-0 table #19260: started
-2026/08/14-17:58:30.884 8b9 Level-0 table #19260: 21989 bytes OK
-2026/08/14-17:58:30.885 8b9 Delete type=0 #19258
-2026/08/14-17:58:30.885 8b9 Compacting 4@0 + 1@1 files
-2026/08/14-17:58:30.892 8b9 Generated table #19261@0: 2681 keys, 81909 bytes
-2026/08/14-17:58:30.892 8b9 Compacted 4@0 + 1@1 files => 81909 bytes
-2026/08/14-17:58:30.893 8b9 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/08/14-17:58:30.893 8b9 Delete type=2 #19250
-2026/08/14-17:58:30.893 8b9 Delete type=2 #19256
-2026/08/14-17:58:30.893 8b9 Delete type=2 #19260
-2026/08/14-17:58:30.893 8b9 Delete type=2 #19254
-2026/08/14-17:58:30.894 8b9 Delete type=2 #19248
-2026/08/14-18:02:30.876 8bd Level-0 table #19263: started
-2026/08/14-18:02:30.904 8bd Level-0 table #19263: 21592 bytes OK
-2026/08/14-18:02:30.905 8bd Delete type=0 #19259
+2026/08/14-18:43:45.373 8d5 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/08/14-18:48:45.795 8d9 Level-0 table #19267: started
+2026/08/14-18:48:45.802 8d9 Level-0 table #19267: 21922 bytes OK
+2026/08/14-18:48:45.803 8d9 Delete type=0 #19265
+2026/08/14-18:50:21.361 8d9 Level-0 table #19269: started
+2026/08/14-18:50:21.366 8d9 Level-0 table #19269: 20738 bytes OK
+2026/08/14-18:50:21.366 8d9 Delete type=0 #19266
+2026/08/14-18:51:45.796 8d9 Level-0 table #19271: started
+2026/08/14-18:51:45.801 8d9 Level-0 table #19271: 20204 bytes OK
+2026/08/14-18:51:45.802 8d9 Delete type=0 #19268
+2026/08/14-18:51:45.802 8d9 Compacting 4@0 + 1@1 files
+2026/08/14-18:51:45.804 8d9 Generated table #19272@0: 2683 keys, 82115 bytes
+2026/08/14-18:51:45.804 8d9 Compacted 4@0 + 1@1 files => 82115 bytes
+2026/08/14-18:51:45.805 8d9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/14-18:51:45.805 8d9 Delete type=2 #19261
+2026/08/14-18:51:45.805 8d9 Delete type=2 #19269
+2026/08/14-18:51:45.805 8d9 Delete type=2 #19267
+2026/08/14-18:51:45.805 8d9 Delete type=2 #19263
+2026/08/14-18:51:45.805 8d9 Delete type=2 #19271
