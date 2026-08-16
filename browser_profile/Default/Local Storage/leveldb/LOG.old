@@ -1,28 +1,40 @@
-2026/08/16-19:13:40.273 917 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/08/16-19:16:44.297 91b Level-0 table #19939: started
-2026/08/16-19:16:44.303 91b Level-0 table #19939: 18667 bytes OK
-2026/08/16-19:16:44.303 91b Delete type=0 #19937
-2026/08/16-19:20:07.252 91d Level-0 table #19941: started
-2026/08/16-19:20:07.253 91d Level-0 table #19941: 21342 bytes OK
-2026/08/16-19:20:07.254 91d Delete type=0 #19938
-2026/08/16-19:21:40.720 91b Level-0 table #19943: started
-2026/08/16-19:21:40.721 91b Level-0 table #19943: 20154 bytes OK
-2026/08/16-19:21:40.721 91b Delete type=0 #19940
-2026/08/16-19:21:40.722 91b Compacting 4@0 + 1@1 files
-2026/08/16-19:21:40.724 91b Generated table #19944@0: 2761 keys, 83492 bytes
-2026/08/16-19:21:40.724 91b Compacted 4@0 + 1@1 files => 83492 bytes
-2026/08/16-19:21:40.724 91b compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/08/16-19:21:40.724 91b Delete type=2 #19939
-2026/08/16-19:21:40.724 91b Delete type=2 #19933
-2026/08/16-19:21:40.724 91b Delete type=2 #19943
-2026/08/16-19:21:40.724 91b Delete type=2 #19935
-2026/08/16-19:21:40.724 91b Delete type=2 #19941
-2026/08/16-19:23:40.720 91b Level-0 table #19946: started
-2026/08/16-19:23:40.723 91b Level-0 table #19946: 20471 bytes OK
-2026/08/16-19:23:40.723 91b Delete type=0 #19942
-2026/08/16-19:27:40.720 917 Level-0 table #19948: started
-2026/08/16-19:27:40.726 917 Level-0 table #19948: 21787 bytes OK
-2026/08/16-19:27:40.727 917 Delete type=0 #19945
-2026/08/16-19:32:27.594 91b Level-0 table #19950: started
-2026/08/16-19:32:27.597 91b Level-0 table #19950: 22183 bytes OK
-2026/08/16-19:32:27.598 91b Delete type=0 #19947
+2026/08/16-20:03:02.401 91e Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/08/16-20:07:02.943 922 Level-0 table #19954: started
+2026/08/16-20:07:02.948 922 Level-0 table #19954: 22050 bytes OK
+2026/08/16-20:07:02.949 922 Delete type=0 #19952
+2026/08/16-20:07:02.949 922 Compacting 4@0 + 1@1 files
+2026/08/16-20:07:02.952 922 Generated table #19955@0: 2762 keys, 83510 bytes
+2026/08/16-20:07:02.952 922 Compacted 4@0 + 1@1 files => 83510 bytes
+2026/08/16-20:07:02.952 922 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/16-20:07:02.952 922 Delete type=2 #19950
+2026/08/16-20:07:02.952 922 Delete type=2 #19944
+2026/08/16-20:07:02.952 922 Delete type=2 #19946
+2026/08/16-20:07:02.952 922 Delete type=2 #19948
+2026/08/16-20:07:02.952 922 Delete type=2 #19954
+2026/08/16-20:09:34.441 91e Level-0 table #19957: started
+2026/08/16-20:09:34.444 91e Level-0 table #19957: 25070 bytes OK
+2026/08/16-20:09:34.445 91e Delete type=0 #19953
+2026/08/16-20:10:07.611 922 Level-0 table #19959: started
+2026/08/16-20:10:07.617 922 Level-0 table #19959: 19361 bytes OK
+2026/08/16-20:10:07.618 922 Delete type=0 #19956
+2026/08/16-20:13:07.611 922 Level-0 table #19961: started
+2026/08/16-20:13:07.615 922 Level-0 table #19961: 20257 bytes OK
+2026/08/16-20:13:07.616 922 Delete type=0 #19958
+2026/08/16-20:16:02.943 922 Level-0 table #19963: started
+2026/08/16-20:16:02.945 922 Level-0 table #19963: 21481 bytes OK
+2026/08/16-20:16:02.945 922 Delete type=0 #19960
+2026/08/16-20:16:02.946 922 Compacting 4@0 + 1@1 files
+2026/08/16-20:16:02.949 922 Generated table #19964@0: 2763 keys, 83480 bytes
+2026/08/16-20:16:02.949 922 Compacted 4@0 + 1@1 files => 83480 bytes
+2026/08/16-20:16:02.950 922 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/16-20:16:02.950 922 Delete type=2 #19961
+2026/08/16-20:16:02.950 922 Delete type=2 #19959
+2026/08/16-20:16:02.950 922 Delete type=2 #19957
+2026/08/16-20:16:02.950 922 Delete type=2 #19963
+2026/08/16-20:16:02.950 922 Delete type=2 #19955
+2026/08/16-20:18:07.611 922 Level-0 table #19966: started
+2026/08/16-20:18:07.612 922 Level-0 table #19966: 21429 bytes OK
+2026/08/16-20:18:07.613 922 Delete type=0 #19962
+2026/08/16-20:22:07.610 922 Level-0 table #19968: started
+2026/08/16-20:22:07.616 922 Level-0 table #19968: 21778 bytes OK
+2026/08/16-20:22:07.617 922 Delete type=0 #19965
