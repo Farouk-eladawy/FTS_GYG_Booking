@@ -1,17 +1,16 @@
-2026/08/19-08:04:53.249 8bf Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/08/19-08:04:53.283 8bf Delete type=2 #20727
-2026/08/19-08:04:53.283 8c3 Compacting 4@0 + 1@1 files
-2026/08/19-08:04:53.287 8c3 Generated table #20729@0: 2861 keys, 85649 bytes
-2026/08/19-08:04:53.287 8c3 Compacted 4@0 + 1@1 files => 85649 bytes
-2026/08/19-08:04:53.294 8c3 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/08/19-08:04:53.294 8c3 Delete type=2 #20724
-2026/08/19-08:04:53.294 8c3 Delete type=2 #20722
-2026/08/19-08:04:53.294 8c3 Delete type=2 #20716
-2026/08/19-08:04:53.294 8c3 Delete type=2 #20718
-2026/08/19-08:04:53.294 8c3 Delete type=2 #20726
-2026/08/19-08:07:57.993 8c3 Level-0 table #20731: started
-2026/08/19-08:07:57.995 8c3 Level-0 table #20731: 21443 bytes OK
-2026/08/19-08:07:57.995 8c3 Delete type=0 #20728
-2026/08/19-08:11:53.932 8c3 Level-0 table #20733: started
-2026/08/19-08:11:53.934 8c3 Level-0 table #20733: 21136 bytes OK
-2026/08/19-08:11:53.934 8c3 Delete type=0 #20730
+2026/08/19-08:54:33.053 91b Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/08/19-08:58:33.598 91f Level-0 table #20737: started
+2026/08/19-08:58:33.603 91f Level-0 table #20737: 21268 bytes OK
+2026/08/19-08:58:33.604 91f Delete type=0 #20735
+2026/08/19-09:02:33.599 91b Level-0 table #20739: started
+2026/08/19-09:02:33.607 91b Level-0 table #20739: 21243 bytes OK
+2026/08/19-09:02:33.608 91b Delete type=0 #20736
+2026/08/19-09:02:33.608 91b Compacting 4@0 + 1@1 files
+2026/08/19-09:02:33.612 91b Generated table #20740@0: 2863 keys, 85564 bytes
+2026/08/19-09:02:33.612 91b Compacted 4@0 + 1@1 files => 85564 bytes
+2026/08/19-09:02:33.612 91b compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/19-09:02:33.612 91b Delete type=2 #20739
+2026/08/19-09:02:33.612 91b Delete type=2 #20733
+2026/08/19-09:02:33.612 91b Delete type=2 #20731
+2026/08/19-09:02:33.612 91b Delete type=2 #20729
+2026/08/19-09:02:33.613 91b Delete type=2 #20737
