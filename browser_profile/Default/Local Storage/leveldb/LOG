@@ -1,22 +1,10 @@
-2026/08/24-09:23:06.229 992 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/08/24-09:26:06.880 996 Level-0 table #22274: started
-2026/08/24-09:26:06.885 996 Level-0 table #22274: 22152 bytes OK
-2026/08/24-09:26:06.885 996 Delete type=0 #22272
-2026/08/24-09:28:11.978 996 Level-0 table #22276: started
-2026/08/24-09:28:11.982 996 Level-0 table #22276: 18596 bytes OK
-2026/08/24-09:28:11.982 996 Delete type=0 #22273
-2026/08/24-09:30:06.879 996 Level-0 table #22278: started
-2026/08/24-09:30:06.880 996 Level-0 table #22278: 21325 bytes OK
-2026/08/24-09:30:06.881 996 Delete type=0 #22275
-2026/08/24-09:32:06.880 996 Level-0 table #22280: started
-2026/08/24-09:32:06.881 996 Level-0 table #22280: 21650 bytes OK
-2026/08/24-09:32:06.881 996 Delete type=0 #22277
-2026/08/24-09:32:06.881 996 Compacting 4@0 + 1@1 files
-2026/08/24-09:32:06.883 996 Generated table #22281@0: 3109 keys, 91005 bytes
-2026/08/24-09:32:06.883 996 Compacted 4@0 + 1@1 files => 91005 bytes
-2026/08/24-09:32:06.884 996 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/08/24-09:32:06.884 996 Delete type=2 #22278
-2026/08/24-09:32:06.884 996 Delete type=2 #22270
-2026/08/24-09:32:06.884 996 Delete type=2 #22276
-2026/08/24-09:32:06.884 996 Delete type=2 #22274
-2026/08/24-09:32:06.884 996 Delete type=2 #22280
+2026/08/24-10:13:50.122 9b5 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/08/24-10:17:50.753 9b9 Level-0 table #22285: started
+2026/08/24-10:17:50.755 9b9 Level-0 table #22285: 22303 bytes OK
+2026/08/24-10:17:50.755 9b9 Delete type=0 #22283
+2026/08/24-10:19:55.285 9b9 Level-0 table #22287: started
+2026/08/24-10:19:55.288 9b9 Level-0 table #22287: 22262 bytes OK
+2026/08/24-10:19:55.289 9b9 Delete type=0 #22284
+2026/08/24-10:20:50.753 9b9 Level-0 table #22289: started
+2026/08/24-10:20:50.757 9b9 Level-0 table #22289: 21299 bytes OK
+2026/08/24-10:20:50.757 9b9 Delete type=0 #22286
