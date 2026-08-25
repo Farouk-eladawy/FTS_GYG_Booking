@@ -1,1 +1,33 @@
-2026/08/25-03:08:40.752 8e2 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/08/25-03:59:13.542 8bb Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/08/25-04:01:25.540 8bf Level-0 table #92251: started
+2026/08/25-04:01:25.551 8bf Level-0 table #92251: 17306 bytes OK
+2026/08/25-04:01:25.555 8bf Delete type=0 #92249
+2026/08/25-04:03:08.259 8c0 Level-0 table #92253: started
+2026/08/25-04:03:08.326 8c0 Level-0 table #92253: 604225 bytes OK
+2026/08/25-04:03:08.390 8c0 Delete type=0 #92250
+2026/08/25-04:04:57.576 8bb Level-0 table #92255: started
+2026/08/25-04:04:57.603 8bb Level-0 table #92255: 17125 bytes OK
+2026/08/25-04:04:57.607 8bb Delete type=0 #92252
+2026/08/25-04:43:49.088 8bf Level-0 table #92257: started
+2026/08/25-04:43:49.090 8bf Level-0 table #92257: 17091 bytes OK
+2026/08/25-04:43:49.094 8bf Delete type=0 #92254
+2026/08/25-04:43:49.095 8bf Compacting 4@0 + 2@1 files
+2026/08/25-04:43:49.140 8bf Generated table #92258@0: 10632 keys, 2105773 bytes
+2026/08/25-04:43:49.170 8bf Generated table #92259@0: 49395 keys, 1518802 bytes
+2026/08/25-04:43:49.170 8bf Compacted 4@0 + 2@1 files => 3624575 bytes
+2026/08/25-04:43:49.171 8bf compacted to: files[ 0 4 45 101 0 0 0 ]
+2026/08/25-04:43:49.172 8bf Delete type=2 #92251
+2026/08/25-04:43:49.173 8bf Delete type=2 #92255
+2026/08/25-04:43:49.173 8bf Delete type=2 #92247
+2026/08/25-04:43:49.173 8bf Delete type=2 #92246
+2026/08/25-04:43:49.173 8bf Delete type=2 #92253
+2026/08/25-04:43:49.173 8bf Delete type=2 #92257
+2026/08/25-04:45:42.728 8bf Level-0 table #92261: started
+2026/08/25-04:45:42.738 8bf Level-0 table #92261: 17749 bytes OK
+2026/08/25-04:45:42.741 8bf Delete type=0 #92256
+2026/08/25-04:47:27.459 8c0 Level-0 table #92263: started
+2026/08/25-04:47:27.470 8c0 Level-0 table #92263: 16211 bytes OK
+2026/08/25-04:47:27.474 8c0 Delete type=0 #92260
+2026/08/25-04:51:31.326 8bf Level-0 table #92265: started
+2026/08/25-04:51:31.348 8bf Level-0 table #92265: 598171 bytes OK
+2026/08/25-04:51:31.350 8bf Delete type=0 #92262
