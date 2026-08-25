@@ -1,17 +1,16 @@
-2026/08/25-00:36:26.086 995 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/08/25-00:36:26.109 995 Delete type=2 #22437
-2026/08/25-00:36:26.110 999 Compacting 4@0 + 1@1 files
-2026/08/25-00:36:26.116 999 Generated table #22439@0: 3132 keys, 92633 bytes
-2026/08/25-00:36:26.116 999 Compacted 4@0 + 1@1 files => 92633 bytes
-2026/08/25-00:36:26.118 999 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/08/25-00:36:26.118 999 Delete type=2 #22428
-2026/08/25-00:36:26.119 999 Delete type=2 #22434
-2026/08/25-00:36:26.119 999 Delete type=2 #22436
-2026/08/25-00:36:26.119 999 Delete type=2 #22426
-2026/08/25-00:36:26.119 999 Delete type=2 #22432
-2026/08/25-00:40:26.671 999 Level-0 table #22441: started
-2026/08/25-00:40:26.675 999 Level-0 table #22441: 22304 bytes OK
-2026/08/25-00:40:26.676 999 Delete type=0 #22438
-2026/08/25-00:42:30.652 999 Level-0 table #22443: started
-2026/08/25-00:42:30.657 999 Level-0 table #22443: 22242 bytes OK
-2026/08/25-00:42:30.657 999 Delete type=0 #22440
+2026/08/25-01:27:07.626 98e Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/08/25-01:31:08.197 992 Level-0 table #22447: started
+2026/08/25-01:31:08.199 992 Level-0 table #22447: 18750 bytes OK
+2026/08/25-01:31:08.199 992 Delete type=0 #22445
+2026/08/25-01:33:11.722 992 Level-0 table #22449: started
+2026/08/25-01:33:11.726 992 Level-0 table #22449: 18683 bytes OK
+2026/08/25-01:33:11.727 992 Delete type=0 #22446
+2026/08/25-01:33:11.727 992 Compacting 4@0 + 1@1 files
+2026/08/25-01:33:11.730 992 Generated table #22450@0: 3134 keys, 92635 bytes
+2026/08/25-01:33:11.730 992 Compacted 4@0 + 1@1 files => 92635 bytes
+2026/08/25-01:33:11.731 992 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/25-01:33:11.731 992 Delete type=2 #22449
+2026/08/25-01:33:11.731 992 Delete type=2 #22439
+2026/08/25-01:33:11.731 992 Delete type=2 #22443
+2026/08/25-01:33:11.731 992 Delete type=2 #22447
+2026/08/25-01:33:11.731 992 Delete type=2 #22441
