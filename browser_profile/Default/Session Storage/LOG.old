@@ -1,33 +1,37 @@
-2026/08/25-03:59:13.542 8bb Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/08/25-04:01:25.540 8bf Level-0 table #92251: started
-2026/08/25-04:01:25.551 8bf Level-0 table #92251: 17306 bytes OK
-2026/08/25-04:01:25.555 8bf Delete type=0 #92249
-2026/08/25-04:03:08.259 8c0 Level-0 table #92253: started
-2026/08/25-04:03:08.326 8c0 Level-0 table #92253: 604225 bytes OK
-2026/08/25-04:03:08.390 8c0 Delete type=0 #92250
-2026/08/25-04:04:57.576 8bb Level-0 table #92255: started
-2026/08/25-04:04:57.603 8bb Level-0 table #92255: 17125 bytes OK
-2026/08/25-04:04:57.607 8bb Delete type=0 #92252
-2026/08/25-04:43:49.088 8bf Level-0 table #92257: started
-2026/08/25-04:43:49.090 8bf Level-0 table #92257: 17091 bytes OK
-2026/08/25-04:43:49.094 8bf Delete type=0 #92254
-2026/08/25-04:43:49.095 8bf Compacting 4@0 + 2@1 files
-2026/08/25-04:43:49.140 8bf Generated table #92258@0: 10632 keys, 2105773 bytes
-2026/08/25-04:43:49.170 8bf Generated table #92259@0: 49395 keys, 1518802 bytes
-2026/08/25-04:43:49.170 8bf Compacted 4@0 + 2@1 files => 3624575 bytes
-2026/08/25-04:43:49.171 8bf compacted to: files[ 0 4 45 101 0 0 0 ]
-2026/08/25-04:43:49.172 8bf Delete type=2 #92251
-2026/08/25-04:43:49.173 8bf Delete type=2 #92255
-2026/08/25-04:43:49.173 8bf Delete type=2 #92247
-2026/08/25-04:43:49.173 8bf Delete type=2 #92246
-2026/08/25-04:43:49.173 8bf Delete type=2 #92253
-2026/08/25-04:43:49.173 8bf Delete type=2 #92257
-2026/08/25-04:45:42.728 8bf Level-0 table #92261: started
-2026/08/25-04:45:42.738 8bf Level-0 table #92261: 17749 bytes OK
-2026/08/25-04:45:42.741 8bf Delete type=0 #92256
-2026/08/25-04:47:27.459 8c0 Level-0 table #92263: started
-2026/08/25-04:47:27.470 8c0 Level-0 table #92263: 16211 bytes OK
-2026/08/25-04:47:27.474 8c0 Delete type=0 #92260
-2026/08/25-04:51:31.326 8bf Level-0 table #92265: started
-2026/08/25-04:51:31.348 8bf Level-0 table #92265: 598171 bytes OK
-2026/08/25-04:51:31.350 8bf Delete type=0 #92262
+2026/08/25-05:40:39.228 983 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/08/25-05:42:52.940 983 Level-0 table #92269: started
+2026/08/25-05:42:52.944 983 Level-0 table #92269: 17152 bytes OK
+2026/08/25-05:42:52.948 983 Delete type=0 #92267
+2026/08/25-05:42:52.948 987 Compacting 4@0 + 2@1 files
+2026/08/25-05:42:52.984 987 Generated table #92270@0: 74 keys, 2366606 bytes
+2026/08/25-05:42:53.011 987 Generated table #92271@0: 60060 keys, 1849954 bytes
+2026/08/25-05:42:53.012 987 Compacted 4@0 + 2@1 files => 4216560 bytes
+2026/08/25-05:42:53.012 987 compacted to: files[ 0 4 45 101 0 0 0 ]
+2026/08/25-05:42:53.013 987 Delete type=2 #92261
+2026/08/25-05:42:53.013 987 Delete type=2 #92263
+2026/08/25-05:42:53.013 987 Delete type=2 #92259
+2026/08/25-05:42:53.013 987 Delete type=2 #92269
+2026/08/25-05:42:53.013 987 Delete type=2 #92265
+2026/08/25-05:42:53.013 987 Delete type=2 #92258
+2026/08/25-05:45:13.838 983 Level-0 table #92273: started
+2026/08/25-05:45:13.842 983 Level-0 table #92273: 16917 bytes OK
+2026/08/25-05:45:13.844 983 Delete type=0 #92268
+2026/08/25-06:22:47.828 987 Level-0 table #92275: started
+2026/08/25-06:22:47.830 987 Level-0 table #92275: 15982 bytes OK
+2026/08/25-06:22:47.834 987 Delete type=0 #92272
+2026/08/25-06:31:03.008 987 Level-0 table #92277: started
+2026/08/25-06:31:03.011 987 Level-0 table #92277: 13921 bytes OK
+2026/08/25-06:31:03.015 987 Delete type=0 #92274
+2026/08/25-06:31:28.183 987 Level-0 table #92279: started
+2026/08/25-06:31:28.200 987 Level-0 table #92279: 591304 bytes OK
+2026/08/25-06:31:28.203 987 Delete type=0 #92276
+2026/08/25-06:31:28.204 987 Compacting 4@0 + 1@1 files
+2026/08/25-06:31:28.265 987 Generated table #92280@0: 50019 keys, 2129292 bytes
+2026/08/25-06:31:28.277 987 Generated table #92281@0: 10187 keys, 312899 bytes
+2026/08/25-06:31:28.277 987 Compacted 4@0 + 1@1 files => 2442191 bytes
+2026/08/25-06:31:28.277 987 compacted to: files[ 0 5 45 101 0 0 0 ]
+2026/08/25-06:31:28.278 987 Delete type=2 #92279
+2026/08/25-06:31:28.278 987 Delete type=2 #92277
+2026/08/25-06:31:28.278 987 Delete type=2 #92271
+2026/08/25-06:31:28.278 987 Delete type=2 #92275
+2026/08/25-06:31:28.278 987 Delete type=2 #92273
