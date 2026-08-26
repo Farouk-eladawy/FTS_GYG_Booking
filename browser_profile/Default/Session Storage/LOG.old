@@ -1,7 +1,23 @@
-2026/08/26-14:40:13.006 9d4 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/08/26-15:23:25.094 9d8 Level-0 table #92560: started
-2026/08/26-15:23:25.101 9d8 Level-0 table #92560: 12214 bytes OK
-2026/08/26-15:23:25.103 9d8 Delete type=0 #92558
-2026/08/26-15:25:44.465 9d8 Level-0 table #92562: started
-2026/08/26-15:25:44.481 9d8 Level-0 table #92562: 592115 bytes OK
-2026/08/26-15:25:44.484 9d8 Delete type=0 #92559
+2026/08/26-16:21:42.948 98e Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/08/26-17:06:16.886 98e Level-0 table #92566: started
+2026/08/26-17:06:16.894 98e Level-0 table #92566: 12030 bytes OK
+2026/08/26-17:06:16.897 98e Delete type=0 #92564
+2026/08/26-17:14:33.761 992 Level-0 table #92568: started
+2026/08/26-17:14:33.768 992 Level-0 table #92568: 16121 bytes OK
+2026/08/26-17:14:33.771 992 Delete type=0 #92565
+2026/08/26-17:14:33.771 992 Compacting 4@0 + 2@1 files
+2026/08/26-17:14:33.813 992 Generated table #92569@0: 10467 keys, 2104550 bytes
+2026/08/26-17:14:33.840 992 Generated table #92570@0: 53007 keys, 1624561 bytes
+2026/08/26-17:14:33.840 992 Compacted 4@0 + 2@1 files => 3729111 bytes
+2026/08/26-17:14:33.841 992 compacted to: files[ 0 5 45 103 0 0 0 ]
+2026/08/26-17:14:33.842 992 Delete type=2 #92556
+2026/08/26-17:14:33.842 992 Delete type=2 #92562
+2026/08/26-17:14:33.842 992 Delete type=2 #92568
+2026/08/26-17:14:33.842 992 Delete type=2 #92555
+2026/08/26-17:14:33.842 992 Delete type=2 #92560
+2026/08/26-17:14:33.842 992 Delete type=2 #92566
+2026/08/26-17:14:33.844 992 Moved #92270 to level-2 2366606 bytes OK: files[ 0 4 46 103 0 0 0 ]
+2026/08/26-17:14:33.844 992 Moved #88122 to level-3 2336806 bytes OK: files[ 0 4 45 104 0 0 0 ]
+2026/08/26-17:17:42.290 98e Level-0 table #92572: started
+2026/08/26-17:17:42.296 98e Level-0 table #92572: 16637 bytes OK
+2026/08/26-17:17:42.302 98e Delete type=0 #92567
