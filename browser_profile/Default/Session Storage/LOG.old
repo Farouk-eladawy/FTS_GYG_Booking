@@ -1,10 +1,24 @@
-2026/08/26-12:07:46.184 99a Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/08/26-12:10:04.126 99a Level-0 table #92524: started
-2026/08/26-12:10:04.135 99a Level-0 table #92524: 17619 bytes OK
-2026/08/26-12:10:04.138 99a Delete type=0 #92522
-2026/08/26-12:11:59.936 99a Level-0 table #92526: started
-2026/08/26-12:11:59.949 99a Level-0 table #92526: 602965 bytes OK
-2026/08/26-12:11:59.952 99a Delete type=0 #92523
-2026/08/26-12:14:02.701 99a Level-0 table #92528: started
-2026/08/26-12:14:02.708 99a Level-0 table #92528: 17647 bytes OK
-2026/08/26-12:14:02.711 99a Delete type=0 #92525
+2026/08/26-12:58:41.205 8be Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/08/26-13:00:56.641 8be Level-0 table #92532: started
+2026/08/26-13:00:56.648 8be Level-0 table #92532: 14953 bytes OK
+2026/08/26-13:00:56.712 8be Delete type=0 #92530
+2026/08/26-13:00:56.712 8c3 Compacting 4@0 + 2@1 files
+2026/08/26-13:00:56.758 8c3 Generated table #92533@0: 30236 keys, 2117710 bytes
+2026/08/26-13:00:56.774 8c3 Generated table #92534@0: 32681 keys, 1002355 bytes
+2026/08/26-13:00:56.774 8c3 Compacted 4@0 + 2@1 files => 3120065 bytes
+2026/08/26-13:00:56.775 8c3 compacted to: files[ 0 5 45 103 0 0 0 ]
+2026/08/26-13:00:56.775 8c3 Delete type=2 #92519
+2026/08/26-13:00:56.775 8c3 Delete type=2 #92532
+2026/08/26-13:00:56.775 8c3 Delete type=2 #92524
+2026/08/26-13:00:56.776 8c3 Delete type=2 #92528
+2026/08/26-13:00:56.776 8c3 Delete type=2 #92520
+2026/08/26-13:00:56.776 8c3 Delete type=2 #92526
+2026/08/26-13:02:43.581 8c2 Level-0 table #92536: started
+2026/08/26-13:02:43.585 8c2 Level-0 table #92536: 15932 bytes OK
+2026/08/26-13:02:43.725 8c2 Delete type=0 #92531
+2026/08/26-13:04:37.036 8c2 Level-0 table #92538: started
+2026/08/26-13:04:37.045 8c2 Level-0 table #92538: 14915 bytes OK
+2026/08/26-13:04:37.048 8c2 Delete type=0 #92535
+2026/08/26-13:07:14.589 8c2 Level-0 table #92540: started
+2026/08/26-13:07:14.636 8c2 Level-0 table #92540: 16338 bytes OK
+2026/08/26-13:07:14.639 8c2 Delete type=0 #92537
