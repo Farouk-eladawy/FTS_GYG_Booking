@@ -1,22 +1,10 @@
-2026/08/28-22:32:49.956 946 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/08/28-22:35:51.008 94a Level-0 table #23687: started
-2026/08/28-22:35:51.013 94a Level-0 table #23687: 19184 bytes OK
-2026/08/28-22:35:51.013 94a Delete type=0 #23685
-2026/08/28-22:37:56.881 94a Level-0 table #23689: started
-2026/08/28-22:37:56.882 94a Level-0 table #23689: 19257 bytes OK
-2026/08/28-22:37:56.883 94a Delete type=0 #23686
-2026/08/28-22:39:36.243 94a Level-0 table #23691: started
-2026/08/28-22:39:36.244 94a Level-0 table #23691: 22697 bytes OK
-2026/08/28-22:39:36.247 94a Delete type=0 #23688
-2026/08/28-22:40:56.881 94a Level-0 table #23693: started
-2026/08/28-22:40:56.882 94a Level-0 table #23693: 22254 bytes OK
-2026/08/28-22:40:56.882 94a Delete type=0 #23690
-2026/08/28-22:40:56.882 94a Compacting 4@0 + 1@1 files
-2026/08/28-22:40:56.885 94a Generated table #23694@0: 3278 keys, 96651 bytes
-2026/08/28-22:40:56.885 94a Compacted 4@0 + 1@1 files => 96651 bytes
-2026/08/28-22:40:56.885 94a compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/08/28-22:40:56.885 94a Delete type=2 #23693
-2026/08/28-22:40:56.885 94a Delete type=2 #23683
-2026/08/28-22:40:56.885 94a Delete type=2 #23687
-2026/08/28-22:40:56.885 94a Delete type=2 #23689
-2026/08/28-22:40:56.885 94a Delete type=2 #23691
+2026/08/28-23:23:42.272 87c Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/08/28-23:26:43.481 880 Level-0 table #23698: started
+2026/08/28-23:26:43.727 880 Level-0 table #23698: 19413 bytes OK
+2026/08/28-23:26:43.728 880 Delete type=0 #23696
+2026/08/28-23:28:48.103 880 Level-0 table #23700: started
+2026/08/28-23:28:48.111 880 Level-0 table #23700: 19355 bytes OK
+2026/08/28-23:28:48.111 880 Delete type=0 #23697
+2026/08/28-23:30:10.356 87c Level-0 table #23702: started
+2026/08/28-23:30:10.362 87c Level-0 table #23702: 22766 bytes OK
+2026/08/28-23:30:10.364 87c Delete type=0 #23699
