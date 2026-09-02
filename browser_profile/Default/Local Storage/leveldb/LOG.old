@@ -1,44 +1,25 @@
-2026/09/02-02:21:24.050 955 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/09/02-02:21:24.063 955 Delete type=2 #24310
-2026/09/02-02:24:24.513 959 Level-0 table #24312: started
-2026/09/02-02:24:24.516 959 Level-0 table #24312: 19575 bytes OK
-2026/09/02-02:24:24.517 959 Delete type=0 #24310
-2026/09/02-02:24:24.517 959 Compacting 4@0 + 1@1 files
-2026/09/02-02:24:24.520 959 Generated table #24313@0: 3378 keys, 98653 bytes
-2026/09/02-02:24:24.520 959 Compacted 4@0 + 1@1 files => 98653 bytes
-2026/09/02-02:24:24.521 959 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/09/02-02:24:24.521 959 Delete type=2 #24306
-2026/09/02-02:24:24.521 959 Delete type=2 #24304
-2026/09/02-02:24:24.521 959 Delete type=2 #24302
-2026/09/02-02:24:24.521 959 Delete type=2 #24308
-2026/09/02-02:24:24.521 959 Delete type=2 #24312
-2026/09/02-02:27:51.179 959 Level-0 table #24315: started
-2026/09/02-02:27:51.183 959 Level-0 table #24315: 23933 bytes OK
-2026/09/02-02:27:51.184 959 Delete type=0 #24311
-2026/09/02-02:28:45.875 959 Level-0 table #24317: started
-2026/09/02-02:28:45.881 959 Level-0 table #24317: 22541 bytes OK
-2026/09/02-02:28:45.882 959 Delete type=0 #24314
-2026/09/02-02:30:05.358 9b8 Level-0 table #24319: started
-2026/09/02-02:30:05.363 9b8 Level-0 table #24319: 22393 bytes OK
-2026/09/02-02:30:05.364 9b8 Delete type=0 #24316
-2026/09/02-02:32:24.513 959 Level-0 table #24321: started
-2026/09/02-02:32:24.514 959 Level-0 table #24321: 18732 bytes OK
-2026/09/02-02:32:24.515 959 Delete type=0 #24318
-2026/09/02-02:32:24.515 959 Compacting 4@0 + 1@1 files
-2026/09/02-02:32:24.517 959 Generated table #24322@0: 3378 keys, 98666 bytes
-2026/09/02-02:32:24.517 959 Compacted 4@0 + 1@1 files => 98666 bytes
-2026/09/02-02:32:24.518 959 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/09/02-02:32:24.518 959 Delete type=2 #24315
-2026/09/02-02:32:24.518 959 Delete type=2 #24313
-2026/09/02-02:32:24.518 959 Delete type=2 #24317
-2026/09/02-02:32:24.518 959 Delete type=2 #24321
-2026/09/02-02:32:24.518 959 Delete type=2 #24319
-2026/09/02-02:33:24.513 959 Level-0 table #24324: started
-2026/09/02-02:33:24.514 959 Level-0 table #24324: 19228 bytes OK
-2026/09/02-02:33:24.514 959 Delete type=0 #24320
-2026/09/02-02:37:24.512 959 Level-0 table #24326: started
-2026/09/02-02:37:24.514 959 Level-0 table #24326: 19943 bytes OK
-2026/09/02-02:37:24.515 959 Delete type=0 #24323
-2026/09/02-02:41:04.683 955 Level-0 table #24328: started
-2026/09/02-02:41:04.685 955 Level-0 table #24328: 19875 bytes OK
-2026/09/02-02:41:04.686 955 Delete type=0 #24325
+2026/09/02-03:12:07.064 874 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/09/02-03:15:08.446 878 Level-0 table #24332: started
+2026/09/02-03:15:08.452 878 Level-0 table #24332: 19658 bytes OK
+2026/09/02-03:15:08.453 878 Delete type=0 #24330
+2026/09/02-03:15:08.454 878 Compacting 4@0 + 1@1 files
+2026/09/02-03:15:08.457 878 Generated table #24333@0: 3380 keys, 98884 bytes
+2026/09/02-03:15:08.457 878 Compacted 4@0 + 1@1 files => 98884 bytes
+2026/09/02-03:15:08.458 878 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/02-03:15:08.458 878 Delete type=2 #24328
+2026/09/02-03:15:08.458 878 Delete type=2 #24322
+2026/09/02-03:15:08.458 878 Delete type=2 #24324
+2026/09/02-03:15:08.458 878 Delete type=2 #24332
+2026/09/02-03:15:08.458 878 Delete type=2 #24326
+2026/09/02-03:18:08.446 878 Level-0 table #24335: started
+2026/09/02-03:18:08.447 878 Level-0 table #24335: 19872 bytes OK
+2026/09/02-03:18:08.448 878 Delete type=0 #24331
+2026/09/02-03:19:02.429 874 Level-0 table #24337: started
+2026/09/02-03:19:02.437 874 Level-0 table #24337: 23001 bytes OK
+2026/09/02-03:19:02.438 874 Delete type=0 #24334
+2026/09/02-03:20:55.396 874 Level-0 table #24339: started
+2026/09/02-03:20:55.398 874 Level-0 table #24339: 22444 bytes OK
+2026/09/02-03:20:55.399 874 Delete type=0 #24336
+2026/09/02-03:22:22.406 874 Level-0 table #24341: started
+2026/09/02-03:22:22.415 874 Level-0 table #24341: 19584 bytes OK
+2026/09/02-03:22:22.416 874 Delete type=0 #24338
