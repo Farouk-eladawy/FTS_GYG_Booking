@@ -1,21 +1,4 @@
-2026/09/04-09:21:15.433 94c Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/09/04-09:23:44.886 94c Level-0 table #94474: started
-2026/09/04-09:23:44.893 94c Level-0 table #94474: 14408 bytes OK
-2026/09/04-09:23:44.895 94c Delete type=0 #94472
-2026/09/04-09:25:49.948 94c Level-0 table #94476: started
-2026/09/04-09:25:49.955 94c Level-0 table #94476: 14299 bytes OK
-2026/09/04-09:25:49.958 94c Delete type=0 #94473
-2026/09/04-10:03:38.952 950 Level-0 table #94478: started
-2026/09/04-10:03:38.961 950 Level-0 table #94478: 13559 bytes OK
-2026/09/04-10:03:38.964 950 Delete type=0 #94475
-2026/09/04-10:03:38.965 950 Compacting 4@0 + 2@1 files
-2026/09/04-10:03:39.004 950 Generated table #94479@0: 31757 keys, 2118102 bytes
-2026/09/04-10:03:39.029 950 Generated table #94480@0: 44989 keys, 1363570 bytes
-2026/09/04-10:03:39.029 950 Compacted 4@0 + 2@1 files => 3481672 bytes
-2026/09/04-10:03:39.030 950 compacted to: files[ 0 4 45 118 0 0 0 ]
-2026/09/04-10:03:39.031 950 Delete type=2 #94467
-2026/09/04-10:03:39.031 950 Delete type=2 #94474
-2026/09/04-10:03:39.031 950 Delete type=2 #94468
-2026/09/04-10:03:39.031 950 Delete type=2 #94470
-2026/09/04-10:03:39.031 950 Delete type=2 #94478
-2026/09/04-10:03:39.032 950 Delete type=2 #94476
+2026/09/04-11:02:45.492 95f Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/09/04-11:11:58.963 963 Level-0 table #94484: started
+2026/09/04-11:11:58.996 963 Level-0 table #94484: 605498 bytes OK
+2026/09/04-11:11:59.002 963 Delete type=0 #94482
