@@ -1,49 +1,27 @@
-2026/08/29-15:31:14.461 953 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/IndexedDB/https_player.vimeo.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/08/29-15:31:14.461 953 Delete type=2 #121
-2026/08/29-15:31:14.466 958 Level-0 table #128: started
-2026/08/29-15:31:14.466 958 Level-0 table #128: 0 bytes OK
-2026/08/29-15:31:14.467 958 Delete type=0 #126
-2026/08/29-15:31:14.467 959 Manual compaction at level-0 from '\x00#\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00$\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/08/29-15:31:14.889 953 Level-0 table #130: started
-2026/08/29-15:31:14.890 953 Level-0 table #130: 544 bytes OK
-2026/08/29-15:31:14.890 953 Delete type=0 #127
-2026/08/29-15:31:14.894 959 Manual compaction at level-0 from '\x00$\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00%\x00\x00\x00' @ 0 : 0; will stop at '\x00$\x00\x00\x05' @ 1233 : 1
-2026/08/29-15:31:14.894 959 Compacting 1@0 + 1@1 files
-2026/08/29-15:31:14.895 959 Generated table #131@0: 87 keys, 2083 bytes
-2026/08/29-15:31:14.895 959 Compacted 1@0 + 1@1 files => 2083 bytes
-2026/08/29-15:31:14.896 959 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/08/29-15:31:14.896 959 Delete type=2 #130
-2026/08/29-15:31:14.896 953 Manual compaction at level-0 from '\x00$\x00\x00\x05' @ 1233 : 1 .. '\x00%\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/08/29-15:31:15.528 958 Level-0 table #133: started
-2026/08/29-15:31:15.529 958 Level-0 table #133: 542 bytes OK
-2026/08/29-15:31:15.529 958 Delete type=0 #129
-2026/08/29-15:31:15.530 958 Delete type=2 #124
-2026/08/29-15:31:15.530 953 Manual compaction at level-0 from '\x00%\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00&\x00\x00\x00' @ 0 : 0; will stop at '\x00%\x00\x00\x05' @ 1254 : 1
-2026/08/29-15:31:15.530 953 Compacting 1@0 + 1@1 files
-2026/08/29-15:31:15.531 953 Generated table #134@0: 88 keys, 2091 bytes
-2026/08/29-15:31:15.531 953 Compacted 1@0 + 1@1 files => 2091 bytes
-2026/08/29-15:31:15.531 953 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/08/29-15:31:15.531 953 Delete type=2 #133
-2026/08/29-15:31:15.532 953 Manual compaction at level-0 from '\x00%\x00\x00\x05' @ 1254 : 1 .. '\x00&\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/08/29-15:31:16.227 959 Level-0 table #136: started
-2026/08/29-15:31:16.228 959 Level-0 table #136: 542 bytes OK
-2026/08/29-15:31:16.228 959 Delete type=2 #131
-2026/08/29-15:31:16.228 959 Delete type=0 #132
-2026/08/29-15:31:16.230 958 Manual compaction at level-0 from '\x00&\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00'\x00\x00\x00' @ 0 : 0; will stop at '\x00&\x00\x00\x05' @ 1273 : 1
-2026/08/29-15:31:16.230 958 Compacting 1@0 + 1@1 files
-2026/08/29-15:31:16.231 958 Generated table #137@0: 88 keys, 2096 bytes
-2026/08/29-15:31:16.231 958 Compacted 1@0 + 1@1 files => 2096 bytes
-2026/08/29-15:31:16.231 958 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/08/29-15:31:16.231 958 Delete type=2 #136
-2026/08/29-15:31:16.231 953 Manual compaction at level-0 from '\x00&\x00\x00\x05' @ 1273 : 1 .. '\x00'\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/08/29-15:31:16.564 957 Level-0 table #139: started
-2026/08/29-15:31:16.565 957 Level-0 table #139: 1658 bytes OK
-2026/08/29-15:31:16.565 957 Delete type=2 #134
-2026/08/29-15:31:16.565 957 Delete type=0 #135
-2026/08/29-15:31:16.566 953 Manual compaction at level-0 from '\x00'\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00(\x00\x00\x00' @ 0 : 0; will stop at '\x00'\x00\x00\x05' @ 1290 : 1
-2026/08/29-15:31:16.566 953 Compacting 1@0 + 1@1 files
-2026/08/29-15:31:16.566 953 Generated table #140@0: 93 keys, 2123 bytes
-2026/08/29-15:31:16.566 953 Compacted 1@0 + 1@1 files => 2123 bytes
-2026/08/29-15:31:16.567 953 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/08/29-15:31:16.567 953 Delete type=2 #139
-2026/08/29-15:31:16.567 953 Manual compaction at level-0 from '\x00'\x00\x00\x05' @ 1290 : 1 .. '\x00(\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/09/04-16:11:38.743 91b Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/IndexedDB/https_player.vimeo.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/09/04-16:11:38.743 91b Delete type=2 #137
+2026/09/04-16:11:38.746 920 Level-0 table #144: started
+2026/09/04-16:11:38.746 920 Level-0 table #144: 0 bytes OK
+2026/09/04-16:11:38.747 920 Delete type=0 #142
+2026/09/04-16:11:38.748 920 Manual compaction at level-0 from '\x00'\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00(\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/09/04-16:11:39.383 920 Level-0 table #146: started
+2026/09/04-16:11:39.385 920 Level-0 table #146: 544 bytes OK
+2026/09/04-16:11:39.386 920 Delete type=0 #143
+2026/09/04-16:11:39.386 920 Manual compaction at level-0 from '\x00(\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00)\x00\x00\x00' @ 0 : 0; will stop at '\x00(\x00\x00\x05' @ 1326 : 1
+2026/09/04-16:11:39.387 920 Compacting 1@0 + 1@1 files
+2026/09/04-16:11:39.388 920 Generated table #147@0: 97 keys, 2180 bytes
+2026/09/04-16:11:39.388 920 Compacted 1@0 + 1@1 files => 2180 bytes
+2026/09/04-16:11:39.388 920 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/04-16:11:39.389 920 Delete type=2 #146
+2026/09/04-16:11:39.389 91b Manual compaction at level-0 from '\x00(\x00\x00\x05' @ 1326 : 1 .. '\x00)\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/09/04-16:11:40.613 91f Level-0 table #149: started
+2026/09/04-16:11:40.614 91f Level-0 table #149: 1638 bytes OK
+2026/09/04-16:11:40.615 91f Delete type=2 #140
+2026/09/04-16:11:40.615 91f Delete type=0 #145
+2026/09/04-16:11:40.615 91b Manual compaction at level-0 from '\x00)\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00*\x00\x00\x00' @ 0 : 0; will stop at '\x00)\x00\x00\x05' @ 1347 : 1
+2026/09/04-16:11:40.615 91b Compacting 1@0 + 1@1 files
+2026/09/04-16:11:40.617 91b Generated table #150@0: 101 keys, 2210 bytes
+2026/09/04-16:11:40.617 91b Compacted 1@0 + 1@1 files => 2210 bytes
+2026/09/04-16:11:40.618 91b compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/04-16:11:40.618 91b Delete type=2 #149
+2026/09/04-16:11:40.618 91b Manual compaction at level-0 from '\x00)\x00\x00\x05' @ 1347 : 1 .. '\x00*\x00\x00\x00' @ 0 : 0; will stop at (end)
