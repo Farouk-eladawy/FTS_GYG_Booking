@@ -1,17 +1,16 @@
-2026/09/05-03:07:00.482 892 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/09/05-03:07:00.499 892 Delete type=2 #24715
-2026/09/05-03:07:00.499 896 Compacting 4@0 + 1@1 files
-2026/09/05-03:07:00.524 896 Generated table #24717@0: 3436 keys, 102494 bytes
-2026/09/05-03:07:00.524 896 Compacted 4@0 + 1@1 files => 102494 bytes
-2026/09/05-03:07:00.542 896 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/09/05-03:07:00.542 896 Delete type=2 #24704
-2026/09/05-03:07:00.542 896 Delete type=2 #24710
-2026/09/05-03:07:00.542 896 Delete type=2 #24706
-2026/09/05-03:07:00.542 896 Delete type=2 #24714
-2026/09/05-03:07:00.542 896 Delete type=2 #24712
-2026/09/05-03:10:01.203 896 Level-0 table #24719: started
-2026/09/05-03:10:01.398 896 Level-0 table #24719: 20934 bytes OK
-2026/09/05-03:10:01.402 896 Delete type=0 #24716
-2026/09/05-03:14:01.203 896 Level-0 table #24721: started
-2026/09/05-03:14:01.350 896 Level-0 table #24721: 21345 bytes OK
-2026/09/05-03:14:01.350 896 Delete type=0 #24718
+2026/09/05-03:57:38.670 87b Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/09/05-04:00:39.703 87f Level-0 table #24725: started
+2026/09/05-04:00:39.710 87f Level-0 table #24725: 20912 bytes OK
+2026/09/05-04:00:39.711 87f Delete type=0 #24723
+2026/09/05-04:04:39.703 87f Level-0 table #24727: started
+2026/09/05-04:04:39.782 87f Level-0 table #24727: 21561 bytes OK
+2026/09/05-04:04:39.881 87f Delete type=0 #24724
+2026/09/05-04:04:39.881 87f Compacting 4@0 + 1@1 files
+2026/09/05-04:04:39.884 87f Generated table #24728@0: 3440 keys, 102611 bytes
+2026/09/05-04:04:39.884 87f Compacted 4@0 + 1@1 files => 102611 bytes
+2026/09/05-04:04:39.884 87f compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/05-04:04:39.884 87f Delete type=2 #24717
+2026/09/05-04:04:39.884 87f Delete type=2 #24727
+2026/09/05-04:04:39.885 87f Delete type=2 #24725
+2026/09/05-04:04:39.885 87f Delete type=2 #24721
+2026/09/05-04:04:39.885 87f Delete type=2 #24719
