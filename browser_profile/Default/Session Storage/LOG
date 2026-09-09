@@ -1,1 +1,29 @@
-2026/09/09-11:57:55.902 94f Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/09/09-12:48:44.339 94d Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/09/09-12:59:02.509 94d Level-0 table #95020: started
+2026/09/09-12:59:02.522 94d Level-0 table #95020: 605736 bytes OK
+2026/09/09-12:59:02.525 94d Delete type=0 #95018
+2026/09/09-12:59:02.526 951 Compacting 4@0 + 2@1 files
+2026/09/09-12:59:02.570 951 Generated table #95021@0: 31267 keys, 2117673 bytes
+2026/09/09-12:59:02.598 951 Generated table #95022@0: 49120 keys, 1484387 bytes
+2026/09/09-12:59:02.599 951 Compacted 4@0 + 2@1 files => 3602060 bytes
+2026/09/09-12:59:02.599 951 compacted to: files[ 0 5 45 122 0 0 0 ]
+2026/09/09-12:59:02.601 951 Delete type=2 #95010
+2026/09/09-12:59:02.601 951 Delete type=2 #95008
+2026/09/09-12:59:02.601 951 Delete type=2 #95014
+2026/09/09-12:59:02.601 951 Delete type=2 #95020
+2026/09/09-12:59:02.601 951 Delete type=2 #95016
+2026/09/09-12:59:02.602 951 Delete type=2 #95007
+2026/09/09-12:59:02.602 951 Compacting 1@1 + 1@2 files
+2026/09/09-12:59:02.638 951 Generated table #95023@1: 21 keys, 2377146 bytes
+2026/09/09-12:59:02.665 951 Generated table #95024@1: 39 keys, 2165238 bytes
+2026/09/09-12:59:02.665 951 Compacted 1@1 + 1@2 files => 4542384 bytes
+2026/09/09-12:59:02.665 951 compacted to: files[ 0 4 46 122 0 0 0 ]
+2026/09/09-12:59:02.667 951 Delete type=2 #94965
+2026/09/09-12:59:02.667 951 Delete type=2 #94850
+2026/09/09-12:59:02.668 951 Moved #89731 to level-3 2339393 bytes OK: files[ 0 4 45 123 0 0 0 ]
+2026/09/09-13:03:12.102 94d Level-0 table #95026: started
+2026/09/09-13:03:12.109 94d Level-0 table #95026: 13926 bytes OK
+2026/09/09-13:03:12.112 94d Delete type=0 #95019
+2026/09/09-13:07:26.410 951 Level-0 table #95028: started
+2026/09/09-13:07:26.413 951 Level-0 table #95028: 12952 bytes OK
+2026/09/09-13:07:26.416 951 Delete type=0 #95025
