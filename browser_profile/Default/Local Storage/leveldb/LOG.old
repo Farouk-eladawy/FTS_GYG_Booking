@@ -1,16 +1,19 @@
-2026/09/19-01:45:16.484 955 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/09/19-01:48:17.226 959 Level-0 table #26404: started
-2026/09/19-01:48:17.231 959 Level-0 table #26404: 21968 bytes OK
-2026/09/19-01:48:17.232 959 Delete type=0 #26402
-2026/09/19-01:48:17.232 959 Compacting 4@0 + 1@1 files
-2026/09/19-01:48:17.235 959 Generated table #26405@0: 3700 keys, 109846 bytes
-2026/09/19-01:48:17.235 959 Compacted 4@0 + 1@1 files => 109846 bytes
-2026/09/19-01:48:17.236 959 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/09/19-01:48:17.236 959 Delete type=2 #26400
-2026/09/19-01:48:17.236 959 Delete type=2 #26398
-2026/09/19-01:48:17.236 959 Delete type=2 #26404
-2026/09/19-01:48:17.236 959 Delete type=2 #26396
-2026/09/19-01:48:17.236 959 Delete type=2 #26394
-2026/09/19-01:52:17.226 959 Level-0 table #26407: started
-2026/09/19-01:52:17.231 959 Level-0 table #26407: 22400 bytes OK
-2026/09/19-01:52:17.231 959 Delete type=0 #26403
+2026/09/19-02:38:23.839 9c6 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/09/19-02:41:25.091 9ca Level-0 table #26411: started
+2026/09/19-02:41:25.100 9ca Level-0 table #26411: 22186 bytes OK
+2026/09/19-02:41:25.101 9ca Delete type=0 #26409
+2026/09/19-02:45:06.902 9cb Level-0 table #26413: started
+2026/09/19-02:45:06.904 9cb Level-0 table #26413: 22600 bytes OK
+2026/09/19-02:45:06.905 9cb Delete type=0 #26410
+2026/09/19-02:47:25.091 9ca Level-0 table #26415: started
+2026/09/19-02:47:25.094 9ca Level-0 table #26415: 21507 bytes OK
+2026/09/19-02:47:25.095 9ca Delete type=0 #26412
+2026/09/19-02:47:25.095 9ca Compacting 4@0 + 1@1 files
+2026/09/19-02:47:25.098 9ca Generated table #26416@0: 3702 keys, 109893 bytes
+2026/09/19-02:47:25.098 9ca Compacted 4@0 + 1@1 files => 109893 bytes
+2026/09/19-02:47:25.098 9ca compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/19-02:47:25.098 9ca Delete type=2 #26405
+2026/09/19-02:47:25.098 9ca Delete type=2 #26413
+2026/09/19-02:47:25.098 9ca Delete type=2 #26407
+2026/09/19-02:47:25.098 9ca Delete type=2 #26411
+2026/09/19-02:47:25.098 9ca Delete type=2 #26415
