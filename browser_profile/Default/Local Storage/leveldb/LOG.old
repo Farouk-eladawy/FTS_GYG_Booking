@@ -1,7 +1,61 @@
-2026/09/20-03:26:25.293 91a Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/09/20-03:30:25.852 91a Level-0 table #26779: started
-2026/09/20-03:30:25.858 91a Level-0 table #26779: 22363 bytes OK
-2026/09/20-03:30:25.860 91a Delete type=0 #26777
-2026/09/20-03:32:25.853 91e Level-0 table #26781: started
-2026/09/20-03:32:25.854 91e Level-0 table #26781: 22240 bytes OK
-2026/09/20-03:32:25.855 91e Delete type=0 #26778
+2026/09/20-04:19:39.433 981 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/09/20-04:22:39.987 986 Level-0 table #26785: started
+2026/09/20-04:22:39.992 986 Level-0 table #26785: 22400 bytes OK
+2026/09/20-04:22:39.992 986 Delete type=0 #26783
+2026/09/20-04:24:39.986 986 Level-0 table #26787: started
+2026/09/20-04:24:39.991 986 Level-0 table #26787: 22322 bytes OK
+2026/09/20-04:24:39.992 986 Delete type=0 #26784
+2026/09/20-04:24:39.992 986 Compacting 4@0 + 1@1 files
+2026/09/20-04:24:39.996 986 Generated table #26788@0: 3748 keys, 110496 bytes
+2026/09/20-04:24:39.996 986 Compacted 4@0 + 1@1 files => 110496 bytes
+2026/09/20-04:24:39.996 986 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/20-04:24:39.996 986 Delete type=2 #26781
+2026/09/20-04:24:39.996 986 Delete type=2 #26787
+2026/09/20-04:24:39.996 986 Delete type=2 #26775
+2026/09/20-04:24:39.997 986 Delete type=2 #26785
+2026/09/20-04:24:39.997 986 Delete type=2 #26779
+2026/09/20-04:26:19.208 986 Level-0 table #26790: started
+2026/09/20-04:26:19.212 986 Level-0 table #26790: 21351 bytes OK
+2026/09/20-04:26:19.213 986 Delete type=0 #26786
+2026/09/20-04:27:09.134 981 Level-0 table #26792: started
+2026/09/20-04:27:09.140 981 Level-0 table #26792: 20060 bytes OK
+2026/09/20-04:27:09.141 981 Delete type=0 #26789
+2026/09/20-04:30:10.223 981 Level-0 table #26794: started
+2026/09/20-04:30:10.225 981 Level-0 table #26794: 21080 bytes OK
+2026/09/20-04:30:10.225 981 Delete type=0 #26791
+2026/09/20-04:30:32.920 981 Level-0 table #26796: started
+2026/09/20-04:30:32.926 981 Level-0 table #26796: 21920 bytes OK
+2026/09/20-04:30:32.927 981 Delete type=0 #26793
+2026/09/20-04:30:32.927 986 Compacting 4@0 + 1@1 files
+2026/09/20-04:30:32.932 986 Generated table #26797@0: 3749 keys, 110736 bytes
+2026/09/20-04:30:32.932 986 Compacted 4@0 + 1@1 files => 110736 bytes
+2026/09/20-04:30:32.932 986 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/20-04:30:32.933 986 Delete type=2 #26794
+2026/09/20-04:30:32.933 986 Delete type=2 #26788
+2026/09/20-04:30:32.933 986 Delete type=2 #26790
+2026/09/20-04:30:32.933 986 Delete type=2 #26792
+2026/09/20-04:30:32.933 986 Delete type=2 #26796
+2026/09/20-04:32:39.987 986 Level-0 table #26799: started
+2026/09/20-04:32:39.988 986 Level-0 table #26799: 21071 bytes OK
+2026/09/20-04:32:39.989 986 Delete type=0 #26795
+2026/09/20-04:34:39.987 986 Level-0 table #26801: started
+2026/09/20-04:34:39.989 986 Level-0 table #26801: 21580 bytes OK
+2026/09/20-04:34:39.989 986 Delete type=0 #26798
+2026/09/20-04:36:39.986 986 Level-0 table #26803: started
+2026/09/20-04:36:39.988 986 Level-0 table #26803: 22362 bytes OK
+2026/09/20-04:36:39.988 986 Delete type=0 #26800
+2026/09/20-04:38:45.431 986 Level-0 table #26805: started
+2026/09/20-04:38:45.437 986 Level-0 table #26805: 22422 bytes OK
+2026/09/20-04:38:45.438 986 Delete type=0 #26802
+2026/09/20-04:38:45.438 986 Compacting 4@0 + 1@1 files
+2026/09/20-04:38:45.442 986 Generated table #26806@0: 3749 keys, 110745 bytes
+2026/09/20-04:38:45.442 986 Compacted 4@0 + 1@1 files => 110745 bytes
+2026/09/20-04:38:45.442 986 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/20-04:38:45.442 986 Delete type=2 #26797
+2026/09/20-04:38:45.442 986 Delete type=2 #26799
+2026/09/20-04:38:45.442 986 Delete type=2 #26805
+2026/09/20-04:38:45.442 986 Delete type=2 #26803
+2026/09/20-04:38:45.442 986 Delete type=2 #26801
+2026/09/20-04:41:45.431 986 Level-0 table #26808: started
+2026/09/20-04:41:45.433 986 Level-0 table #26808: 22689 bytes OK
+2026/09/20-04:41:45.433 986 Delete type=0 #26804
