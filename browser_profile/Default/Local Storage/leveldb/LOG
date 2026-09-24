@@ -1,16 +1,25 @@
-2026/09/24-22:08:44.529 887 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/09/24-22:12:45.203 88b Level-0 table #28694: started
-2026/09/24-22:12:45.213 88b Level-0 table #28694: 23257 bytes OK
-2026/09/24-22:12:45.213 88b Delete type=0 #28692
-2026/09/24-22:12:45.214 88b Compacting 4@0 + 1@1 files
-2026/09/24-22:12:45.216 88b Generated table #28695@0: 3942 keys, 116250 bytes
-2026/09/24-22:12:45.216 88b Compacted 4@0 + 1@1 files => 116250 bytes
-2026/09/24-22:12:45.216 88b compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/09/24-22:12:45.216 88b Delete type=2 #28690
-2026/09/24-22:12:45.216 88b Delete type=2 #28688
-2026/09/24-22:12:45.216 88b Delete type=2 #28694
-2026/09/24-22:12:45.216 88b Delete type=2 #28682
-2026/09/24-22:12:45.216 88b Delete type=2 #28686
-2026/09/24-22:16:45.204 88b Level-0 table #28697: started
-2026/09/24-22:16:45.205 88b Level-0 table #28697: 28198 bytes OK
-2026/09/24-22:16:45.206 88b Delete type=0 #28693
+2026/09/24-23:02:00.713 be7 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/09/24-23:05:01.647 bec Level-0 table #28701: started
+2026/09/24-23:05:01.651 bec Level-0 table #28701: 23273 bytes OK
+2026/09/24-23:05:01.652 bec Delete type=0 #28699
+2026/09/24-23:08:47.856 beb Level-0 table #28703: started
+2026/09/24-23:08:47.857 beb Level-0 table #28703: 28028 bytes OK
+2026/09/24-23:08:47.857 beb Delete type=0 #28700
+2026/09/24-23:09:19.364 beb Level-0 table #28705: started
+2026/09/24-23:09:19.367 beb Level-0 table #28705: 21432 bytes OK
+2026/09/24-23:09:19.367 beb Delete type=0 #28702
+2026/09/24-23:09:19.368 beb Compacting 4@0 + 1@1 files
+2026/09/24-23:09:19.373 beb Generated table #28706@0: 3945 keys, 116246 bytes
+2026/09/24-23:09:19.373 beb Compacted 4@0 + 1@1 files => 116246 bytes
+2026/09/24-23:09:19.373 beb compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/24-23:09:19.374 beb Delete type=2 #28705
+2026/09/24-23:09:19.374 beb Delete type=2 #28695
+2026/09/24-23:09:19.374 beb Delete type=2 #28703
+2026/09/24-23:09:19.374 beb Delete type=2 #28697
+2026/09/24-23:09:19.374 beb Delete type=2 #28701
+2026/09/24-23:10:01.647 beb Level-0 table #28708: started
+2026/09/24-23:10:01.648 beb Level-0 table #28708: 21424 bytes OK
+2026/09/24-23:10:01.648 beb Delete type=0 #28704
+2026/09/24-23:12:01.647 beb Level-0 table #28710: started
+2026/09/24-23:12:01.650 beb Level-0 table #28710: 22062 bytes OK
+2026/09/24-23:12:01.650 beb Delete type=0 #28707
