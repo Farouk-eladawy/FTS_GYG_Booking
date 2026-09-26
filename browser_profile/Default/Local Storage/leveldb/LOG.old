@@ -1,10 +1,22 @@
-2026/09/26-14:56:24.247 914 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/09/26-14:59:30.989 918 Level-0 table #29288: started
-2026/09/26-14:59:30.992 918 Level-0 table #29288: 23736 bytes OK
-2026/09/26-14:59:30.992 918 Delete type=0 #29286
-2026/09/26-15:01:30.989 918 Level-0 table #29290: started
-2026/09/26-15:01:30.991 918 Level-0 table #29290: 23387 bytes OK
-2026/09/26-15:01:30.992 918 Delete type=0 #29287
-2026/09/26-15:04:25.374 918 Level-0 table #29292: started
-2026/09/26-15:04:25.375 918 Level-0 table #29292: 23523 bytes OK
-2026/09/26-15:04:25.375 918 Delete type=0 #29289
+2026/09/26-15:47:33.016 87a Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/09/26-15:49:37.907 87e Level-0 table #29296: started
+2026/09/26-15:49:37.908 87e Level-0 table #29296: 23402 bytes OK
+2026/09/26-15:49:37.908 87e Delete type=0 #29294
+2026/09/26-15:49:37.909 87e Compacting 4@0 + 1@1 files
+2026/09/26-15:49:37.911 87e Generated table #29297@0: 4013 keys, 117222 bytes
+2026/09/26-15:49:37.911 87e Compacted 4@0 + 1@1 files => 117222 bytes
+2026/09/26-15:49:37.911 87e compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/26-15:49:37.911 87e Delete type=2 #29290
+2026/09/26-15:49:37.911 87e Delete type=2 #29288
+2026/09/26-15:49:37.911 87e Delete type=2 #29284
+2026/09/26-15:49:37.911 87e Delete type=2 #29292
+2026/09/26-15:49:37.911 87e Delete type=2 #29296
+2026/09/26-15:51:37.907 87e Level-0 table #29299: started
+2026/09/26-15:51:37.908 87e Level-0 table #29299: 23341 bytes OK
+2026/09/26-15:51:38.095 87e Delete type=0 #29295
+2026/09/26-15:53:37.907 87e Level-0 table #29301: started
+2026/09/26-15:53:37.908 87e Level-0 table #29301: 23345 bytes OK
+2026/09/26-15:53:37.908 87e Delete type=0 #29298
+2026/09/26-15:56:33.526 87e Level-0 table #29303: started
+2026/09/26-15:56:33.552 87e Level-0 table #29303: 23481 bytes OK
+2026/09/26-15:56:33.553 87e Delete type=0 #29300
