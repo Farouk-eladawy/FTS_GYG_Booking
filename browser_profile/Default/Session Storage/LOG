@@ -1,22 +1,48 @@
-2026/09/26-08:47:57.237 93a Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-096164
-2026/09/26-08:50:11.158 93e Level-0 table #99111: started
-2026/09/26-08:50:11.160 93e Level-0 table #99111: 15642 bytes OK
-2026/09/26-08:50:11.163 93e Delete type=0 #99109
-2026/09/26-08:52:00.005 93a Level-0 table #99113: started
-2026/09/26-08:52:00.008 93a Level-0 table #99113: 17026 bytes OK
-2026/09/26-08:52:00.011 93a Delete type=0 #99110
-2026/09/26-08:52:00.012 93a Compacting 4@0 + 2@1 files
-2026/09/26-08:52:00.046 93a Generated table #99114@0: 11929 keys, 2105316 bytes
-2026/09/26-08:52:00.079 93a Generated table #99115@0: 71975 keys, 2146222 bytes
-2026/09/26-08:52:00.090 93a Generated table #99116@0: 24647 keys, 736054 bytes
-2026/09/26-08:52:00.090 93a Compacted 4@0 + 2@1 files => 4987592 bytes
-2026/09/26-08:52:00.090 93a compacted to: files[ 0 5 45 149 0 0 0 ]
-2026/09/26-08:52:00.091 93a Delete type=2 #99107
-2026/09/26-08:52:00.091 93a Delete type=2 #99111
-2026/09/26-08:52:00.091 93a Delete type=2 #99099
-2026/09/26-08:52:00.091 93a Delete type=2 #99113
-2026/09/26-08:52:00.091 93a Delete type=2 #99103
-2026/09/26-08:52:00.091 93a Delete type=2 #99098
-2026/09/26-08:53:49.860 93a Level-0 table #99118: started
-2026/09/26-08:53:49.862 93a Level-0 table #99118: 15724 bytes OK
-2026/09/26-08:53:49.865 93a Delete type=0 #99112
+2026/09/26-09:41:20.047 999 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-096164
+2026/09/26-09:43:17.807 99d Level-0 table #99122: started
+2026/09/26-09:43:17.809 99d Level-0 table #99122: 16919 bytes OK
+2026/09/26-09:43:17.812 99d Delete type=0 #99120
+2026/09/26-09:45:03.977 99d Level-0 table #99124: started
+2026/09/26-09:45:03.979 99d Level-0 table #99124: 16836 bytes OK
+2026/09/26-09:45:03.982 99d Delete type=0 #99121
+2026/09/26-09:46:56.212 99d Level-0 table #99126: started
+2026/09/26-09:46:56.214 99d Level-0 table #99126: 15749 bytes OK
+2026/09/26-09:46:56.216 99d Delete type=0 #99123
+2026/09/26-09:46:56.216 99d Compacting 4@0 + 3@1 files
+2026/09/26-09:46:56.243 99d Generated table #99127@0: 12085 keys, 2104308 bytes
+2026/09/26-09:46:56.274 99d Generated table #99128@0: 71933 keys, 2144270 bytes
+2026/09/26-09:46:56.285 99d Generated table #99129@0: 24803 keys, 739749 bytes
+2026/09/26-09:46:56.285 99d Compacted 4@0 + 3@1 files => 4988327 bytes
+2026/09/26-09:46:56.286 99d compacted to: files[ 0 5 45 149 0 0 0 ]
+2026/09/26-09:46:56.287 99d Delete type=2 #99118
+2026/09/26-09:46:56.287 99d Delete type=2 #99114
+2026/09/26-09:46:56.287 99d Delete type=2 #99124
+2026/09/26-09:46:56.287 99d Delete type=2 #99126
+2026/09/26-09:46:56.287 99d Delete type=2 #99115
+2026/09/26-09:46:56.287 99d Delete type=2 #99116
+2026/09/26-09:46:56.287 99d Delete type=2 #99122
+2026/09/26-10:24:31.218 999 Level-0 table #99131: started
+2026/09/26-10:24:31.222 999 Level-0 table #99131: 15546 bytes OK
+2026/09/26-10:24:31.226 999 Delete type=0 #99125
+2026/09/26-10:26:20.301 99d Level-0 table #99133: started
+2026/09/26-10:26:20.304 99d Level-0 table #99133: 17170 bytes OK
+2026/09/26-10:26:20.307 99d Delete type=0 #99130
+2026/09/26-10:28:05.712 99e Level-0 table #99135: started
+2026/09/26-10:28:05.716 99e Level-0 table #99135: 16000 bytes OK
+2026/09/26-10:28:05.719 99e Delete type=0 #99132
+2026/09/26-10:35:56.020 99e Level-0 table #99137: started
+2026/09/26-10:35:56.024 99e Level-0 table #99137: 14145 bytes OK
+2026/09/26-10:35:56.026 99e Delete type=0 #99134
+2026/09/26-10:35:56.027 99e Compacting 4@0 + 3@1 files
+2026/09/26-10:35:56.066 99e Generated table #99138@0: 12322 keys, 2104077 bytes
+2026/09/26-10:35:56.106 99e Generated table #99139@0: 72002 keys, 2144610 bytes
+2026/09/26-10:35:56.125 99e Generated table #99140@0: 24972 keys, 744496 bytes
+2026/09/26-10:35:56.125 99e Compacted 4@0 + 3@1 files => 4993183 bytes
+2026/09/26-10:35:56.126 99e compacted to: files[ 0 5 45 149 0 0 0 ]
+2026/09/26-10:35:56.129 99e Delete type=2 #99135
+2026/09/26-10:35:56.129 99e Delete type=2 #99129
+2026/09/26-10:35:56.129 99e Delete type=2 #99127
+2026/09/26-10:35:56.129 99e Delete type=2 #99131
+2026/09/26-10:35:56.129 99e Delete type=2 #99133
+2026/09/26-10:35:56.129 99e Delete type=2 #99128
+2026/09/26-10:35:56.129 99e Delete type=2 #99137
