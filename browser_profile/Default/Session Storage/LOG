@@ -1,47 +1,21 @@
-2026/09/25-23:01:16.613 9aa Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-096164
-2026/09/25-23:03:14.433 9aa Level-0 table #99045: started
-2026/09/25-23:03:14.435 9aa Level-0 table #99045: 16202 bytes OK
-2026/09/25-23:03:14.440 9aa Delete type=0 #99043
-2026/09/25-23:05:00.357 9aa Level-0 table #99047: started
-2026/09/25-23:05:00.361 9aa Level-0 table #99047: 16551 bytes OK
-2026/09/25-23:05:00.363 9aa Delete type=0 #99044
-2026/09/25-23:06:55.765 9ae Level-0 table #99049: started
-2026/09/25-23:06:55.766 9ae Level-0 table #99049: 16765 bytes OK
-2026/09/25-23:06:55.769 9ae Delete type=0 #99046
-2026/09/25-23:06:55.769 9ae Compacting 4@0 + 2@1 files
-2026/09/25-23:06:55.814 9ae Generated table #99050@0: 72858 keys, 2145548 bytes
-2026/09/25-23:06:55.830 9ae Generated table #99051@0: 33535 keys, 1002375 bytes
-2026/09/25-23:06:55.830 9ae Compacted 4@0 + 2@1 files => 3147923 bytes
-2026/09/25-23:06:55.830 9ae compacted to: files[ 0 4 45 149 0 0 0 ]
-2026/09/25-23:06:55.832 9ae Delete type=2 #99045
-2026/09/25-23:06:55.832 9ae Delete type=2 #99041
-2026/09/25-23:06:55.832 9ae Delete type=2 #99039
-2026/09/25-23:06:55.832 9ae Delete type=2 #99049
-2026/09/25-23:06:55.832 9ae Delete type=2 #99038
-2026/09/25-23:06:55.832 9ae Delete type=2 #99047
-2026/09/25-23:44:08.301 9ae Level-0 table #99053: started
-2026/09/25-23:44:08.304 9ae Level-0 table #99053: 15496 bytes OK
-2026/09/25-23:44:08.308 9ae Delete type=0 #99048
-2026/09/25-23:46:04.417 9aa Level-0 table #99055: started
-2026/09/25-23:46:04.421 9aa Level-0 table #99055: 16478 bytes OK
-2026/09/25-23:46:04.424 9aa Delete type=0 #99052
-2026/09/25-23:46:12.899 9ae Level-0 table #99057: started
-2026/09/25-23:46:12.911 9ae Level-0 table #99057: 612090 bytes OK
-2026/09/25-23:46:12.914 9ae Delete type=0 #99054
-2026/09/25-23:48:21.122 9ae Level-0 table #99059: started
-2026/09/25-23:48:21.125 9ae Level-0 table #99059: 16668 bytes OK
-2026/09/25-23:48:21.128 9ae Delete type=0 #99056
-2026/09/25-23:48:21.128 9ae Compacting 4@0 + 2@1 files
-2026/09/25-23:48:21.178 9ae Generated table #99060@0: 73006 keys, 2145415 bytes
-2026/09/25-23:48:21.198 9ae Generated table #99061@0: 33701 keys, 1005877 bytes
-2026/09/25-23:48:21.198 9ae Compacted 4@0 + 2@1 files => 3151292 bytes
-2026/09/25-23:48:21.199 9ae compacted to: files[ 0 4 45 149 0 0 0 ]
-2026/09/25-23:48:21.201 9ae Delete type=2 #99050
-2026/09/25-23:48:21.201 9ae Delete type=2 #99051
-2026/09/25-23:48:21.201 9ae Delete type=2 #99059
-2026/09/25-23:48:21.201 9ae Delete type=2 #99055
-2026/09/25-23:48:21.201 9ae Delete type=2 #99053
-2026/09/25-23:48:21.201 9ae Delete type=2 #99057
-2026/09/25-23:51:24.008 9aa Level-0 table #99063: started
-2026/09/25-23:51:24.010 9aa Level-0 table #99063: 17536 bytes OK
-2026/09/25-23:51:24.013 9aa Delete type=0 #99058
+2026/09/25-23:54:35.436 970 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-096164
+2026/09/25-23:56:33.761 970 Level-0 table #99067: started
+2026/09/25-23:56:33.764 970 Level-0 table #99067: 16466 bytes OK
+2026/09/25-23:56:33.767 970 Delete type=0 #99065
+2026/09/25-23:58:14.258 974 Level-0 table #99069: started
+2026/09/25-23:58:14.269 974 Level-0 table #99069: 614042 bytes OK
+2026/09/25-23:58:14.272 974 Delete type=0 #99066
+2026/09/26-00:00:10.551 970 Level-0 table #99071: started
+2026/09/26-00:00:10.555 970 Level-0 table #99071: 16768 bytes OK
+2026/09/26-00:00:10.559 970 Delete type=0 #99068
+2026/09/26-00:00:10.559 970 Compacting 4@0 + 2@1 files
+2026/09/26-00:00:10.614 970 Generated table #99072@0: 73207 keys, 2144559 bytes
+2026/09/26-00:00:10.639 970 Generated table #99073@0: 33918 keys, 1012380 bytes
+2026/09/26-00:00:10.639 970 Compacted 4@0 + 2@1 files => 3156939 bytes
+2026/09/26-00:00:10.639 970 compacted to: files[ 0 4 45 149 0 0 0 ]
+2026/09/26-00:00:10.641 970 Delete type=2 #99071
+2026/09/26-00:00:10.641 970 Delete type=2 #99063
+2026/09/26-00:00:10.641 970 Delete type=2 #99067
+2026/09/26-00:00:10.641 970 Delete type=2 #99069
+2026/09/26-00:00:10.641 970 Delete type=2 #99060
+2026/09/26-00:00:10.641 970 Delete type=2 #99061
