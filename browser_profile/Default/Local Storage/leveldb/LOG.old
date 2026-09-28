@@ -1,19 +1,16 @@
-2026/09/28-21:15:07.934 95d Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/09/28-21:18:08.983 961 Level-0 table #30260: started
-2026/09/28-21:18:08.985 961 Level-0 table #30260: 23578 bytes OK
-2026/09/28-21:18:08.986 961 Delete type=0 #30258
-2026/09/28-21:18:08.986 961 Compacting 4@0 + 1@1 files
-2026/09/28-21:18:08.989 961 Generated table #30261@0: 4114 keys, 118838 bytes
-2026/09/28-21:18:08.989 961 Compacted 4@0 + 1@1 files => 118838 bytes
-2026/09/28-21:18:08.989 961 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/09/28-21:18:08.990 961 Delete type=2 #30254
-2026/09/28-21:18:08.990 961 Delete type=2 #30256
-2026/09/28-21:18:08.990 961 Delete type=2 #30252
-2026/09/28-21:18:08.990 961 Delete type=2 #30260
-2026/09/28-21:18:08.990 961 Delete type=2 #30250
-2026/09/28-21:20:14.155 961 Level-0 table #30263: started
-2026/09/28-21:20:14.157 961 Level-0 table #30263: 23525 bytes OK
-2026/09/28-21:20:14.157 961 Delete type=0 #30259
-2026/09/28-21:23:14.156 961 Level-0 table #30265: started
-2026/09/28-21:23:14.158 961 Level-0 table #30265: 23587 bytes OK
-2026/09/28-21:23:14.158 961 Delete type=0 #30262
+2026/09/28-22:06:30.887 8ac Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/09/28-22:09:36.421 8b0 Level-0 table #30269: started
+2026/09/28-22:09:36.422 8b0 Level-0 table #30269: 23695 bytes OK
+2026/09/28-22:09:36.423 8b0 Delete type=0 #30267
+2026/09/28-22:13:32.187 8ac Level-0 table #30271: started
+2026/09/28-22:13:32.189 8ac Level-0 table #30271: 24438 bytes OK
+2026/09/28-22:13:32.189 8ac Delete type=0 #30268
+2026/09/28-22:13:32.190 8ac Compacting 4@0 + 1@1 files
+2026/09/28-22:13:32.193 8ac Generated table #30272@0: 4115 keys, 118963 bytes
+2026/09/28-22:13:32.193 8ac Compacted 4@0 + 1@1 files => 118963 bytes
+2026/09/28-22:13:32.193 8ac compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/28-22:13:32.193 8ac Delete type=2 #30271
+2026/09/28-22:13:32.193 8ac Delete type=2 #30261
+2026/09/28-22:13:32.193 8ac Delete type=2 #30263
+2026/09/28-22:13:32.193 8ac Delete type=2 #30269
+2026/09/28-22:13:32.193 8ac Delete type=2 #30265
