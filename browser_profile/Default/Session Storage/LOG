@@ -1,10 +1,21 @@
-2026/10/01-02:53:22.542 991 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-096164
-2026/10/01-02:57:16.527 995 Level-0 table #100115: started
-2026/10/01-02:57:16.538 995 Level-0 table #100115: 603845 bytes OK
-2026/10/01-02:57:16.541 995 Delete type=0 #100113
-2026/10/01-03:03:41.284 991 Level-0 table #100117: started
-2026/10/01-03:03:41.295 991 Level-0 table #100117: 605230 bytes OK
-2026/10/01-03:03:41.299 991 Delete type=0 #100114
-2026/10/01-03:10:36.840 991 Level-0 table #100119: started
-2026/10/01-03:10:36.844 991 Level-0 table #100119: 11205 bytes OK
-2026/10/01-03:10:36.847 991 Delete type=0 #100116
+2026/10/01-03:44:19.651 a01 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-096164
+2026/10/01-03:46:30.211 a01 Level-0 table #100123: started
+2026/10/01-03:46:30.214 a01 Level-0 table #100123: 15475 bytes OK
+2026/10/01-03:46:30.221 a01 Delete type=0 #100121
+2026/10/01-03:46:30.221 a01 Compacting 4@0 + 2@1 files
+2026/10/01-03:46:30.299 a01 Generated table #100124@0: 72597 keys, 2144814 bytes
+2026/10/01-03:46:30.322 a01 Generated table #100125@0: 41209 keys, 1225836 bytes
+2026/10/01-03:46:30.322 a01 Compacted 4@0 + 2@1 files => 3370650 bytes
+2026/10/01-03:46:30.323 a01 compacted to: files[ 0 4 44 161 0 0 0 ]
+2026/10/01-03:46:30.325 a01 Delete type=2 #100115
+2026/10/01-03:46:30.325 a01 Delete type=2 #100109
+2026/10/01-03:46:30.325 a01 Delete type=2 #100119
+2026/10/01-03:46:30.325 a01 Delete type=2 #100123
+2026/10/01-03:46:30.325 a01 Delete type=2 #100108
+2026/10/01-03:46:30.325 a01 Delete type=2 #100117
+2026/10/01-03:48:27.828 a01 Level-0 table #100127: started
+2026/10/01-03:48:27.831 a01 Level-0 table #100127: 15349 bytes OK
+2026/10/01-03:48:27.834 a01 Delete type=0 #100122
+2026/10/01-03:51:16.258 a05 Level-0 table #100129: started
+2026/10/01-03:51:16.261 a05 Level-0 table #100129: 14564 bytes OK
+2026/10/01-03:51:16.263 a05 Delete type=0 #100126
