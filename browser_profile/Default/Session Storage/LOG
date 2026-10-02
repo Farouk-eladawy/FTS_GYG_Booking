@@ -1,4 +1,34 @@
-2026/10/02-03:46:22.925 99a Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-096164
-2026/10/02-03:54:15.951 99e Level-0 table #100182: started
-2026/10/02-03:54:15.960 99e Level-0 table #100182: 608793 bytes OK
-2026/10/02-03:54:15.962 99e Delete type=0 #100180
+2026/10/02-04:36:50.083 989 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-096164
+2026/10/02-04:39:11.425 98d Level-0 table #100186: started
+2026/10/02-04:39:11.431 98d Level-0 table #100186: 16045 bytes OK
+2026/10/02-04:39:11.434 98d Delete type=0 #100184
+2026/10/02-04:41:10.621 98e Level-0 table #100188: started
+2026/10/02-04:41:10.625 98e Level-0 table #100188: 15249 bytes OK
+2026/10/02-04:41:10.628 98e Delete type=0 #100185
+2026/10/02-04:41:10.629 989 Compacting 4@0 + 3@1 files
+2026/10/02-04:41:10.668 989 Generated table #100189@0: 2185 keys, 2450146 bytes
+2026/10/02-04:41:10.719 989 Generated table #100190@0: 72311 keys, 2146023 bytes
+2026/10/02-04:41:10.739 989 Generated table #100191@0: 41625 keys, 1237053 bytes
+2026/10/02-04:41:10.739 989 Compacted 4@0 + 3@1 files => 5833222 bytes
+2026/10/02-04:41:10.739 989 compacted to: files[ 0 5 44 161 0 0 0 ]
+2026/10/02-04:41:10.741 989 Delete type=2 #100182
+2026/10/02-04:41:10.741 989 Delete type=2 #100188
+2026/10/02-04:41:10.741 989 Delete type=2 #100178
+2026/10/02-04:41:10.741 989 Delete type=2 #100176
+2026/10/02-04:41:10.741 989 Delete type=2 #100174
+2026/10/02-04:41:10.741 989 Delete type=2 #100186
+2026/10/02-04:41:10.741 989 Delete type=2 #100175
+2026/10/02-04:41:10.743 989 Compacting 1@1 + 1@2 files
+2026/10/02-04:41:10.776 989 Generated table #100192@1: 50 keys, 2427271 bytes
+2026/10/02-04:41:10.799 989 Generated table #100193@1: 37 keys, 2180826 bytes
+2026/10/02-04:41:10.799 989 Compacted 1@1 + 1@2 files => 4608097 bytes
+2026/10/02-04:41:10.800 989 compacted to: files[ 0 4 45 161 0 0 0 ]
+2026/10/02-04:41:10.801 989 Delete type=2 #100111
+2026/10/02-04:41:10.801 989 Delete type=2 #100050
+2026/10/02-04:41:10.802 989 Moved #94832 to level-3 2377901 bytes OK: files[ 0 4 44 162 0 0 0 ]
+2026/10/02-04:43:20.023 989 Level-0 table #100195: started
+2026/10/02-04:43:20.028 989 Level-0 table #100195: 15165 bytes OK
+2026/10/02-04:43:20.032 989 Delete type=0 #100187
+2026/10/02-04:45:40.591 98d Level-0 table #100197: started
+2026/10/02-04:45:40.593 98d Level-0 table #100197: 15179 bytes OK
+2026/10/02-04:45:40.595 98d Delete type=0 #100194
