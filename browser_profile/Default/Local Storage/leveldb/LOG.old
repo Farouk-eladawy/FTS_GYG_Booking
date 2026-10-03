@@ -1,1 +1,67 @@
-2026/10/03-13:40:26.087 9f9 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-030836
+2026/10/03-14:31:25.715 8ae Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-030836
+2026/10/03-14:33:26.592 8b2 Level-0 table #30927: started
+2026/10/03-14:33:26.602 8b2 Level-0 table #30927: 17952 bytes OK
+2026/10/03-14:33:26.603 8b2 Delete type=0 #30925
+2026/10/03-14:36:26.592 8b2 Level-0 table #30929: started
+2026/10/03-14:36:26.618 8b2 Level-0 table #30929: 18234 bytes OK
+2026/10/03-14:36:26.619 8b2 Delete type=0 #30926
+2026/10/03-14:36:26.620 8b2 Compacting 4@0 + 1@1 files
+2026/10/03-14:36:26.626 8b2 Generated table #30930@0: 4208 keys, 121866 bytes
+2026/10/03-14:36:26.626 8b2 Compacted 4@0 + 1@1 files => 121866 bytes
+2026/10/03-14:36:26.630 8b2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/03-14:36:26.630 8b2 Delete type=2 #30923
+2026/10/03-14:36:26.630 8b2 Delete type=2 #30919
+2026/10/03-14:36:26.630 8b2 Delete type=2 #30921
+2026/10/03-14:36:26.630 8b2 Delete type=2 #30929
+2026/10/03-14:36:26.630 8b2 Delete type=2 #30927
+2026/10/03-14:37:48.024 8b2 Level-0 table #30932: started
+2026/10/03-14:37:48.096 8b2 Level-0 table #30932: 23077 bytes OK
+2026/10/03-14:37:48.097 8b2 Delete type=0 #30928
+2026/10/03-14:38:23.701 8ae Level-0 table #30934: started
+2026/10/03-14:38:23.725 8ae Level-0 table #30934: 22133 bytes OK
+2026/10/03-14:38:23.726 8ae Delete type=0 #30931
+2026/10/03-14:39:41.027 8ae Level-0 table #30936: started
+2026/10/03-14:39:41.028 8ae Level-0 table #30936: 22043 bytes OK
+2026/10/03-14:39:41.029 8ae Delete type=0 #30933
+2026/10/03-15:12:50.402 8ae Level-0 table #30938: started
+2026/10/03-15:12:50.405 8ae Level-0 table #30938: 22534 bytes OK
+2026/10/03-15:12:50.469 8ae Delete type=0 #30935
+2026/10/03-15:12:50.472 8ae Compacting 4@0 + 1@1 files
+2026/10/03-15:12:50.475 8ae Generated table #30939@0: 4208 keys, 121879 bytes
+2026/10/03-15:12:50.475 8ae Compacted 4@0 + 1@1 files => 121879 bytes
+2026/10/03-15:12:50.476 8ae compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/03-15:12:50.476 8ae Delete type=2 #30936
+2026/10/03-15:12:50.476 8ae Delete type=2 #30930
+2026/10/03-15:12:50.476 8ae Delete type=2 #30938
+2026/10/03-15:12:50.476 8ae Delete type=2 #30934
+2026/10/03-15:12:50.476 8ae Delete type=2 #30932
+2026/10/03-15:15:42.036 8b2 Level-0 table #30941: started
+2026/10/03-15:15:42.204 8b2 Level-0 table #30941: 22067 bytes OK
+2026/10/03-15:15:42.206 8b2 Delete type=0 #30937
+2026/10/03-15:18:43.451 8b2 Level-0 table #30943: started
+2026/10/03-15:18:43.455 8b2 Level-0 table #30943: 22088 bytes OK
+2026/10/03-15:18:43.456 8b2 Delete type=0 #30940
+2026/10/03-15:21:51.719 8ae Level-0 table #30945: started
+2026/10/03-15:21:51.723 8ae Level-0 table #30945: 22097 bytes OK
+2026/10/03-15:21:51.725 8ae Delete type=0 #30942
+2026/10/03-15:25:00.238 8ae Level-0 table #30947: started
+2026/10/03-15:25:00.362 8ae Level-0 table #30947: 22095 bytes OK
+2026/10/03-15:25:00.368 8ae Delete type=0 #30944
+2026/10/03-15:25:00.370 8ae Compacting 4@0 + 1@1 files
+2026/10/03-15:25:00.374 8ae Generated table #30948@0: 4208 keys, 121879 bytes
+2026/10/03-15:25:00.374 8ae Compacted 4@0 + 1@1 files => 121879 bytes
+2026/10/03-15:25:00.375 8ae compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/03-15:25:00.375 8ae Delete type=2 #30939
+2026/10/03-15:25:00.375 8ae Delete type=2 #30945
+2026/10/03-15:25:00.375 8ae Delete type=2 #30943
+2026/10/03-15:25:00.375 8ae Delete type=2 #30941
+2026/10/03-15:25:00.375 8ae Delete type=2 #30947
+2026/10/03-15:25:41.805 8b2 Level-0 table #30950: started
+2026/10/03-15:25:41.836 8b2 Level-0 table #30950: 23728 bytes OK
+2026/10/03-15:25:41.836 8b2 Delete type=0 #30946
+2026/10/03-15:26:12.136 8b2 Level-0 table #30952: started
+2026/10/03-15:26:12.215 8b2 Level-0 table #30952: 24029 bytes OK
+2026/10/03-15:26:12.216 8b2 Delete type=0 #30949
+2026/10/03-15:26:35.371 8ae Level-0 table #30954: started
+2026/10/03-15:26:35.451 8ae Level-0 table #30954: 17943 bytes OK
+2026/10/03-15:26:35.451 8ae Delete type=0 #30951
