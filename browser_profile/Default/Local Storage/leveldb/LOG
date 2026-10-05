@@ -1,22 +1,19 @@
-2026/10/05-19:53:52.668 899 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-030836
-2026/10/05-19:56:53.278 89d Level-0 table #31243: started
-2026/10/05-19:56:53.280 89d Level-0 table #31243: 24561 bytes OK
-2026/10/05-19:56:53.280 89d Delete type=0 #31241
-2026/10/05-19:56:53.280 89d Compacting 4@0 + 1@1 files
-2026/10/05-19:56:53.282 89d Generated table #31244@0: 4252 keys, 122384 bytes
-2026/10/05-19:56:53.282 89d Compacted 4@0 + 1@1 files => 122384 bytes
-2026/10/05-19:56:53.282 89d compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/10/05-19:56:53.282 89d Delete type=2 #31243
-2026/10/05-19:56:53.282 89d Delete type=2 #31233
-2026/10/05-19:56:53.282 89d Delete type=2 #31237
-2026/10/05-19:56:53.282 89d Delete type=2 #31235
-2026/10/05-19:56:53.282 89d Delete type=2 #31239
-2026/10/05-19:59:53.278 89d Level-0 table #31246: started
-2026/10/05-19:59:53.280 89d Level-0 table #31246: 18717 bytes OK
-2026/10/05-19:59:53.280 89d Delete type=0 #31242
-2026/10/05-20:00:23.042 899 Level-0 table #31248: started
-2026/10/05-20:00:23.044 899 Level-0 table #31248: 22727 bytes OK
-2026/10/05-20:00:23.044 899 Delete type=0 #31245
-2026/10/05-20:01:54.826 89d Level-0 table #31250: started
-2026/10/05-20:01:54.827 89d Level-0 table #31250: 24195 bytes OK
-2026/10/05-20:01:54.827 89d Delete type=0 #31247
+2026/10/05-20:44:31.200 9a7 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-030836
+2026/10/05-20:46:31.740 9ab Level-0 table #31254: started
+2026/10/05-20:46:31.743 9ab Level-0 table #31254: 23904 bytes OK
+2026/10/05-20:46:31.743 9ab Delete type=0 #31252
+2026/10/05-20:46:31.743 9ab Compacting 4@0 + 1@1 files
+2026/10/05-20:46:31.748 9ab Generated table #31255@0: 4254 keys, 122617 bytes
+2026/10/05-20:46:31.748 9ab Compacted 4@0 + 1@1 files => 122617 bytes
+2026/10/05-20:46:31.748 9ab compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/05-20:46:31.749 9ab Delete type=2 #31246
+2026/10/05-20:46:31.749 9ab Delete type=2 #31244
+2026/10/05-20:46:31.749 9ab Delete type=2 #31250
+2026/10/05-20:46:31.749 9ab Delete type=2 #31254
+2026/10/05-20:46:31.749 9ab Delete type=2 #31248
+2026/10/05-20:49:31.740 9ab Level-0 table #31257: started
+2026/10/05-20:49:31.743 9ab Level-0 table #31257: 18521 bytes OK
+2026/10/05-20:49:31.743 9ab Delete type=0 #31253
+2026/10/05-20:51:31.740 9ab Level-0 table #31259: started
+2026/10/05-20:51:31.742 9ab Level-0 table #31259: 18529 bytes OK
+2026/10/05-20:51:31.743 9ab Delete type=0 #31256
