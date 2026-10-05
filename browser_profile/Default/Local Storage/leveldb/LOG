@@ -1,1 +1,31 @@
-2026/10/05-15:38:50.553 9d0 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-030836
+2026/10/05-16:29:53.883 995 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-030836
+2026/10/05-16:31:55.354 999 Level-0 table #31206: started
+2026/10/05-16:31:55.358 999 Level-0 table #31206: 18572 bytes OK
+2026/10/05-16:31:55.359 999 Delete type=0 #31204
+2026/10/05-16:34:55.353 999 Level-0 table #31208: started
+2026/10/05-16:34:55.355 999 Level-0 table #31208: 18395 bytes OK
+2026/10/05-16:34:55.355 999 Delete type=0 #31205
+2026/10/05-16:36:54.598 995 Level-0 table #31210: started
+2026/10/05-16:36:54.600 995 Level-0 table #31210: 23607 bytes OK
+2026/10/05-16:36:54.601 995 Delete type=0 #31207
+2026/10/05-16:37:46.447 995 Level-0 table #31212: started
+2026/10/05-16:37:46.449 995 Level-0 table #31212: 22070 bytes OK
+2026/10/05-16:37:46.450 995 Delete type=0 #31209
+2026/10/05-16:37:46.451 995 Compacting 4@0 + 1@1 files
+2026/10/05-16:37:46.455 995 Generated table #31213@0: 4248 keys, 122056 bytes
+2026/10/05-16:37:46.455 995 Compacted 4@0 + 1@1 files => 122056 bytes
+2026/10/05-16:37:46.456 995 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/05-16:37:46.456 995 Delete type=2 #31206
+2026/10/05-16:37:46.456 995 Delete type=2 #31202
+2026/10/05-16:37:46.456 995 Delete type=2 #31212
+2026/10/05-16:37:46.456 995 Delete type=2 #31208
+2026/10/05-16:37:46.456 995 Delete type=2 #31210
+2026/10/05-16:39:11.959 995 Level-0 table #31215: started
+2026/10/05-16:39:11.962 995 Level-0 table #31215: 22387 bytes OK
+2026/10/05-16:39:11.963 995 Delete type=0 #31211
+2026/10/05-16:40:50.535 99d Level-0 table #31217: started
+2026/10/05-16:40:50.538 99d Level-0 table #31217: 22351 bytes OK
+2026/10/05-16:40:50.538 99d Delete type=0 #31214
+2026/10/05-16:42:35.428 99a Level-0 table #31219: started
+2026/10/05-16:42:35.430 99a Level-0 table #31219: 18925 bytes OK
+2026/10/05-16:42:35.431 99a Delete type=0 #31216
