@@ -1,1 +1,43 @@
-2026/10/05-18:11:34.532 8bc Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-030836
+2026/10/05-19:02:36.870 995 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-030836
+2026/10/05-19:05:37.500 999 Level-0 table #31223: started
+2026/10/05-19:05:37.502 999 Level-0 table #31223: 23973 bytes OK
+2026/10/05-19:05:37.503 999 Delete type=0 #31221
+2026/10/05-19:05:37.503 999 Compacting 4@0 + 1@1 files
+2026/10/05-19:05:37.508 999 Generated table #31224@0: 4250 keys, 122297 bytes
+2026/10/05-19:05:37.508 999 Compacted 4@0 + 1@1 files => 122297 bytes
+2026/10/05-19:05:37.508 999 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/05-19:05:37.508 999 Delete type=2 #31217
+2026/10/05-19:05:37.508 999 Delete type=2 #31219
+2026/10/05-19:05:37.508 999 Delete type=2 #31215
+2026/10/05-19:05:37.508 999 Delete type=2 #31223
+2026/10/05-19:05:37.508 999 Delete type=2 #31213
+2026/10/05-19:08:37.500 999 Level-0 table #31226: started
+2026/10/05-19:08:37.502 999 Level-0 table #31226: 18949 bytes OK
+2026/10/05-19:08:37.503 999 Delete type=0 #31222
+2026/10/05-19:09:55.914 995 Level-0 table #31228: started
+2026/10/05-19:09:55.916 995 Level-0 table #31228: 22924 bytes OK
+2026/10/05-19:09:55.917 995 Delete type=0 #31225
+2026/10/05-19:10:37.500 999 Level-0 table #31230: started
+2026/10/05-19:10:37.502 999 Level-0 table #31230: 23059 bytes OK
+2026/10/05-19:10:37.502 999 Delete type=0 #31227
+2026/10/05-19:13:34.934 99a Level-0 table #31232: started
+2026/10/05-19:13:34.936 99a Level-0 table #31232: 22278 bytes OK
+2026/10/05-19:13:34.937 99a Delete type=0 #31229
+2026/10/05-19:13:34.937 99a Compacting 4@0 + 1@1 files
+2026/10/05-19:13:34.940 99a Generated table #31233@0: 4250 keys, 122322 bytes
+2026/10/05-19:13:34.940 99a Compacted 4@0 + 1@1 files => 122322 bytes
+2026/10/05-19:13:34.941 99a compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/05-19:13:34.941 99a Delete type=2 #31230
+2026/10/05-19:13:34.941 99a Delete type=2 #31226
+2026/10/05-19:13:34.941 99a Delete type=2 #31224
+2026/10/05-19:13:34.941 99a Delete type=2 #31232
+2026/10/05-19:13:34.941 99a Delete type=2 #31228
+2026/10/05-19:16:37.501 999 Level-0 table #31235: started
+2026/10/05-19:16:37.503 999 Level-0 table #31235: 24186 bytes OK
+2026/10/05-19:16:37.504 999 Delete type=0 #31231
+2026/10/05-19:19:37.500 999 Level-0 table #31237: started
+2026/10/05-19:19:37.502 999 Level-0 table #31237: 18341 bytes OK
+2026/10/05-19:19:37.503 999 Delete type=0 #31234
+2026/10/05-19:21:37.501 999 Level-0 table #31239: started
+2026/10/05-19:21:37.502 999 Level-0 table #31239: 18994 bytes OK
+2026/10/05-19:21:37.503 999 Delete type=0 #31236

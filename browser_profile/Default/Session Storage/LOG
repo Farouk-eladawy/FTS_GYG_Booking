@@ -1,27 +1,4 @@
-2026/10/05-19:02:37.506 995 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-096164
-2026/10/05-19:05:22.527 995 Level-0 table #100615: started
-2026/10/05-19:05:22.532 995 Level-0 table #100615: 15389 bytes OK
-2026/10/05-19:05:22.536 995 Delete type=0 #100613
-2026/10/05-19:06:57.326 999 Level-0 table #100617: started
-2026/10/05-19:06:57.336 999 Level-0 table #100617: 623542 bytes OK
-2026/10/05-19:06:57.340 999 Delete type=0 #100614
-2026/10/05-19:09:12.657 999 Level-0 table #100619: started
-2026/10/05-19:09:12.659 999 Level-0 table #100619: 15377 bytes OK
-2026/10/05-19:09:12.662 999 Delete type=0 #100616
-2026/10/05-19:09:12.663 999 Compacting 4@0 + 2@1 files
-2026/10/05-19:09:12.716 999 Generated table #100620@0: 72748 keys, 2145556 bytes
-2026/10/05-19:09:12.738 999 Generated table #100621@0: 45068 keys, 1338477 bytes
-2026/10/05-19:09:12.738 999 Compacted 4@0 + 2@1 files => 3484033 bytes
-2026/10/05-19:09:12.739 999 compacted to: files[ 0 4 44 165 0 0 0 ]
-2026/10/05-19:09:12.742 999 Delete type=2 #100611
-2026/10/05-19:09:12.742 999 Delete type=2 #100615
-2026/10/05-19:09:12.742 999 Delete type=2 #100617
-2026/10/05-19:09:12.742 999 Delete type=2 #100608
-2026/10/05-19:09:12.742 999 Delete type=2 #100609
-2026/10/05-19:09:12.742 999 Delete type=2 #100619
-2026/10/05-19:21:42.131 999 Level-0 table #100623: started
-2026/10/05-19:21:42.134 999 Level-0 table #100623: 13062 bytes OK
-2026/10/05-19:21:42.137 999 Delete type=0 #100618
-2026/10/05-19:22:16.965 999 Level-0 table #100625: started
-2026/10/05-19:22:16.979 999 Level-0 table #100625: 615103 bytes OK
-2026/10/05-19:22:16.982 999 Delete type=0 #100622
+2026/10/05-19:53:53.281 899 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-096164
+2026/10/05-20:01:42.286 899 Level-0 table #100629: started
+2026/10/05-20:01:42.289 899 Level-0 table #100629: 13634 bytes OK
+2026/10/05-20:01:42.292 899 Delete type=0 #100627
