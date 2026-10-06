@@ -1,1 +1,40 @@
-2026/10/06-00:58:49.420 9a4 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-030836
+2026/10/06-01:49:30.388 990 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-030836
+2026/10/06-01:52:30.885 98c Level-0 table #31289: started
+2026/10/06-01:52:30.889 98c Level-0 table #31289: 24783 bytes OK
+2026/10/06-01:52:30.890 98c Delete type=0 #31287
+2026/10/06-01:52:30.890 98c Compacting 4@0 + 1@1 files
+2026/10/06-01:52:30.894 98c Generated table #31290@0: 4262 keys, 122988 bytes
+2026/10/06-01:52:30.894 98c Compacted 4@0 + 1@1 files => 122988 bytes
+2026/10/06-01:52:30.894 98c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/06-01:52:30.894 98c Delete type=2 #31289
+2026/10/06-01:52:30.894 98c Delete type=2 #31285
+2026/10/06-01:52:30.894 98c Delete type=2 #31281
+2026/10/06-01:52:30.894 98c Delete type=2 #31277
+2026/10/06-01:52:30.894 98c Delete type=2 #31283
+2026/10/06-01:54:32.376 990 Level-0 table #31292: started
+2026/10/06-01:54:32.381 990 Level-0 table #31292: 18288 bytes OK
+2026/10/06-01:54:32.381 990 Delete type=0 #31288
+2026/10/06-01:56:10.022 98c Level-0 table #31294: started
+2026/10/06-01:56:10.026 98c Level-0 table #31294: 23100 bytes OK
+2026/10/06-01:56:10.027 98c Delete type=0 #31291
+2026/10/06-01:58:30.886 990 Level-0 table #31296: started
+2026/10/06-01:58:30.887 990 Level-0 table #31296: 23030 bytes OK
+2026/10/06-01:58:30.887 990 Delete type=0 #31293
+2026/10/06-02:00:30.886 990 Level-0 table #31298: started
+2026/10/06-02:00:30.887 990 Level-0 table #31298: 22886 bytes OK
+2026/10/06-02:00:30.888 990 Delete type=0 #31295
+2026/10/06-02:00:30.888 990 Compacting 4@0 + 1@1 files
+2026/10/06-02:00:30.891 990 Generated table #31299@0: 4262 keys, 122865 bytes
+2026/10/06-02:00:30.891 990 Compacted 4@0 + 1@1 files => 122865 bytes
+2026/10/06-02:00:30.891 990 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/06-02:00:30.891 990 Delete type=2 #31296
+2026/10/06-02:00:30.891 990 Delete type=2 #31298
+2026/10/06-02:00:30.891 990 Delete type=2 #31294
+2026/10/06-02:00:30.891 990 Delete type=2 #31292
+2026/10/06-02:00:30.891 990 Delete type=2 #31290
+2026/10/06-02:03:30.885 990 Level-0 table #31301: started
+2026/10/06-02:03:30.887 990 Level-0 table #31301: 22285 bytes OK
+2026/10/06-02:03:30.888 990 Delete type=0 #31297
+2026/10/06-02:05:12.655 98c Level-0 table #31303: started
+2026/10/06-02:05:12.660 98c Level-0 table #31303: 18367 bytes OK
+2026/10/06-02:05:12.661 98c Delete type=0 #31300
