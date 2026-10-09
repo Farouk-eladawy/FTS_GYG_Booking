@@ -1,10 +1,22 @@
-2026/10/09-04:28:34.600 98e Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-096164
-2026/10/09-04:31:05.575 98e Level-0 table #100919: started
-2026/10/09-04:31:05.577 98e Level-0 table #100919: 16702 bytes OK
-2026/10/09-04:31:05.581 98e Delete type=0 #100917
-2026/10/09-04:32:47.585 98e Level-0 table #100921: started
-2026/10/09-04:32:47.590 98e Level-0 table #100921: 16499 bytes OK
-2026/10/09-04:32:47.593 98e Delete type=0 #100918
-2026/10/09-04:34:39.483 98e Level-0 table #100923: started
-2026/10/09-04:34:39.485 98e Level-0 table #100923: 16603 bytes OK
-2026/10/09-04:34:39.490 98e Delete type=0 #100920
+2026/10/09-05:19:06.267 9a9 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Session Storage/MANIFEST-096164
+2026/10/09-05:23:09.328 9ad Level-0 table #100927: started
+2026/10/09-05:23:09.340 9ad Level-0 table #100927: 606538 bytes OK
+2026/10/09-05:23:09.344 9ad Delete type=0 #100925
+2026/10/09-05:23:09.345 9a9 Compacting 4@0 + 2@1 files
+2026/10/09-05:23:09.379 9a9 Generated table #100928@0: 30855 keys, 2117796 bytes
+2026/10/09-05:23:09.412 9a9 Generated table #100929@0: 72408 keys, 2145489 bytes
+2026/10/09-05:23:09.425 9a9 Generated table #100930@0: 17608 keys, 521798 bytes
+2026/10/09-05:23:09.425 9a9 Compacted 4@0 + 2@1 files => 4785083 bytes
+2026/10/09-05:23:09.426 9a9 compacted to: files[ 0 5 44 169 0 0 0 ]
+2026/10/09-05:23:09.428 9a9 Delete type=2 #100919
+2026/10/09-05:23:09.428 9a9 Delete type=2 #100927
+2026/10/09-05:23:09.428 9a9 Delete type=2 #100914
+2026/10/09-05:23:09.428 9a9 Delete type=2 #100921
+2026/10/09-05:23:09.428 9a9 Delete type=2 #100915
+2026/10/09-05:23:09.428 9a9 Delete type=2 #100923
+2026/10/09-05:35:02.327 9ad Level-0 table #100932: started
+2026/10/09-05:35:02.330 9ad Level-0 table #100932: 11898 bytes OK
+2026/10/09-05:35:02.332 9ad Delete type=0 #100926
+2026/10/09-05:36:38.420 9ad Level-0 table #100934: started
+2026/10/09-05:36:38.429 9ad Level-0 table #100934: 613552 bytes OK
+2026/10/09-05:36:38.431 9ad Delete type=0 #100931
