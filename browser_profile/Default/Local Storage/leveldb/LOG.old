@@ -1,10 +1,28 @@
-2026/10/10-02:30:42.927 93a Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-030836
-2026/10/10-02:30:42.927 940 Compacting 4@0 + 1@1 files
-2026/10/10-02:30:42.955 940 Generated table #32006@0: 4348 keys, 125632 bytes
-2026/10/10-02:30:42.955 940 Compacted 4@0 + 1@1 files => 125632 bytes
-2026/10/10-02:30:42.959 940 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/10/10-02:30:42.959 940 Delete type=2 #32003
-2026/10/10-02:30:42.959 940 Delete type=2 #31999
-2026/10/10-02:30:42.959 940 Delete type=2 #31997
-2026/10/10-02:30:42.959 940 Delete type=2 #31995
-2026/10/10-02:30:42.959 940 Delete type=2 #32001
+2026/10/10-03:21:20.035 9a6 Reusing MANIFEST /home/runner/work/FTS_GYG_Booking/FTS_GYG_Booking/browser_profile/Default/Local Storage/leveldb/MANIFEST-030836
+2026/10/10-03:23:20.746 9a6 Level-0 table #32010: started
+2026/10/10-03:23:20.749 9a6 Level-0 table #32010: 18467 bytes OK
+2026/10/10-03:23:20.750 9a6 Delete type=0 #32008
+2026/10/10-03:26:20.745 9ab Level-0 table #32012: started
+2026/10/10-03:26:20.747 9ab Level-0 table #32012: 19334 bytes OK
+2026/10/10-03:26:20.748 9ab Delete type=0 #32009
+2026/10/10-03:28:07.855 9ab Level-0 table #32014: started
+2026/10/10-03:28:07.856 9ab Level-0 table #32014: 23842 bytes OK
+2026/10/10-03:28:07.858 9ab Delete type=0 #32011
+2026/10/10-03:29:20.745 9ab Level-0 table #32016: started
+2026/10/10-03:29:20.747 9ab Level-0 table #32016: 22830 bytes OK
+2026/10/10-03:29:20.748 9ab Delete type=0 #32013
+2026/10/10-03:29:20.748 9ab Compacting 4@0 + 1@1 files
+2026/10/10-03:29:20.751 9ab Generated table #32017@0: 4350 keys, 125554 bytes
+2026/10/10-03:29:20.751 9ab Compacted 4@0 + 1@1 files => 125554 bytes
+2026/10/10-03:29:20.751 9ab compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/10-03:29:20.751 9ab Delete type=2 #32006
+2026/10/10-03:29:20.751 9ab Delete type=2 #32014
+2026/10/10-03:29:20.751 9ab Delete type=2 #32010
+2026/10/10-03:29:20.751 9ab Delete type=2 #32016
+2026/10/10-03:29:20.751 9ab Delete type=2 #32012
+2026/10/10-03:32:20.745 9ab Level-0 table #32019: started
+2026/10/10-03:32:20.746 9ab Level-0 table #32019: 23418 bytes OK
+2026/10/10-03:32:20.747 9ab Delete type=0 #32015
+2026/10/10-03:34:20.744 9ab Level-0 table #32021: started
+2026/10/10-03:34:20.746 9ab Level-0 table #32021: 23358 bytes OK
+2026/10/10-03:34:20.746 9ab Delete type=0 #32018
